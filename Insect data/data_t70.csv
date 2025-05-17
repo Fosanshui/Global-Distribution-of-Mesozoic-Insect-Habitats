@@ -1,0 +1,329 @@
+"","name","rank","early_i","late_i","max_ma","min_ma","lng","lat","paleolng","paleolat","group","max_m","min_m","Mlng","Mlat"
+"4810","Isoptera","infraorder","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Blattodea",7,7,-49.2426,40.4999
+"97","Xonpepetla rinconensis","species","Late Campanian","",83.5,70.6,-101.349998,25.25,-68.24,34.32,"Blattodea",8,7,-80.79,31.8997
+"110","Stantoniella cretacea","species","Middle Campanian","Late Campanian",83.5,70.6,-111.629997,45.82,-71.52,56.67,"Blattodea",8,7,-85.9378,53.9095
+"138","Isoptera","infraorder","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Blattodea",8,7,-83.0238,57.7064
+"448","Strictiblatta longanusis","species","Late Cretaceous","",100.5,66,117.309998,31.82,117.17,30.07,"Blattodea",10,7,107.9225,31.437
+"22101","Dermestidae","family","Late Campanian","",83.5,70.6,-112.640831,48.910831,-68.57,59.57,"Coleoptera",8,7,-84.6105,57.0145
+"3353","Dermestidae","family","Early Maastrichtian","",70.6,66,-151.51944,69.832222,-107.56,88.97,"Coleoptera",7,7,-126.7298,82.5917
+"30310","Curculionidae","family","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Coleoptera",7,7,-49.2426,40.4999
+"4601","Palaeoleptochromus schaufussi","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Coleoptera",8,7,-83.0238,57.7064
+"4612","Mesopachymerus antiqua","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Coleoptera",8,7,-83.0238,57.7064
+"870","Stenus (Nestus) imputribilis","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Coleoptera",8,7,134.7094,64.5706
+"871","Cretoquedius oculatus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Coleoptera",8,7,134.7094,64.5706
+"979","Cyllolithus mirandus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Coleoptera",8,7,134.7094,64.5706
+"1813","Metabuprestium sibiricum","species","Early Campanian","",83.5,70.6,146.737,63.248001,126.05,65.82,"Coleoptera",8,7,128.4855,67.0537
+"1814","Metabuprestium arkagalense","species","Early Campanian","",83.5,70.6,146.737,63.248001,126.05,65.82,"Coleoptera",8,7,128.4855,67.0537
+"1829","Curculionites hylobioides","species","Maastrichtian","",72.1,66,-101.730003,44.939999,-60.79,54.51,"Coleoptera",7,7,-74.4577,51.0305
+"1830","Curculionites vulpinus","species","Maastrichtian","",72.1,66,-101.730003,44.939999,-60.79,54.51,"Coleoptera",7,7,-74.4577,51.0305
+"1831","Curculionites","genus","Maastrichtian","",72.1,66,-101.730003,44.939999,-60.79,54.51,"Coleoptera",7,7,-74.4577,51.0305
+"1832","Carabites","genus","Maastrichtian","",72.1,66,-101.730003,44.939999,-60.79,54.51,"Coleoptera",7,7,-74.4577,51.0305
+"1833","Curculionites northropi","species","Maastrichtian","",72.1,66,-101.730003,44.939999,-60.79,54.51,"Coleoptera",7,7,-74.4577,51.0305
+"1834","Carabites russelli","species","Maastrichtian","",72.1,66,-101.730003,44.939999,-60.79,54.51,"Coleoptera",7,7,-74.4577,51.0305
+"2076","Hylobiites cretaceus","species","Early Campanian","Middle Campanian",83.5,70.6,-101.415001,50.695,-54.47,58.03,"Coleoptera",8,7,-71.0465,56.4261
+"2139","Polyphaga","suborder","Late Campanian","Early Maastrichtian",83.5,66,176.845444,-38.907539,-157.04,-54.86,"Coleoptera",8,7,-168.9006,-56.5336
+"2164","Lomatus hislopi","species","Late Maastrichtian","",70.6,66,79.07,21.174999,70.99,-31.06,"Coleoptera",7,7,60.9954,-27.4546
+"2165","Buprestidae","family","Late Maastrichtian","",70.6,66,79.07,21.174999,70.99,-31.06,"Coleoptera",7,7,60.9954,-27.4546
+"2166","Meristos hunteri","species","Late Maastrichtian","",70.6,66,79.07,21.174999,70.99,-31.06,"Coleoptera",7,7,60.9954,-27.4546
+"2167","Curculionidae","family","Late Maastrichtian","",70.6,66,79.07,21.174999,70.99,-31.06,"Coleoptera",7,7,60.9954,-27.4546
+"2354","Dorotheus guidensis","species","Late Campanian","",83.5,70.6,-72.419998,-50.91,-57.57,-51.03,"Coleoptera",8,7,-62.2983,-52.7056
+"2641","Palaeotanymecides hislopi","species","Late Maastrichtian","",70.6,66,79.07,21.174999,70.99,-31.06,"Coleoptera",7,7,60.9954,-27.4546
+"2943","Protopalnia magadanica","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Coleoptera",8,7,134.7094,64.5706
+"3035","Dermestidae","family","Middle Campanian","Late Campanian",83.5,70.6,101.056389,43.505833,96.62,38,"Coleoptera",8,7,89.9083,40.962
+"3598","Coleoptera","order","Late Maastrichtian","",70.6,66,1.04325,42.144447,10.84,30.15,"Coleoptera",7,7,1.2062,33.6762
+"3631","Dermestidae","family","Early Maastrichtian","",70.6,66,22.915501,45.5462,28.74,25.25,"Coleoptera",7,7,999.99,999.99
+"3650","Arkagalarhinus zherikhini","species","Early Campanian","",83.5,70.6,146.737,63.248001,126.05,65.82,"Coleoptera",8,7,128.4855,67.0537
+"3823","Neusiokia appalachiensis","species","Early Campanian","",83.5,70.6,-78.035004,35.352001,-40.72,37.1,"Coleoptera",8,7,-54.1515,36.6608
+"14711","Cecidomyiidae","family","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Diptera",7,7,-49.2426,40.4999
+"14810","Milichiidae","family","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Diptera",7,7,-49.2426,40.4999
+"14911","Metopina goeleti","species","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Diptera",7,7,-49.2426,40.4999
+"15011","Brachycera","suborder","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Diptera",7,7,-49.2426,40.4999
+"15111","Phoridae","family","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Diptera",7,7,-49.2426,40.4999
+"15210","Dohrniphora","genus","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Diptera",7,7,-49.2426,40.4999
+"28610","Cretocatocha mcalpinei","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"28710","Cretomiastor ferejunctus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"28810","Cretocordylomyia quadriseries","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"28910","Cretowinnertzia angustala","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"29110","Cretomiastor ferejunctus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"29210","Maksika intermedia","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"29311","Prioriphora setifemoralis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"29411","Maksika intermedia","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"29511","Prioriphora longicostalis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"29610","Limoniinae","subfamily","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"29711","Megathon zwicki","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"29810","Paleoculicis minutus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"29911","Plecia myersi","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"3005","Trichoneura (Trichoneura) canadensis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"30111","Macalpina incomparabilis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"30211","Limonia albertensis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"3581","Cretaceogaster pygmaeus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"37211","Nemedromia campania","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"37311","Nemedromia telescopica","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"4141","Cretaceogaster pygmaeus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4151","Nemedromia campania","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4161","Prolatomyia elongata","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4171","Cretodromia glaesa","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"418","Cretoplatypalpus americanus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"419","Mesoplatypalpus carpenteri","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4201","Apalocnemis canadambris","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4213","Archichrysotus manitobus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4272","Saigusaia pikei","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"4281","Syntemna fissurata","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"4502","Plesiognoriste carpenteri","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4514","Synapha longistyla","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4522","Nedocosia canadensis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4532","Zeliinia occidentalis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4541","Lecadonileia parvistyla","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4642","Cretonomyia pristina","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4652","Leptoconops (Leptoconops) primaevus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"4662","Leptoconops (Leptoconops) primaevus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4691","Atriculicoides ciliatus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"4701","Atriculicoides globosus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4713","Atriculicoides globosus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"4751","Atriculicoides","genus","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4792","Protoculicoides depressus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4802","Adelohelea glabra","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4814","Adelohelea glabra","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"4832","Heleageron arenatus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"4841","Heleageron arenatus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"487","Culicoides filipalpis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"488","Culicoides filipalpis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"4962","Culicoides tyrrelli","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"4972","Culicoides tyrrelli","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5022","Culicoides canadensis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5042","Culicoides canadensis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5072","Culicoides bullus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5092","Culicoides agamus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5105","Culicoides obuncus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5131","Culicoides obuncus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5142","Culicoides annosus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5152","Culicoides annosus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5162","Minyohelea pumilis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5182","Palaeobrachypogon aquilonius","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5191","Palaeobrachypogon aquilonius","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5201","Palaeobrachypogon remmi","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5215","Palaeobrachypogon remmi","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5232","Palaeobrachypogon vetus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5252","Palaeobrachypogon vetus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5271","Peronehelea chrimikalydia","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5291","Peronehelea chrimikalydia","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5362","Metriocnemus cretatus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5372","Spaniotoma conservata","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5382","Smittia veta","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5391","Sciadophora bostoni","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"5402","Prioriphora canadambra","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Diptera",8,7,-68.3693,58.8322
+"5741","Pollicitator pollicitator","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"5751","Syntemna zherikhini","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"5761","Syntemna tele","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"5772","Syntemna zhuzhan","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"5782","Palaeodocosia magadanica","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"6531","Cretaphormia fowleri","species","Late Campanian","",83.5,70.6,-112.667999,51.448002,-66.43,61.88,"Diptera",8,7,-83.1916,59.4394
+"7981","Palaeopetia minor","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"7991","Palaeopetia commemorabilis","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"800","Hermaeomyia dubia","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"8013","Eridomyia","genus","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"8021","Eridomyia ales","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"8031","Eridomyia captiosa","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"8041","Ironomyiidae","family","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"12851","Phoridae","family","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"13601","Protoculicoides depressus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"13621","Atriculicoides","genus","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"13651","Culicoides","genus","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"13671","Palaeobrachypogon","genus","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"13681","Stilobezzia pikei","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"13712","Peronehelea","genus","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"13731","Ceratopogonidae","family","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"1534","Platypezoidea","superfamily","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"15381","Promittor malus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"15571","Oloplatypeza munusculum","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Diptera",8,7,134.7094,64.5706
+"18641","Brachycera","suborder","Late Maastrichtian","",70.6,66,-103.25,45.240002,-62.92,55.18,"Diptera",7,7,-75.9579,51.6329
+"18651","Nematocera","suborder","Late Maastrichtian","",70.6,66,-103.25,45.240002,-62.92,55.18,"Diptera",7,7,-75.9579,51.6329
+"18661","Diptera","order","Late Maastrichtian","",70.6,66,-103.25,45.240002,-62.92,55.18,"Diptera",7,7,-75.9579,51.6329
+"23381","Culicidae","family","Late Campanian","",83.5,70.6,-110.76667,31.666668,-75.98,42.87,"Diptera",8,7,-89.0602,39.9566
+"23451","Neuseptychoptera carolinensis","species","Early Campanian","",83.5,70.6,-78.035004,35.352001,-40.72,37.1,"Diptera",8,7,-54.1515,36.6608
+"23621","Protoculicoides","genus","Late Campanian","",83.5,70.6,94.083336,21.683332,100.82,1.28,"Diptera",8,7,999.99,999.99
+"23631","Chironomidae","family","Late Campanian","",83.5,70.6,94.083336,21.683332,100.82,1.28,"Diptera",8,7,999.99,999.99
+"23731","Canadopeza biacrosticha","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Diptera",8,7,-83.0238,57.7064
+"14512","Heptageniidae","family","Late Campanian","",83.5,70.6,-119.990799,55.0854,-71.81,67.08,"Ephemeroptera",8,7,-89.5981,64.2654
+"36112","Reduviidae","family","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Hemiptera",7,7,-49.2426,40.4999
+"5253","Electrococcus canadensis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hemiptera",8,7,-68.3693,58.8322
+"6002","Canadaphis carpenteri","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6016","Aradus creticus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"6023","Cretamyzus pikei","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6033","Mesozoicaphis tuberculata","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6043","Mesozoicaphis canadensis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6053","Mesozoicaphis parva","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6063","Calgariaphis unguifera","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6073","Albertaphis longirostris","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6082","Campaniaphis albertae","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6092","Mesozoicaphis electri","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6116","Jascopus notabilis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hemiptera",8,7,-68.3693,58.8322
+"6123","Longiradius foottitti","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6143","Canaphis albertensis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6152","Aphidinius constrictus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6193","Palaeoaphis archimedia","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hemiptera",8,7,-68.3693,58.8322
+"6203","Ambaraphis costalis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hemiptera",8,7,-68.3693,58.8322
+"6216","Alloambria caudata","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hemiptera",8,7,-68.3693,58.8322
+"6223","Pseudambria longirostris","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hemiptera",8,7,-68.3693,58.8322
+"6233","Aniferella bostoni","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"6243","Canadaphis carpenteri","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hemiptera",8,7,-68.3693,58.8322
+"6623","Anirma longiclavalis","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"6633","Manaria minor","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"6643","Cretamiris zherikhini","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"6653","Armanomiris cretaceous","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"6663","Armanomiris klimaszewskii","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"6815","Popovophysa entzmingeri","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"7071","Alydidae","family","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"12292","Mesosigara kryshtofovichi","species","Late Maastrichtian","",70.6,66,129.483307,49.483299,116.77,48.58,"Hemiptera",7,7,115.4501,51.2417
+"14531","Mesojassoides gigantea","species","Late Maastrichtian","",70.6,66,-103.855003,39.924999,-67.24,50.52,"Hemiptera",7,7,-78.8727,46.6506
+"14542","Coreidae","family","Late Maastrichtian","",70.6,66,-103.855003,39.924999,-67.24,50.52,"Hemiptera",7,7,-78.8727,46.6506
+"15401","Diaspididae","family","Maastrichtian","",72.1,66,169.9095,-46.305,-146.45,-53.03,"Hemiptera",7,7,-156.9035,-59.7846
+"15772","Ambaraphis kotejai","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hemiptera",8,7,-68.3693,58.8322
+"15782","Alloambria infelicis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hemiptera",8,7,-68.3693,58.8322
+"18532","Palaeoaphidiella abdominalis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"18542","Grassyaphis pikei","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"18552","Palaeoaphis archimedia","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"18562","Ambaraphis costalis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"18801","Cretaceomira phalanx","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hemiptera",8,7,-83.0238,57.7064
+"18913","Palaeoaphis armani","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"18922","Canadaphis kovalevi","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"18931","Alloambria phoenicis","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hemiptera",8,7,134.7094,64.5706
+"21402","Achilidae","family","Late Campanian","",83.5,70.6,94.083336,21.683332,100.82,1.28,"Hemiptera",8,7,999.99,999.99
+"22181","Cretamyzidae","family","Late Campanian","",83.5,70.6,-111.5,50.75,-65.68,60.93,"Hemiptera",8,7,-82.2585,58.5482
+"22214","Sternorrhyncha","suborder","Late Campanian","",83.5,70.6,-119.108101,55.0639,-70.68,66.83,"Hemiptera",8,7,-88.5134,64.0848
+"10107","Dryinus canadensis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"14109","Armania robusta","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"15108","Pseudarmania rasnitsyni","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"16109","Pseudarmania aberrans","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"17116","Armania curiosa","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"18109","Archaeopone taylori","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"19107","Poneropterus sphecoides","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"2735","Cretotrigona prisca","species","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Hymenoptera",7,7,-49.2426,40.4999
+"3856","Magadanobracon rasnitsyni","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"3917","Magadanobracon zherikhini","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"4018","Cretorhyssalus brevis","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"6117","Cananeuretus occidentalis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"8816","Labenopimpla rasnitsyni","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"8916","Labenopimpla kasparyani","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9015","Armanopimpla zherikhini","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9116","Ramulimonstrum intermedium","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9216","Rugopimpla vulgaris","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9316","Rugopimpla fallax","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9416","Rugopimpla angusticella","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9516","Rugopimpla macra","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9613","Rugopimpla matrona","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9716","Micropimpla lucida","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9815","Micropimpla obscura","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9916","Tryphopimpla xoridoptera","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"10016","Ichneumonidae","family","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"10115","Rugopimpla","genus","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"10215","Micropimpla","genus","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"10316","Labenopimplinae","subfamily","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"10615","Scelioninae","subfamily","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Hymenoptera",7,7,-49.2426,40.4999
+"10716","Mymarommatidae","family","Late Maastrichtian","",70.6,66,-74.758331,40.120834,-37.9,41.35,"Hymenoptera",7,7,-49.2426,40.4999
+"29414","Iscopinus separatus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"37612","Eotapinoma macalpini","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"3779","Canapone dentata","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"37813","Lisponema singularis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"37913","Procleptes carpenteri","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"38113","Serphites paradoxus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"38212","Serphites bruesi","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"38313","Serphites kuzminae","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"38413","Jubaserphites ethani","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"3857","Serphites paradoxus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"3873","Serphites hynemani","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"3883","Serphites pygmaeus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"3952","Archaeromma minutissimum","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"3973","Archaeromma minutissimum","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"3993","Archaeromma nearcticum","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4022","Archaeromma","genus","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4032","Triadomerus bulbosus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4043","Triadomerus","genus","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4054","Carpenteriana tumida","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4064","Archaeromma masneri","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4073","Enneagmus pristinus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4084","Distylopus bisegmentus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4092","Bouceklytus arcuodens","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"41010","Baeomorpha dubitata","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4117","Baeomorpha ovatata","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4143","Triadomerus bulbosus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4153","Baeomorpha dubitata","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4163","Baeomorpha ovatata","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4243","Macalpinia canadensis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4283","Archaeromma nearcticum","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4342","Boltonimecia canadensis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4673","Cretoscolia promissiva","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"4722","Proliopteron redactus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4732","Tanaoknemus ecarinatus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4742","Micropresbyteria caputipressa","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4753","Anteucoila delicia","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4763","Goerania petiolata","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"4823","Protimaspis costalis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4834","Diorhyssalus allani","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4843","Pygostolus patriarchicus","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4853","Neoblacus facialis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4861","Baryconus fulleri","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4872","Proteroscelio antennalis","species","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4882","Apocrita","suborder","Late Campanian","",83.5,70.6,-100.599998,53.450001,-51.04,60.21,"Hymenoptera",8,7,-68.3693,58.8322
+"4992","Tagsmiphron spiculum","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"5001","Tagsmiphron leucki","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"50110","Tagsmiphron exitorum","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"5024","Conostigmus cavannus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"6074","Aculeata","unranked clade","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"6083","Gonatopus cretacicus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"6093","Anteonopsis antiquus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"6254","Tagsmiphron canadense","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"6303","Gerocynips","genus","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"6317","Gerocynips sibirica","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"6321","Gerocynips florenskayae","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"6334","Antiquecynips orientalis","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"6344","Arctogerocynips magadanicus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"7093","Ahstemiam cellula","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"7143","Hymenoptera","order","Late Campanian","Early Maastrichtian",83.5,66,-67.317139,-39.409176,-50.18,-40.37,"Hymenoptera",8,7,-55.1615,-41.6668
+"8043","Prosyntexis okhotensis","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"9122","Chronomyrmex medicinehatensis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"9132","Formicidae","family","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"9142","Haidoterminus cippus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"9273","Pareubaeus rasnitsyni","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"9282","Pareubaeus incertus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"9292","Albertocryptus dossenus","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"10281","Necrobythus pulcher","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"10292","Sphakelobythus limnopous","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"10416","Baikuris","genus","Early Campanian","",83.5,70.6,-78.035004,35.352001,-40.72,37.1,"Hymenoptera",8,7,-54.1515,36.6608
+"13082","Celonophamia granama","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"13092","Bethylidae","family","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"131010","Procleptes eoliami","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"13115","Procleptes hopejohnsonae","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"13122","Cleptinae","subfamily","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"13132","Chrysididae","family","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Hymenoptera",8,7,-83.0238,57.7064
+"13931","Thoracotrema caudatum","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"14503","Mesocephus leleji","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"14516","Mesocephus brachycerus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"15773","Braconidae","family","Late Campanian","",83.5,70.6,94.083336,21.683332,100.82,1.28,"Hymenoptera",8,7,999.99,999.99
+"15783","Diapriinae","subfamily","Late Campanian","",83.5,70.6,94.083336,21.683332,100.82,1.28,"Hymenoptera",8,7,999.99,999.99
+"15792","Scelioninae","subfamily","Late Campanian","",83.5,70.6,94.083336,21.683332,100.82,1.28,"Hymenoptera",8,7,999.99,999.99
+"15803","Dolichoderinae","subfamily","Late Campanian","",83.5,70.6,94.083336,21.683332,100.82,1.28,"Hymenoptera",8,7,999.99,999.99
+"15833","Ponerinae","subfamily","Late Campanian","",83.5,70.6,94.083336,21.683332,100.82,1.28,"Hymenoptera",8,7,999.99,999.99
+"16322","Curiosyntexis magadanicus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Hymenoptera",8,7,134.7094,64.5706
+"17002","Archaeromma trigonokephalion","species","Late Campanian","",83.5,70.6,-119.108101,55.0639,-70.68,66.83,"Hymenoptera",8,7,-88.5134,64.0848
+"11024","Corydalites fecundum","species","Lancian","",70.6,66,-104.620003,40.450001,-67.77,51.24,"Megaloptera",7,7,-79.4963,47.3111
+"17417","Arctopsychops zherikhini","species","Early Campanian","",83.5,70.6,146.737,63.248001,126.05,65.82,"Neuroptera",8,7,128.4855,67.0537
+"17515","Imanosmylus ussuriensis","species","Maastrichtian","",72.1,66,133.768997,45.955002,122.67,46.16,"Neuroptera",7,7,121.0834,48.4882
+"17717","Plesiorobius sibiricus","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Neuroptera",8,7,134.7094,64.5706
+"17817","Cretachrysa martynovi","species","Early Campanian","",83.5,70.6,150.490005,60.167,133.08,63.88,"Neuroptera",8,7,134.7094,64.5706
+"19516","Plesiorobius canadensis","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Neuroptera",8,7,-83.0238,57.7064
+"19617","Albertoberotha leuckorum","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Neuroptera",8,7,-83.0238,57.7064
+"4384","Berothidae","family","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Neuroptera",8,7,-83.0238,57.7064
+"6305","Dactylomyius septentrionalis","species","Early Campanian","",83.5,70.6,146.737,63.248001,126.05,65.82,"Neuroptera",8,7,128.4855,67.0537
+"8244","Berothidae","family","Late Campanian","",83.5,70.6,94.083336,21.683332,100.82,1.28,"Neuroptera",8,7,999.99,999.99
+"41012","Anisoptera","suborder","Late Campanian","",83.5,70.6,-101.349998,25.25,-68.24,34.32,"Odonata",8,7,-80.79,31.8997
+"7744","Hemiphlebiidae","family","Late Maastrichtian","",70.6,66,-103.25,45.240002,-62.92,55.18,"Odonata",7,7,-75.9579,51.6329
+"9205","Odonata","order","Late Campanian","",83.5,70.6,-101.699997,25.470833,-68.53,34.62,"Odonata",8,7,-81.0969,32.1845
+"94110","Dakotaeschnidium spedeni","species","Late Maastrichtian","",70.6,66,-101.010002,45.275002,-60.43,54.51,"Odonata",7,7,-73.5263,51.1996
+"9424","Aeschnidiidae","family","Late Maastrichtian","",70.6,66,-103.879997,46.150002,-62.9,56.19,"Odonata",7,7,-76.2047,52.6323
+"10744","Hagla","genus","Maastrichtian","",72.1,66,21.866667,-29.799723,11.69,-46.73,"Orthoptera",7,7,8.4251,-42.2347
+"10224","Mesoraphidiidae","family","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Raphidioptera",8,7,-83.0238,57.7064
+"5169","Electralberta cretacica","species","Middle Campanian","",83.5,70.6,-111.699997,49.825001,-66.71,60.15,"Trichoptera",8,7,-83.0238,57.7064
+"6630","Wormaldia praemissa","species","Campanian","",83.6,72.1,-88.294998,35.275002,-50.47,39.9,"Trichoptera",8,7,-64.3691,38.8704
+"20920","Petropteron mirandum","species","Late Campanian","",83.5,70.6,-105.209999,40.025002,-65.94,49.34,"Trichoptera",8,7,-80.2994,47.019
+"39114","Trichoptera","order","Early Maastrichtian","",70.6,66,-112.673378,51.455544,-68.27,63.56,"Trichoptera",7,7,-83.1933,59.4476

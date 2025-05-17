@@ -1,0 +1,339 @@
+"","name","rank","early_i","late_i","max_ma","min_ma","lng","lat","paleolng","paleolat","group","max_m","min_m","Mlng","Mlat"
+"55","Protomyrmeleon brunonis","species","Sinemurian","",199.3,190.8,-2.925,50.73,10.33,37.17,"Archizygoptera",20,19,5.4893,38.0506
+"41","Blattodea","order","Sinemurian","",199.3,190.8,28.75,-30.42,16.11,-44.39,"Blattodea",20,19,-2.5994,-43.1756
+"49","Nannoblattina petulantia","species","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Blattodea",20,19,5.4932,38.0514
+"151","Mesoblattina multivenosa","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Blattodea",19,18,76.0979,45.9565
+"154","Blattula kiensis","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Blattodea",19,18,76.0979,45.9565
+"155","Blattula turanica","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Blattodea",19,18,76.0979,45.9565
+"156","Blattula elongata","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Blattodea",19,18,76.0979,45.9565
+"157","Blattula","genus","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Blattodea",19,18,76.0979,45.9565
+"158","Kokandoblattina analis","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Blattodea",19,18,76.0979,45.9565
+"159","Blattodea","order","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Blattodea",19,18,76.0979,45.9565
+"302","Mesoblattina multivenosa","species","Pliensbachian","",190.8,182.7,110.614998,30.959999,132.74,40.6,"Blattodea",19,18,115.7942,37.797
+"367","Blattula zaoshangensis","species","Sinemurian","",199.3,190.8,113.849998,28.014999,135.3,41.41,"Blattodea",20,19,119.9502,35.456
+"369","Blattula kiensis","species","Sinemurian","",199.3,190.8,113.849998,28.014999,135.3,41.41,"Blattodea",20,19,119.9502,35.456
+"21101","Metacupes harrisi","species","Hettangian","Sinemurian",201.3,190.8,-3.570556,51.465279,9.24,37.3,"Coleoptera",20,19,4.7655,38.6694
+"5511","Ovivagina longa","species","Hettangian","Sinemurian",201.3,190.8,86,44.174999,97.06,61.82,"Coleoptera",20,19,88.8679,53.214
+"5611","Artematopodites propinquus","species","Hettangian","Sinemurian",201.3,190.8,85.669998,43.950001,96.8,61.52,"Coleoptera",20,19,88.6257,52.9213
+"5711","Artematopodites prolixus","species","Hettangian","Sinemurian",201.3,190.8,85.669998,43.950001,96.8,61.52,"Coleoptera",20,19,88.6257,52.9213
+"21810","Coleoptera","order","Sinemurian","",199.3,190.8,28.75,-30.42,16.11,-44.39,"Coleoptera",20,19,-2.5994,-43.1756
+"317","Holcoptera giebeli","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Coleoptera",20,19,5.5141,38.0585
+"318","Holcoptera alisonae","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Coleoptera",20,19,5.5141,38.0585
+"319","Holcoptera giebeli","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Coleoptera",20,19,5.4893,38.0506
+"320","Liassocupes parvus","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Coleoptera",20,19,5.4893,38.0506
+"3233","Brochocoleus maculatus","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Coleoptera",20,19,5.5141,38.0585
+"3241","Mimemala giganteum","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Coleoptera",20,19,5.5141,38.0585
+"32510","Elaterophanes regius","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Coleoptera",20,19,5.4893,38.0506
+"3261","Elaterina liassica","species","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Coleoptera",20,19,5.4932,38.0514
+"3277","Carabidae","family","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Coleoptera",20,19,5.4932,38.0514
+"3283","Byrrhoidea","superfamily","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Coleoptera",20,19,5.4932,38.0514
+"32910","Dryopoidea","superfamily","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Coleoptera",20,19,5.4932,38.0514
+"33010","Curculionoidea","superfamily","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Coleoptera",20,19,5.4932,38.0514
+"331","Curculionidae","family","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Coleoptera",20,19,5.4932,38.0514
+"33210","Coleoptera","order","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Coleoptera",20,19,5.4932,38.0514
+"3434","Omma liassicum","species","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Coleoptera",20,19,5.4932,38.0514
+"3441","Holcoptera giebeli","species","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Coleoptera",20,19,5.4932,38.0514
+"34610","Elaterina liassica","species","Sinemurian","",199.3,190.8,-2.92,50.732498,10.33,37.17,"Coleoptera",20,19,5.4924,38.0538
+"4651","Mormolucoides articulatus","species","Hettangian","Sinemurian",201.3,190.8,-72.509003,42.603001,-9.22,22.11,"Coleoptera",20,19,-16.8387,26.3694
+"4661","Mormolucoides articulatus","species","Hettangian","Sinemurian",201.3,190.8,-72.514999,42.603001,-9.22,22.11,"Coleoptera",20,19,-16.8436,26.3691
+"4671","Mormolucoides articulatus","species","Hettangian","Sinemurian",201.3,190.8,-72.525002,42.604,-9.23,22.11,"Coleoptera",20,19,-16.8519,26.3696
+"4911","Notocupes issykkulensis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"4921","Notocupes kirghizicus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"4931","Notocupes latus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"4941","Notocupes sogutensis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"4951","Notocupes cellulosus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"4971","Notocupes crassus","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Coleoptera",19,18,76.0979,45.9565
+"500","Eurydictyon conspicuum","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Coleoptera",19,18,76.0979,45.9565
+"5012","Allophalerus aphaleratus","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Coleoptera",19,18,76.0979,45.9565
+"5021","Allophalerus incertus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"503","Omma avus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"5121","Ranis collevus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"5221","Petrosyne liassica","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Coleoptera",19,18,76.0979,45.9565
+"5461","Salebrocoleus megacephalus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"5471","Salebrocoleus sternalis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"5481","Tersoides elongatus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"5612","Parathnesidius oculatus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"6661","Platycoxa armata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"710","Lithorabus incertus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"1052","Tersus crowsoni","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Coleoptera",20,19,5.5141,38.0585
+"1070","Mesogyrus sibiricus","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Coleoptera",19,18,82.9016,63.1054
+"1096","Memptus handlirschi","species","Pliensbachian","Toarcian",190.8,174.1,87.529999,54.497002,96.68,65.24,"Coleoptera",19,17,82.9016,63.1054
+"1106","Ochtebiites minor","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Coleoptera",19,18,82.9016,63.1054
+"1149","Strongylites stygius","species","Pliensbachian","Toarcian",190.8,174.1,87.529999,54.497002,96.68,65.24,"Coleoptera",19,17,82.9016,63.1054
+"1396","Coleopteron","genus","Late Sinemurian","",196.5,189.6,-2.27,51.869999,10.68,39.11,"Coleoptera",20,19,5.6479,39.2556
+"1404","Coleopteron","genus","Sinemurian","Aalenian",199.3,170.3,75.833336,25.183332,50.46,-21.55,"Coleoptera",20,17,37.9877,-23.7309
+"1630","Phoroschizidae","family","Pliensbachian","",190.8,182.7,87.480003,43.125,104.82,58.19,"Coleoptera",19,18,91.1261,52.5863
+"1674","Polyphaga","suborder","Pliensbachian","",190.8,182.7,87.480003,43.125,104.82,58.19,"Coleoptera",19,18,91.1261,52.5863
+"1689","Coleoptera","order","Pliensbachian","",190.8,182.7,87.480003,43.125,104.82,58.19,"Coleoptera",19,18,91.1261,52.5863
+"2153","Holcoptera giebeli","species","Hettangian","Sinemurian",201.3,190.8,-72.608002,41.979,-9.16,21.49,"Coleoptera",20,19,-16.8742,25.7419
+"2155","Holcoptera giebeli","species","Hettangian","Sinemurian",201.3,190.8,-72.509003,42.603001,-9.22,22.11,"Coleoptera",20,19,-16.8387,26.3694
+"2156","Mormolucoides articulatus","species","Hettangian","Sinemurian",201.3,190.8,-72.518501,42.605499,-9.23,22.11,"Coleoptera",20,19,-16.8466,26.3714
+"2161","Polyphaga","suborder","Hettangian","Sinemurian",201.3,190.8,-72.595001,42.214001,-9.2,21.72,"Coleoptera",20,19,-16.8807,25.977
+"2370","Metrorhynchites putativus","species","Sinemurian","",199.3,190.8,113.849998,28.014999,135.3,41.41,"Coleoptera",20,19,119.9502,35.456
+"2371","Artinama qinghuoensis","species","Sinemurian","",199.3,190.8,113.945,28.065001,135.41,41.47,"Coleoptera",20,19,120.0399,35.5208
+"2578","Notocupes","genus","Sinemurian","",199.3,190.8,117.470001,28.635,139.5,42.28,"Coleoptera",20,19,123.685,36.6486
+"2909","Protagrypnus exoletus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"2910","Praelaterium problematicum","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"2911","Micragrypnites issykiensis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"2912","Elaterocoleus oculatus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Coleoptera",20,19,80.099,49.5909
+"3192","Holcoptera schlotheimi","species","Hettangian","Sinemurian",201.3,190.8,-72.675003,41.966999,-9.21,21.46,"Coleoptera",20,19,-16.9285,25.7267
+"3193","Holcoptera schlotheimi","species","Turneri","",196.5,189.6,-2.925,50.730999,10.81,37.91,"Coleoptera",20,19,5.489,38.0516
+"3198","Holcoptera alisonae","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Coleoptera",20,19,5.4893,38.0506
+"3200","Holcoptera giebeli","species","Obtusum","",196.5,189.6,-2.89,50.741001,10.83,37.92,"Coleoptera",20,19,5.5133,38.0665
+"3201","Holcoptera alisonae","species","Obtusum","",196.5,189.6,-2.89,50.741001,10.83,37.92,"Coleoptera",20,19,5.5133,38.0665
+"3205","Holcoptera giebeli","species","Turneri","",196.5,189.6,-2.925,50.730999,10.81,37.91,"Coleoptera",20,19,5.489,38.0516
+"3206","Holcoptera giebeli","species","Turneri","",196.5,189.6,-2.933333,50.716667,10.81,37.89,"Coleoptera",20,19,5.4868,38.0364
+"3207","Holcoptera alisonae","species","Turneri","",196.5,189.6,-2.933333,50.716667,10.81,37.89,"Coleoptera",20,19,5.4868,38.0364
+"4102","Brevicula gradus","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Dermaptera",20,19,5.4893,38.0506
+"9411","Brevicula gradus","species","Turneri","",196.5,189.6,-2.933333,50.716667,10.81,37.89,"Dermaptera",20,19,5.4868,38.0364
+"9511","Brevicula maculata","species","Turneri","",196.5,189.6,-2.933333,50.716667,10.81,37.89,"Dermaptera",20,19,5.4868,38.0364
+"10310","Dacryoderma teres","species","Obtusum","",196.5,189.6,-2.895,50.742001,10.82,37.92,"Dermaptera",20,19,5.5091,38.0668
+"3059","Palaeobrachyceron nagatomii","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Diptera",19,18,82.9016,63.1054
+"12411","Nadiptera anachrona","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"17711","Eoptychoptera spectra","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Diptera",20,19,5.5141,38.0585
+"5342","Megarhyphus amberae","species","Turneri","",196.5,189.6,-2.948,50.717999,10.8,37.89,"Diptera",20,19,5.4749,38.0355
+"5415","Oligophryne fungivoroides","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"5421","Oligophryne britannica","species","Late Sinemurian","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Diptera",20,19,5.5141,38.0585
+"5892","Crosaphididae","family","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6242","Rhaetofungivora reticulata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6252","Mesorhyphus rhaeticus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6262","Tipulodictya minima","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6271","Eopolyneura tenuinervis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6282","Musidoromima crassinervis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6292","Dictyotipula densa","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6301","Diplarchitipula multimedialis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6313","Architendipes tshernovskiji","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6332","Rhaetomyia necopinata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6342","Pleciodictya modesta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6352","Protoligoneura fusicosta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6362","Palaeoplecia rhaetica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6382","Protoligoneura subcosta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6392","Prohesperinus defectivus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6401","Archipleciomima curta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6412","Mesopleciella phryneoides","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6422","Archipleciofungivora binerva","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6432","Archipleciomima obtusipennis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6442","Mesopleciella longipennis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"6452","Protoplecia magna","species","Sinemurian","",199.3,190.8,77.199997,42.700001,87.56,57.7,"Diptera",20,19,80.099,49.5909
+"770","Syndixa liasina","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11021","Architipula radiata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11031","Architipula turanica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11041","Architipula asiatica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11051","Protoligoneura mediicubitalis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11061","Archipleciomima destructimedia","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11071","Pareopolyneura costalis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11091","Rhaetofungivora radiimedialis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11103","Diplarchitipula destructa","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"1111","Rhaetofungivora perreticulata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11131","Protoplecia magna","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11161","Rhaetofungivora maxima","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11221","Protoligoneura quadrimedialis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11231","Protoligoneura subcostalis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11271","Protorhyphus turanicus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"11281","Protoligoneura minor","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"18212","Eoptychoptera aequidistans","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"18221","Eoptychoptera vitrea","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"18312","Dipterodictya tipuloides","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"18321","Paradictyodiptera trianalis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"18331","Hyperpolyneura phryganeoides","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"18341","Dyspolyneura longipennis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"18351","Diplopolyneura mirabilis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"23561","Mailotrichocera praedicta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Diptera",20,19,80.099,49.5909
+"26481","Nannotanyderus oliviae","species","Turneri","",196.5,189.6,-2.948,50.717999,10.8,37.89,"Diptera",20,19,5.4749,38.0355
+"8713","Mesobaetis sibirica","species","Early Jurassic","",201.3,174.1,87.735001,53.775002,96.12,68.87,"Ephemeroptera",20,17,83.8306,62.5091
+"10213","Foliomimus imitans","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Ephemeroptera",19,18,82.9016,63.1054
+"21713","Epeoromimus kazlauskasi","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Ephemeroptera",19,18,82.9016,63.1054
+"15106","Fletcheriana jurassica","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Hemiptera",20,19,86.7886,54.2751
+"16106","Plachutella exculpta","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Hemiptera",20,19,86.7886,54.2751
+"17108","Martynovocossus strenus","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Hemiptera",20,19,86.7886,54.2751
+"5817","Cicadocoris minutus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"5914","Cicadocoris parallelus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"6015","Cicadocoris confinis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"6115","Cicadocoris arcuatus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"6215","Cicadocoris complexus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"6314","Cicadocoris conjunctus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"6414","Olgamartynovia distincta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"6515","Cicadocoris frater","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"6714","Cicadocoris affinis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"6814","Cicadocoris turanicus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"6915","Olgamartynovia beckermigdisovae","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"7014","Cicadocoris sogjutensis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"7115","Olgamartynovia rigida","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"7413","Cicadocoris ignoratus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"7514","Olgamartynovia nana","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"7713","Cicadocoris similis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"36411","Paraprosbole rotruda","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Hemiptera",20,19,5.5141,38.0585
+"36510","Fulgoridiidae","family","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Hemiptera",20,19,5.5141,38.0585
+"36610","Neomeridium trifurcum","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Hemiptera",20,19,5.5141,38.0585
+"37110","Pterocimex jacksoni","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Hemiptera",20,19,5.4893,38.0506
+"37212","Pterocimex jacksoni","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Hemiptera",20,19,5.5141,38.0585
+"37312","Pterocimex jacksoni","species","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Hemiptera",20,19,5.4932,38.0514
+"37410","Neomeridium trifurcum","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Hemiptera",20,19,5.4893,38.0506
+"37511","Pachymeridiidae","family","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Hemiptera",20,19,5.5141,38.0585
+"37812","Liassocorixa dorsetica","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Hemiptera",20,19,5.5141,38.0585
+"37912","Lethonectes naucoroides","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Hemiptera",20,19,5.5141,38.0585
+"38312","Propreocoris maculatus","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Hemiptera",20,19,5.4893,38.0506
+"38412","Liassocorixa dorsetica","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Hemiptera",20,19,5.4893,38.0506
+"3855","Tarsabedus menkei","species","Obtusum","",196.5,189.6,-2.891,50.731998,10.83,37.92,"Hemiptera",20,19,5.5152,38.0576
+"3862","Cycloscytina asiatica","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hemiptera",19,18,76.0979,45.9565
+"3872","Eofulgoridium kisylkiense","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hemiptera",19,18,76.0979,45.9565
+"3882","Eofulgoridium proximum","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hemiptera",19,18,76.0979,45.9565
+"3892","Fulgoropsis dubiosa","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hemiptera",19,18,76.0979,45.9565
+"3903","Procercopina asiatica","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hemiptera",19,18,76.0979,45.9565
+"3916","Cicadellopsis incerta","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hemiptera",19,18,76.0979,45.9565
+"3923","Kisylia psylloides","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hemiptera",19,18,76.0979,45.9565
+"4181","Procercopina shawanensis","species","Hettangian","Sinemurian",201.3,190.8,86,44.174999,97.06,61.82,"Hemiptera",20,19,88.8679,53.214
+"4191","Procercopina delicata","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Hemiptera",20,19,86.7886,54.2751
+"7232","Cicadocoris kuzbasicus","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Hemiptera",19,18,82.9016,63.1054
+"7242","Cicadocoris intermedius","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Hemiptera",19,18,82.9016,63.1054
+"7302","Cicadocoris incompletus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"7362","Shurania sibirica","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Hemiptera",19,18,82.9016,63.1054
+"7992","Asiocossus subcostalis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8001","Mesocicada verrucosa","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8014","Cicadoprosbole sogutensis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8022","Absoluta elongata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8032","Ceresopsis vitrea","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8042","Procercopina longipennis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8052","Cycloscytina fulgoroides","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8062","Cixiella reducta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8082","Ludibrium ludus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8092","Absoluta distincta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8114","Ceresopsis ornata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8122","Fulgoridiella raetica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8132","Ipsviciella asiatica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8152","Darniopsis tragopea","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"816","Saldonabis proteus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8361","Asiopsyllidium unicum","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"841","Cicadellopsis issykkulica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"8442","Cicadopsyllidium elongatum","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"11432","Diphtheropsis","genus","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"12322","Liadonaucoris rohdendorfi","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hemiptera",19,18,76.0979,45.9565
+"16702","Quadrisbole stenis","species","Sinemurian","",199.3,190.8,113.849998,28.014999,135.3,41.41,"Hemiptera",20,19,119.9502,35.456
+"17062","Anthoscytina reducta","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hemiptera",19,18,76.0979,45.9565
+"17792","Turgaiella pomerantsevae","species","Early Jurassic","Middle Jurassic",201.3,163.5,64.610001,52.450001,73.24,57.19,"Hemiptera",20,16,60.9135,55.0961
+"17802","Martynovocossus turgaiensis","species","Early Jurassic","Middle Jurassic",201.3,163.5,64.610001,52.450001,73.24,57.19,"Hemiptera",20,16,60.9135,55.0961
+"17832","Mesococcus asiatica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"17921","Cicadocoris kuliki","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"17932","Sphongophoriella reticulata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"17942","Minuta heteropterata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"17952","Ceresopsis costalis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hemiptera",20,19,80.099,49.5909
+"26015","Liadoxyela praecox","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Hymenoptera",19,18,76.0979,45.9565
+"6162","Sogutia liassica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hymenoptera",20,19,80.099,49.5909
+"11663","Kirghizoxyela mirabilis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Hymenoptera",20,19,80.099,49.5909
+"11018","Archaeolepis mane","species","Turneri","",196.5,189.6,-2.925,50.730999,10.81,37.91,"Lepidoptera",20,19,5.489,38.0516
+"6220","Orthophlebia capillata","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Mecoptera",20,19,5.5141,38.0585
+"6319","Pseudopolycentropus triangularis","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Mecoptera",20,19,5.4893,38.0506
+"6418","Protorthophlebia latipennis","species","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Mecoptera",20,19,5.4932,38.0514
+"7319","Orthophlebia aequalis","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Mecoptera",19,18,76.0979,45.9565
+"11915","Orthophlebia latebrosa","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"12016","Orthophlebia colorata","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"12123","Mesopanorpa brodiei","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"12217","Mesopanorpa kuliki","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"12318","Protorthophlebia (Protorthophlebia) obscura","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"12416","Mesopanorpa densa","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"12516","Mesopanorpa monstrosa","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"12615","Protorthophlebia latipennis","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"24316","Tutujasina paradoxa","species","Early Jurassic","",201.3,174.1,87.735001,53.775002,96.12,68.87,"Mecoptera",20,17,83.8306,62.5091
+"2767","Orthophlebia liassica","species","Hettangian","Sinemurian",201.3,190.8,-1.85,52.16,10.09,38.38,"Mecoptera",20,19,5.8803,39.6001
+"4322","Protorthophlebia (Protorthophlebia) badaowanica","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"4332","Protorthophlebia (Protorthophlebia) karamayiensis","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"4343","Junggarochorista tuzigouensis","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Mecoptera",20,19,86.7886,54.2751
+"4433","Mesochorista asiatica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4453","Orthophlebia maculata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4464","Orthophlebia curta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4475","Orthophlebia extensa","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4485","Orthophlebia shurabica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4494","Orthophlebia effusa","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4505","Orthophlebia varia","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"45110","Orthophlebia vernacula","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4525","Orthophlebia rossica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4535","Protorthophlebia (Protorthophlebia) obscura","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4544","Mesopanorpa unicolor","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4554","Mesopanorpa umbrata","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4564","Gigaphlebia palmaris","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4574","Mesorthophlebia ampla","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4584","Mesopanorpa hartungi","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4595","Protorthophlebia egloni","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4605","Protorthophlebia aksaji","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"46111","Neorthophlebia robusta","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4624","Neorthophlebia unica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4634","Neorthophlebia nana","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4674","Mesopanorpa kuliki","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4694","Protorthophlebia latipennis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Mecoptera",20,19,80.099,49.5909
+"4805","Protorthophlebia latipennis","species","Sinemurian","",199.3,190.8,117.470001,28.635,139.5,42.28,"Mecoptera",20,19,123.685,36.6486
+"4974","Orthobittacus abshiricus","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Mecoptera",19,18,76.0979,45.9565
+"5173","Orthophlebia pulchra","species","Early Jurassic","Middle Jurassic",201.3,163.5,64.610001,52.450001,73.24,57.19,"Mecoptera",20,16,60.9135,55.0961
+"5185","Orthophlebia","genus","Early Jurassic","Middle Jurassic",201.3,163.5,66.059998,52.075001,75.02,57.27,"Mecoptera",20,16,62.595,55.1597
+"5193","Mesopanorpa turgaica","species","Early Jurassic","Middle Jurassic",201.3,163.5,64.610001,52.450001,73.24,57.19,"Mecoptera",20,16,60.9135,55.0961
+"5203","Mesopanorpa kuschmurunensis","species","Early Jurassic","Middle Jurassic",201.3,163.5,64.610001,52.450001,73.24,57.19,"Mecoptera",20,16,60.9135,55.0961
+"52110","Mesopanorpa","genus","Early Jurassic","Middle Jurassic",201.3,163.5,64.610001,52.450001,73.24,57.19,"Mecoptera",20,16,60.9135,55.0961
+"5224","Mesopanorpa","genus","Early Jurassic","Middle Jurassic",201.3,163.5,66.059998,52.075001,75.02,57.27,"Mecoptera",20,16,62.595,55.1597
+"5234","Mesopanorpa praeangustipennis","species","Jurassic","",201.3,145,65.330002,47.830002,77.31,47.11,"Mecoptera",20,14,64.9181,51.1219
+"6245","Prochoristella shuangyangensis","species","Early Jurassic","",201.3,174.1,125.925003,43.395,154.62,51.54,"Mecoptera",20,17,134.8972,49.6428
+"63110","Jurachorista bashkuevi","species","Turneri","",196.5,189.6,-2.948,50.717999,10.8,37.89,"Mecoptera",20,19,5.4749,38.0355
+"22616","Petrushevskia borisi","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Neuroptera",20,19,80.099,49.5909
+"22717","Petrushevskia borisi","species","Sinemurian","",199.3,190.8,77.199997,42.700001,87.56,57.7,"Neuroptera",20,19,80.099,49.5909
+"22816","Sogjuta speciosa","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Neuroptera",20,19,80.099,49.5909
+"5245","Idiastogyia fatisca","species","Bucklandi","",196.5,189.6,116.010002,23.475,139.01,36.37,"Neuroptera",20,19,123.2193,31.3386
+"7063","Oligophlebiopsis biramosa","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Neuroptera",20,19,80.099,49.5909
+"29417","Lateophlebia anglicanopsis","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Odonata",20,19,5.5141,38.0585
+"29516","Rossiphlebia jacksoni","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Odonata",20,19,5.5141,38.0585
+"29614","Liassophlebia pseudomagnifica","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Odonata",20,19,5.5141,38.0585
+"29715","Liassophlebia","genus","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Odonata",20,19,5.5141,38.0585
+"29813","Dorsettia laeta","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Odonata",20,19,5.5141,38.0585
+"29915","Odonata","order","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Odonata",20,19,5.5141,38.0585
+"30011","Odonata","order","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Odonata",20,19,5.4893,38.0506
+"30115","Anglophlebia gigantea","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Odonata",20,19,5.4893,38.0506
+"30215","Heterophlebia","genus","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Odonata",20,19,5.5141,38.0585
+"30314","Hypsothemis fraseri","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Odonata",20,19,5.5141,38.0585
+"34314","Bathmophlebia unica","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Odonata",19,18,76.0979,45.9565
+"35714","Sogjutella mollis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Odonata",20,19,80.099,49.5909
+"35812","Cyclothemis sogjutensis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Odonata",20,19,80.099,49.5909
+"5097","Campterophlebiidae","family","Jurassic","",201.3,145,100.25,54.299999,106.87,62.55,"Odonata",20,14,98.8114,65.9988
+"87110","Chrismooreia michaelbehei","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Odonata",20,19,5.4893,38.0506
+"8795","Dorsettia sinica","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Odonata",20,19,86.7886,54.2751
+"8804","Honghea xui","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Odonata",20,19,86.7886,54.2751
+"8883","Rossiphlebia jacksoni","species","Obtusum","",196.5,189.6,-2.89,50.741001,10.83,37.92,"Odonata",20,19,5.5133,38.0665
+"9004","Jurassophlebia xinjiangensis","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Odonata",20,19,86.7886,54.2751
+"13616","Protogryllus (Archaegryllodes) stormbergensis","species","Sinemurian","",199.3,190.8,28.75,-30.42,16.11,-44.39,"Orthoptera",20,19,-2.5994,-43.1756
+"17819","Juravoliopus sinuatus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Orthoptera",20,19,80.099,49.5909
+"18128","Paratshorkuphlebia multivenosa","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Orthoptera",20,19,80.099,49.5909
+"18220","Paratshorkuphlebia multivenosa","species","Sinemurian","",199.3,190.8,77.199997,42.700001,87.56,57.7,"Orthoptera",20,19,80.099,49.5909
+"20319","Asiogryllus asiaticus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Orthoptera",20,19,80.099,49.5909
+"20420","Locustopsis anatolica","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Orthoptera",20,19,80.099,49.5909
+"26217","Bintoniella brodiei","species","Early Sinemurian","",196.5,189.6,-4.15,49.740002,10.41,36.68,"Orthoptera",20,19,4.8184,36.9058
+"26916","Protohagla langi","species","Obtusum","",196.5,189.6,-2.892,50.733002,10.83,37.92,"Orthoptera",20,19,5.5141,38.0585
+"27115","Regiata scutra","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Orthoptera",20,19,5.4893,38.0506
+"27214","Micromacula gracilis","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Orthoptera",20,19,5.4893,38.0506
+"27312","Archelcana durnovaria","species","Obtusum","",196.5,189.6,-2.925,50.73,10.81,37.91,"Orthoptera",20,19,5.4893,38.0506
+"27412","Hagla gracilis","species","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Orthoptera",20,19,5.4932,38.0514
+"27511","Protogryllus (Archaegryllodes) magnus","species","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Orthoptera",20,19,5.4932,38.0514
+"27610","Locustopsis spectabilis","species","Obtusum","",196.5,189.6,-2.92,50.73,10.81,37.91,"Orthoptera",20,19,5.4932,38.0514
+"27710","Orichalcum ornatum","species","Turneri","",196.5,189.6,-2.925,50.730999,10.81,37.91,"Orthoptera",20,19,5.489,38.0516
+"27814","Micromacula gracilis","species","Turneri","",196.5,189.6,-2.925,50.730999,10.81,37.91,"Orthoptera",20,19,5.489,38.0516
+"27916","Archaboilus kisylkiensis","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Orthoptera",19,18,76.0979,45.9565
+"28016","Aboilus cellulosus","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Orthoptera",19,18,76.0979,45.9565
+"5376","Orthoptera","order","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Orthoptera",19,18,82.9016,63.1054
+"8776","Orthoptera","order","Hettangian","Sinemurian",201.3,190.8,-72.608002,41.979,-9.16,21.49,"Orthoptera",20,19,-16.8742,25.7419
+"8805","Aboilus tuzigouensis","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Orthoptera",20,19,86.7886,54.2751
+"8935","Asiovoliopus kirgizicus","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Orthoptera",20,19,80.099,49.5909
+"8955","Protaboilus praedictus","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Orthoptera",19,18,76.0979,45.9565
+"8965","Archaboilus martynovi","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Orthoptera",20,19,80.099,49.5909
+"8975","Sogutophlebia issykulensis","species","Sinemurian","",199.3,190.8,77.199997,42.700001,87.56,57.7,"Orthoptera",20,19,80.099,49.5909
+"9129","Shanxius reticulatus","species","Early Jurassic","",201.3,174.1,110.769997,37.150002,134.69,48.5,"Orthoptera",20,17,116.6208,45.1692
+"9206","Sinohagla anthoides","species","Early Jurassic","",201.3,174.1,110.949997,39.84,135.82,51.1,"Orthoptera",20,17,117.2899,47.8233
+"92112","Archaeohagla sinensis","species","Early Jurassic","",201.3,174.1,110.949997,39.84,135.82,51.1,"Orthoptera",20,17,117.2899,47.8233
+"9245","Mesohagla xinjiangensis","species","Early Sinemurian","",196.5,189.6,84.900002,45.599998,96.84,62.44,"Orthoptera",20,19,86.7886,54.2751
+"9295","Zhemengia sinica","species","Early Jurassic","",201.3,174.1,120.900002,44.599998,151.91,56.23,"Orthoptera",20,17,130.3342,51.9398
+"10944","Daniilacheta aristovi","species","Turneri","",196.5,189.6,-2.948,50.717999,10.8,37.89,"Orthoptera",20,19,5.4749,38.0355
+"10964","Locustopsis spectabilis","species","Turneri","",196.5,189.6,-2.948,50.717999,10.8,37.89,"Orthoptera",20,19,5.4749,38.0355
+"10130","Dicronemoura turanica","species","Pliensbachian","",190.8,182.7,72.128998,40.25,87.75,51.56,"Plecoptera",19,18,76.0979,45.9565
+"5230","Mesoleuctra gigantea","species","Pliensbachian","Toarcian",190.8,174.1,72.910004,49.73,84.08,57.08,"Plecoptera",19,17,71.1641,54.9237
+"5327","Mesoleuctra gigantea","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Plecoptera",19,18,82.9016,63.1054
+"5628","Mesoleuctra tibialis","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Plecoptera",19,18,82.9016,63.1054
+"7426","Baleyopteryx orthoclada","species","Pliensbachian","Toarcian",190.8,174.1,87.529999,54.497002,96.68,65.24,"Plecoptera",19,17,82.9016,63.1054
+"7527","Baleyopteryx orthoclada","species","Pliensbachian","",190.8,182.7,87.529999,54.497002,95.26,68.76,"Plecoptera",19,18,82.9016,63.1054
+"11918","Platyperla rigida","species","Early Jurassic","Middle Jurassic",201.3,163.5,64.610001,52.450001,73.24,57.19,"Plecoptera",20,16,60.9135,55.0961
+"15820","Karanemoura distalis","species","Hettangian","Sinemurian",201.3,190.8,77.199997,42.700001,86.81,57.76,"Plecoptera",20,19,80.099,49.5909
+"10134","Metaraphidia confusa","species","Late Sinemurian","",196.5,189.6,-2.903611,50.737499,10.82,37.92,"Raphidioptera",20,19,5.5037,38.0611
+"31416","Austaulius haustrum","species","Turneri","",196.5,189.6,-2.933333,50.716667,10.81,37.89,"Trichoptera",20,19,5.4868,38.0364

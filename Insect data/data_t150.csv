@@ -1,0 +1,975 @@
+"","name","rank","early_i","late_i","max_ma","min_ma","lng","lat","paleolng","paleolat","group","max_m","min_m","Mlng","Mlat"
+"5","Mongolagrion shartegensis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Archizygoptera",15,14,98.1547,46.0957
+"21","Protomyrmeleon jurassicus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Archizygoptera",15,14,18.8301,40.9199
+"44","Malmagrion eichstattensis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Archizygoptera",15,14,18.8301,40.9199
+"46","Malmagrion eichstattense","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Archizygoptera",15,14,18.8301,40.9199
+"51","Malmomyrmeleon viohli","species","Early Tithonian","",150.8,145,11.175,48.904999,23.89,32.08,"Archizygoptera",15,14,18.8567,40.9164
+"52","Malmomyrmeleon viohli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Archizygoptera",15,14,18.8301,40.9199
+"53","Protomyrmeleon","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Archizygoptera",15,14,98.1547,46.0957
+"54","Protomyrmeleon","genus","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Archizygoptera",15,14,98.1462,46.0925
+"3115","Isoptera","infraorder","Kimmeridgian","Tithonian",157.3,145,-107.846802,44.541901,-40.98,31.5,"Blattodea",16,14,-54.6438,40.8784
+"23100","Blattula udensis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Blattodea",16,15,111.397,56.3479
+"66","Blattula choutinensis","species","Tithonian","",152.1,145,107.796997,45.591999,109.01,53.53,"Blattodea",15,14,110.5127,46.7142
+"67","Blattula choutinensis","species","Tithonian","",152.1,145,107.796997,45.591,109.01,53.53,"Blattodea",15,14,110.5127,46.7132
+"168","Lithoblatta lithophila","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Blattodea",15,14,18.8301,40.9199
+"248","Mesoblattina deichmulleri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Blattodea",15,14,18.8301,40.9199
+"249","Megalocerca longipes","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Blattodea",15,14,18.8301,40.9199
+"263","Progeotrupes jurassicus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Blattodea",15,14,18.8301,40.9199
+"303","Mesoblattina wuweiensis","species","Late Jurassic","Early Cretaceous",163.5,100.5,102.239998,38.049999,111.09,35.22,"Blattodea",16,10,104.5633,38.7379
+"490","Blattula tuodianensis","species","Oxfordian","Kimmeridgian",163.5,152.1,101.644997,24.725,117.82,28.26,"Blattodea",16,15,107.0092,22.1777
+"491","Blattula","genus","Oxfordian","Kimmeridgian",163.5,152.1,101.644997,24.725,117.82,28.26,"Blattodea",16,15,107.0092,22.1777
+"492","Elisamoides mantiformis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Blattodea",15,14,98.1547,46.0957
+"493","Blattula mongolica","species","Tithonian","",152.1,145,95.793999,44.137001,96.03,49.83,"Blattodea",15,14,98.1736,46.0964
+"494","Blattula mongolica","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Blattodea",15,14,98.1525,46.0995
+"495","Blattula mongolica","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Blattodea",15,14,98.1462,46.0925
+"496","Blattula mongolica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Blattodea",15,14,98.1547,46.0957
+"497","Blattula vidlickai","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Blattodea",15,14,98.1547,46.0957
+"498","Blattula vidlickai","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Blattodea",15,14,98.1525,46.0995
+"499","Blattula vidlickai","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Blattodea",15,14,98.1462,46.0925
+"501","Blattula vidlickai","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Blattodea",15,14,98.1446,46.0943
+"502","Blattula vidlickai","species","Tithonian","",152.1,145,95.793999,44.137001,96.03,49.83,"Blattodea",15,14,98.1736,46.0964
+"504","Elisama pterostigmata","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Blattodea",15,14,98.1547,46.0957
+"505","Elisama pterostigmata","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Blattodea",15,14,98.1525,46.0995
+"506","Elisama pterostigmata","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Blattodea",15,14,98.1462,46.0925
+"507","Elisama pterostigmata","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Blattodea",15,14,98.1446,46.0943
+"508","Elisama pterostigmata","species","Tithonian","",152.1,145,95.767998,44.140999,96,49.82,"Blattodea",15,14,98.146,46.0965
+"509","Elisama pterostigmata","species","Tithonian","",152.1,145,95.793999,44.137001,96.03,49.83,"Blattodea",15,14,98.1736,46.0964
+"510","Breviblattina minor","species","Tithonian","",152.1,145,95.793999,44.137001,96.03,49.83,"Blattodea",15,14,98.1736,46.0964
+"511","Breviblattina minor","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Blattodea",15,14,98.1547,46.0957
+"512","Mongolblatta accurata","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Blattodea",15,14,98.1547,46.0957
+"513","Mongolblatta accurata","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Blattodea",15,14,98.1525,46.0995
+"514","Mongolblatta accurata","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Blattodea",15,14,98.1462,46.0925
+"515","Mongolblatta accurata","species","Tithonian","",152.1,145,95.690002,44.09,95.96,49.75,"Blattodea",15,14,98.0821,46.0351
+"605","Praeblattella jurassica","species","Tithonian","",152.1,145,99.169998,45.220001,98.64,51.88,"Blattodea",15,14,101.2839,47.6504
+"606","Blattula bacharensis","species","Tithonian","",152.1,145,99.169998,45.220001,98.64,51.88,"Blattodea",15,14,101.2839,47.6504
+"680","Praeblattella solus","species","Late Jurassic","Early Cretaceous",163.5,100.5,69.900002,41.799999,81.23,32.22,"Blattodea",16,10,73.4066,39.989
+"3134","Ditomoptera dubia","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"8410","Artematopodites maximus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"8510","Artematopodites crispulus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"8610","Artematopodites lepidus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"21910","Dermestidae","family","Kimmeridgian","",157.3,152.1,-107.779167,44.535557,-39.42,31.62,"Coleoptera",16,15,-54.583,40.8627
+"3759","Coleoptera","order","Kimmeridgian","",157.3,152.1,8.708,52.292,21.89,35.4,"Coleoptera",16,15,16.3965,44.1781
+"6251","Notocupes tripartitus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"6331","Parahygrobia natans","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Coleoptera",16,15,111.397,56.3479
+"6421","Stygeonectes jurassicus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Coleoptera",16,15,111.397,56.3479
+"648","Stygeonectes jurassicus","species","Late Jurassic","",163.5,145,111.129997,49.439999,109.27,59.67,"Coleoptera",16,14,112.3804,53.4719
+"660","Liadytes longus","species","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Coleoptera",15,14,118.3339,56.682
+"6611","Liadytes crassus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"6691","Novunda microplata","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"6701","Novunda angulata","species","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Coleoptera",15,14,118.3339,56.682
+"6711","Novunda cursoria","species","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Coleoptera",15,14,118.3339,56.682
+"6821","Karatoma raptor","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"6861","Karadromeus elongatus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"723","Helophorus (Mesosperchus) tarsalis","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"802","Gobibrenthorrhinus gigas","species","Tithonian","",152.1,145,104.133331,44.416668,105.82,51.45,"Coleoptera",15,14,106.8093,45.4903
+"807","Gobicar ulugeiensis","species","Tithonian","",152.1,145,104.133331,44.416668,105.82,51.45,"Coleoptera",15,14,106.8093,45.4903
+"877","Microcoleopteron heydeni","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"878","Microcoleopteron jurassicum","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"879","Scaphidiopsis hageni","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"880","Pseudotenebrio relictus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"881","Pseudohydrophilus avitus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"882","Ditomoptera defossa","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"884","Malmelater teyleri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"886","Malmelater costeri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"887","Malmelater grossum","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"888","Pseudotenebrio innominatus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"889","Coleopteron antiquus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"890","Microcoleopteron lithographicum","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"891","Chrysomelophana rara","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"892","Scaphidiopsis aequivoca","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"895","Hydrophilopsia longitarsalis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"896","Timarchopsis gobiensis","species","Tithonian","",152.1,145,107.796997,45.591999,109.01,53.53,"Coleoptera",15,14,110.5127,46.7142
+"897","Bolbonectes intermedius","species","Tithonian","",152.1,145,115.660004,50.759998,111.82,61.93,"Coleoptera",15,14,116.7886,55.3719
+"901","Liadytes dajensis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"949","Omma gobiense","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Coleoptera",15,14,110.5056,46.7121
+"961","Coleoptera","order","Kimmeridgian","",157.3,152.1,10.505,51.902,23.31,35.25,"Coleoptera",16,15,17.9681,43.8717
+"1015","Notocupes brachycephalus","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"1053","Dundorabus glabrus","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Coleoptera",15,14,110.5056,46.7121
+"1054","Novunda pachycephala","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Coleoptera",15,14,117.703,57.0676
+"1055","Karadromeus verrucosus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"1078","Eodromeites udensis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Coleoptera",16,15,111.397,56.3479
+"1287","Prospercheus cristatus","species","Tithonian","",152.1,145,95.767998,44.140999,96,49.82,"Coleoptera",15,14,98.146,46.0965
+"1288","Helophorus (Mesosperchus) inceptivus","species","Tithonian","",152.1,145,95.767998,44.140999,96,49.82,"Coleoptera",15,14,98.146,46.0965
+"1407","Pyrochroophana maior","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1408","Pyrochroophana suprajurensis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1410","Eurythyreites grandis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1411","Opsis bavarica","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1412","Geotrupoides lithographicus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1413","Amarodes pseudozabrus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1414","Ditomoptera minor","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1523","Malmelater priscus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1524","Omma brevipes","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1525","Pyrochroophana robusta","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1527","Cerambycinus dubius","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1528","Parasilphites angusticollis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1529","Oryctites fossilis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1530","Procalosoma mimor","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1531","Chlaeniopsis solitarius","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1532","Notocupes reticulatus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1533","Omma zitteli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1535","Procalosoma giardi","species","Early Tithonian","",150.8,145,11.105,48.904999,23.84,32.07,"Coleoptera",15,14,18.7959,40.9129
+"1536","Procalosoma major","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1537","Carabicina decipiens","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1538","Prochrysomela jurassica","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1539","Microcoleopteron minimum","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1604","Curculionites striatus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1628","Coleoptera","order","Late Kimmeridgian","Early Tithonian",155.7,145,-2.337,50.630001,12.44,32.19,"Coleoptera",16,14,7.0964,42.1613
+"1632","Pseudothyrea oppenheimi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1665","Procalosoma minor","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1668","Actea sphinx","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1669","Hydrophilidae","family","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1670","Elateridae","family","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"1793","Juroglypholoma talbragarense","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Coleoptera",15,14,88.7891,-74.6434
+"1794","Protachinus minor","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Coleoptera",15,14,88.7891,-74.6434
+"1930","Liadytes aspidytoides","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Coleoptera",15,14,98.1446,46.0943
+"1931","Liadytes aspidytoides","species","Tithonian","",152.1,145,95.793999,44.137001,96.03,49.83,"Coleoptera",15,14,98.1736,46.0964
+"1938","Notocupes","genus","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"1945","Mesogyrus striatus","species","Tithonian","",152.1,145,117.900002,51,114.27,62.81,"Coleoptera",15,14,119.1504,55.899
+"1946","Liadytes longus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"1947","Liadytes longus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"1948","Liadytes longus","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Coleoptera",15,14,117.703,57.0676
+"1950","Liadytes crassus","species","Tithonian","",152.1,145,102.559998,53.740002,94.37,60.36,"Coleoptera",15,14,101.6406,56.4451
+"1955","Liadytes dajensis","species","Tithonian","",152.1,145,102.559998,53.740002,94.37,60.36,"Coleoptera",15,14,101.6406,56.4451
+"1956","Liadytes dajensis","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"1958","Liadytes dajensis","species","Kimmeridgian","Valanginian",157.3,132.9,119.705002,51.099998,118.04,59.5,"Coleoptera",16,13,122.573,52.3471
+"1959","Jurodes minor","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"1960","Jurodes minor","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"1961","Jurodes minor","species","Tithonian","",152.1,145,102.559998,53.740002,94.37,60.36,"Coleoptera",15,14,101.6406,56.4451
+"1962","Helophorus (Mesosperchus) tarsalis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"1963","Helophorus (Mesosperchus) tarsalis","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Coleoptera",15,14,117.703,57.0676
+"1966","Aposphinctus sibiricus","species","Tithonian","",152.1,145,116,52,110.93,63.12,"Coleoptera",15,14,116.6903,56.6287
+"1967","Aposphinctus sibiricus","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Coleoptera",15,14,117.703,57.0676
+"1968","Polysitum ovale","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"1969","Angarolarva incerta","species","Tithonian","",152.1,145,115.660004,50.759998,111.82,61.93,"Coleoptera",15,14,116.7886,55.3719
+"1975","Karatoma raptor","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"1976","Novunda angulata","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"1977","Novunda cursoria","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"1978","Novunda pachycephala","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"1979","Karadromeus verrucosus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"1982","Karatoma raptor","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Coleoptera",15,14,117.703,57.0676
+"1985","Helophorus (Mesosperchus) tarsalis","species","Tithonian","",152.1,145,115.660004,50.759998,111.82,61.93,"Coleoptera",15,14,116.7886,55.3719
+"1987","Coptoclavella minor","species","Callovian","Kimmeridgian",166.1,152.1,119.184998,50.814999,123.19,60,"Coleoptera",17,15,122.0448,52.0578
+"1989","Stygeonectes jurassicus","species","Tithonian","",152.1,145,117.410004,51.650002,112.99,63.24,"Coleoptera",15,14,118.37,56.4714
+"1990","Karatoma raptor","species","Tithonian","",152.1,145,117.410004,51.650002,112.99,63.24,"Coleoptera",15,14,118.37,56.4714
+"1991","Helophorus (Mesosperchus) tarsalis","species","Tithonian","",152.1,145,117.410004,51.650002,112.99,63.24,"Coleoptera",15,14,118.37,56.4714
+"1992","Polyphaga","suborder","Tithonian","",152.1,145,117.007004,51.337002,112.84,62.85,"Coleoptera",15,14,118.0459,56.1129
+"1993","Hydrobiites crassus","species","Tithonian","",152.1,145,117.007004,51.337002,112.84,62.85,"Coleoptera",15,14,118.0459,56.1129
+"1994","Helophorus (Mesosperchus) tarsalis","species","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Coleoptera",15,14,118.2773,56.5474
+"2000","Helophorus (Mesosperchus) tarsalis","species","Tithonian","",152.1,145,116,52,110.93,63.12,"Coleoptera",15,14,116.6903,56.6287
+"2003","Stygeonectes jurassicus","species","Tithonian","",152.1,145,117.394997,49.945,116.79,60.05,"Coleoptera",15,14,120.2262,51.172
+"2007","Stygeonectes jurassicus","species","Tithonian","",152.1,145,117.815002,49.580002,117.57,59.82,"Coleoptera",15,14,120.6654,50.8109
+"2008","Coptoclavella minor","species","Kimmeridgian","Valanginian",157.3,132.9,120.010002,51.599998,117.97,60.03,"Coleoptera",16,13,122.8757,52.8496
+"2010","Trigunda lata","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"2011","Undiatina pilosa","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Coleoptera",15,14,117.8204,56.4675
+"2013","Daiodromus umbrosus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"2014","Prodaia inflata","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"2015","Morda mora","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"2016","Ryvkinius gracilis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"2017","Cuneocharis elongatus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"2018","Staphylinidae","family","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"2026","Elateridae","family","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Coleoptera",15,14,118.2773,56.5474
+"2042","Amphicyrtella granulum","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Coleoptera",15,14,117.703,57.0676
+"2043","Amphicyrtella clavator","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Coleoptera",15,14,117.703,57.0676
+"2044","Artematopodites latus","species","Tithonian","",152.1,145,115.660004,50.759998,111.82,61.93,"Coleoptera",15,14,116.7886,55.3719
+"2045","Artematopodites latus","species","Tithonian","",152.1,145,117.900002,51,114.27,62.81,"Coleoptera",15,14,119.1504,55.899
+"2051","Dzeregia byrrhoides","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Coleoptera",15,14,117.703,57.0676
+"2052","Thoracotes glabrus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"2053","Sphaerocantharis sibirica","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Coleoptera",15,14,118.4949,56.7583
+"2094","Chrysobothris veterana","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"2097","Tauredon horni","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Coleoptera",15,14,18.8301,40.9199
+"2331","Protochares brevipalpis","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Coleoptera",15,14,88.7891,-74.6434
+"2816","Hydrophilidae","family","Oxfordian","Kimmeridgian",163.5,152.1,101.769997,25.049999,117.75,28.6,"Coleoptera",16,15,107.0275,22.5215
+"2821","Notocupes brachycephalus","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Coleoptera",15,14,98.1446,46.0943
+"2822","Zygadenia giebeli","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2823","Zygadenia handlirschi","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2824","Anaglyphites crassipygus","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2825","Loculitricoleus mongolicus","species","Tithonian","",152.1,145,95.793999,44.137001,96.03,49.83,"Coleoptera",15,14,98.1736,46.0964
+"2826","Sodovia sharotegica","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2827","Schizocoleidae","family","Tithonian","",152.1,145,95.769997,44.136501,96.01,49.82,"Coleoptera",15,14,98.1494,46.0924
+"2828","Schizocoleidae","family","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2829","Mesogyrus elongates","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2830","Timarchopsis longus","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Coleoptera",15,14,98.1446,46.0943
+"2831","Coptoclavidae","family","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2832","Jurodes shartegiensis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2833","Protorabinae","subfamily","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Coleoptera",15,14,98.1446,46.0943
+"2834","Caraboidea","superfamily","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Coleoptera",15,14,98.1446,46.0943
+"2835","Notocupes brachycephalus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2836","Notocupes exiguus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2837","Anaglyphites minutissimus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2838","Loculitricoleus","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2839","Tersus minor","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2840","Schizocoleidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2841","Coptoclavella jurassica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2842","Timarchopsis longus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2843","Coptoclavidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2844","Helophorus (Mesosperchus) costalis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2845","Hydrobiites mongolicus","species","Tithonian","",152.1,145,95.762001,44.136002,96,49.82,"Coleoptera",15,14,98.1414,46.0907
+"2846","Anaglyphites minutissimus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2847","Timarchopsis longus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2848","Liadytes aspidytoides","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2849","Procalosoma incertum","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2850","Helophorus (Mesosperchus) costalis","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2851","Helophorus","genus","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2852","Hydrobiites mongolicus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2853","Hydrobiites minor","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2854","Hydraenidae","family","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2855","Artematopodites latissimus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2856","Platycrossos latus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2857","Platycrossos longus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2858","Helophorus","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2859","Polysitum sharategense","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2860","Hydrobiites mongolicus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2861","Hydraenidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2862","Platycrossos mongolicus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2863","Platycrossos ovum","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2864","Platycrossos loxonicus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2865","Dzeregia platis","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2866","Lasiosyne insculpta","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2867","Lasiosyne longitarsus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2868","Eulichadidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2869","Eulichadidae","family","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2870","Lasiosyne insculpta","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2871","Eulichadidae","family","Tithonian","",152.1,145,95.791,44.141998,96.03,49.83,"Coleoptera",15,14,98.169,46.1009
+"2873","Lasiosyne insculpta","species","Tithonian","",152.1,145,95.791,44.141998,96.03,49.83,"Coleoptera",15,14,98.169,46.1009
+"2874","Lasiosyne insculpta","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2875","Manoelodes gratiosus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2876","Parashartegus distinctus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2877","Manopsis concavicollis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2878","Shartegus transversus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2879","Mesocinetus subjectus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2880","Mesocinetus aequalis","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2881","Mesocinetus aequalis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2882","Mesocinetus aequalis","species","Tithonian","",152.1,145,95.769997,44.134998,96.01,49.82,"Coleoptera",15,14,98.1498,46.0909
+"2883","Mesocinetus angustitibialis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2884","Mesocinetus elumbis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2885","Mesagyrtoides fulvus","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Coleoptera",15,14,98.1446,46.0943
+"2886","Paralucanus mesozoicus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2887","Shartegopsis miranda","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2888","Gobicar ponomarenkoi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Coleoptera",15,14,98.1547,46.0957
+"2889","Artematopodites maximus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2890","Artematopodites maximus","species","Tithonian","",152.1,145,95.769997,44.136501,96.01,49.82,"Coleoptera",15,14,98.1494,46.0924
+"2891","Artematopodites crispulus","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2892","Artematopodites lepidus","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Coleoptera",15,14,98.1525,46.0995
+"2893","Prospercheus cristatus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2894","Helophorus (Mesosperchus) inceptivus","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Coleoptera",15,14,98.1462,46.0925
+"2991","Talbragarus averyi","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Coleoptera",15,14,88.7891,-74.6434
+"2992","Rhopalomma stefaniae","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Coleoptera",15,14,88.7891,-74.6434
+"3070","Dermestidae","family","Kimmeridgian","Tithonian",157.3,145,-108.391647,40.455929,-42.89,27.75,"Coleoptera",16,14,-60.8444,37.0465
+"3089","Wongaroo amplipectorale","species","Tithonian","",152.1,145,149.684601,-32.167149,127.9,-70.59,"Coleoptera",15,14,88.7767,-74.6348
+"3090","Beattieellus jurassicus","species","Tithonian","",152.1,145,149.684601,-32.167149,127.9,-70.59,"Coleoptera",15,14,88.7767,-74.6348
+"3091","Wongaroo amplipectorale","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Coleoptera",15,14,88.7891,-74.6434
+"3092","Eucnemidae","family","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Coleoptera",15,14,88.7891,-74.6434
+"3093","Elateridae","family","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Coleoptera",15,14,88.7891,-74.6434
+"3094","Eucnemidae","family","Tithonian","",152.1,145,149.684601,-32.167149,127.9,-70.59,"Coleoptera",15,14,88.7767,-74.6348
+"3129","Olisthaerinae","subfamily","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Coleoptera",15,14,88.7891,-74.6434
+"13102","Mesoforficula sinkianensis","species","Late Jurassic","",163.5,145,89.199997,42.849998,91.62,46.87,"Dermaptera",16,14,91.924,43.8602
+"10611","Ulaimailoniella fusiformis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14211","Paraxymyia mongolica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"14311","Complecia clara","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"15611","Palaeobolbomyia sibirica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"18211","Palaeoptiolina scobloi","species","Oxfordian","Kimmeridgian",163.5,152.1,111.93,51.77,109.77,61.68,"Diptera",16,15,112.368,55.8565
+"207","Nemestrinidae","family","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Diptera",15,14,18.8316,40.905
+"20911","Cretaenne rasnicyni","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21011","Podonomius blepharis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21111","Podonomius macromastix","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21211","Podonomius robustus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21311","Tanypodinae","subfamily","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"26111","Nannotanyderus incertus","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Diptera",15,14,98.1525,46.0995
+"26210","Crenoptychoptera liturata","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"26310","Chaoburmus amphilogos","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"26410","Mesocorethra cincta","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"26510","Rasnicynomma additum","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"26610","Palaeoperissomma ornatum","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2741","Proptychopterina mongolica","species","Tithonian","",152.1,145,107.796997,45.591999,109.01,53.53,"Diptera",15,14,110.5127,46.7142
+"5872","Strashila incredibilis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.93,51.77,109.77,61.68,"Diptera",16,15,112.368,55.8565
+"5901","Empidia wulpi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Diptera",15,14,18.8301,40.9199
+"7213","Eoptychopterina undensis","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"7221","Eoptychopterina daiensis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"7241","Proptychopterina oleynikovi","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"7281","Shevioptera sinitsae","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"7291","Bolboia mira","species","Tithonian","",152.1,145,115.660004,50.759998,111.82,61.93,"Diptera",15,14,116.7886,55.3719
+"8301","Kovalevimyia lacrimosa","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"8313","Kovalevimyia lacrimosa","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"8751","Palaeoarthroteles mesozoicus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"8761","Palaeoarthroteles mesozoicus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"9961","Calosargus (Calosargus) talbragarensis","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Diptera",15,14,88.7891,-74.6434
+"11441","Baleiomyia discussoria","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"11451","Baleiomyia discussoria","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"11461","Mesocorethra levis","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"11471","Mesocorethra levis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"11481","Mesocorethra levis","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"11571","Praechaoborus","genus","Tithonian","",152.1,145,115.660004,50.759998,111.82,61.93,"Diptera",15,14,116.7886,55.3719
+"11591","Oryctochlus mirificus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"11601","Oryctochlus mirificus","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"11612","Oryctochlus mirificus","species","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Diptera",15,14,118.2773,56.5474
+"11651","Oryctochlus vulcanus","species","Tithonian","",152.1,145,115.660004,50.759998,111.82,61.93,"Diptera",15,14,116.7886,55.3719
+"11661","Oryctochlus","genus","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"11671","Glushkovella pallida","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"1168","Podonominae","subfamily","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"11691","Podonominae","subfamily","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"11701","Podonominae","subfamily","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"11721","Podonominae","subfamily","Tithonian","",152.1,145,117.169998,51.82,112.52,63.32,"Diptera",15,14,118.0416,56.6064
+"11731","Ulaia communis","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"11741","Ulaia communis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"11751","Ulaia communis","species","Tithonian","",152.1,145,117.007004,51.337002,112.84,62.85,"Diptera",15,14,118.0459,56.1129
+"11771","Ulaia communis","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"11791","Ulaia communis","species","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Diptera",15,14,118.2773,56.5474
+"11831","Ulaia communis","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Diptera",15,14,110.5056,46.7121
+"11841","Ulaia magna","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"11871","Ulaia","genus","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"11881","Oryctochlus brundini","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Diptera",15,14,98.1525,46.0995
+"11891","Oryctochlus kaluginae","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"12351","Tipunia intermedia","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Diptera",15,14,18.8301,40.9199
+"12361","Crenoptychoptera bavarica","species","Early Tithonian","",150.8,145,11.145,48.908001,23.87,32.08,"Diptera",15,14,18.8303,40.9179
+"12761","Culicoidea","superfamily","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Diptera",15,14,18.8301,40.9199
+"13091","Mesoplecia oleynikovi","species","Tithonian","",152.1,145,102.559998,53.740002,94.37,60.36,"Diptera",15,14,101.6406,56.4451
+"13104","Pachyrhyphus transbaicalicus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"13121","Pleciofungivora tergenica","species","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Diptera",15,14,118.2773,56.5474
+"13151","Bryanka antis","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"13161","Antefungivora zherichini","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"13171","Pleciomima athos","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"13181","Pleciomima porthos","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"13191","Pleciomima aramis","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"13201","Sciaromima major","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"13212","Paralycoriomima brevisubcosta","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"13221","Daiamyia discifera","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13231","Megarhyphus sophiae","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13241","Pachyrhyphus transbaicalicus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13251","Mesorhyphus clavipes","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13261","Bryanka venusta","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13271","Bryanka venustula","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13281","Lycoriomimodes clotho","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13291","Lycoriomimodes lachesis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13301","Lycoriomimodes atropos","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13312","Mycetophiloidea","superfamily","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13321","Protorhyphus major","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13331","Anisopodoidea","superfamily","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13341","Eomycetophila asymmetrica","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13351","Mesopleciella lepida","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13361","Mesotrichoca mesozoica","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"13431","Megarhyphus sophiae","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"13451","Pleciomima artagnan","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"13461","Lycoriomimodes clotho","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"13471","Sciaromima minor","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"13901","Prohirmoneura jurassica","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Diptera",15,14,18.8316,40.905
+"14041","Eoptychopterina transbaicalica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14103","Eopericoma zherichini","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14121","Mailotrichocera jurassica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14181","Eotipuloptera savtshenkoi","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14271","Limoniidae","family","Oxfordian","Kimmeridgian",163.5,152.1,111.93,51.77,109.77,61.68,"Diptera",16,15,112.368,55.8565
+"14301","Chironomaptera scobloi","species","Oxfordian","Kimmeridgian",163.5,152.1,111.93,51.77,109.77,61.68,"Diptera",16,15,112.368,55.8565
+"14312","Chironomaptera bucucunica","species","Late Jurassic","",163.5,145,111.129997,49.439999,109.27,59.67,"Diptera",16,14,112.3804,53.4719
+"14351","Praechaoborus udaensis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14361","Hypsocorethra toficola","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14421","Chaoboridae","family","Late Jurassic","",163.5,145,111.129997,49.439999,109.27,59.67,"Diptera",16,14,112.3804,53.4719
+"14441","Chaoboridae","family","Late Jurassic","",163.5,145,111.744003,49.695,109.74,60.08,"Diptera",16,14,112.9464,53.8051
+"1445","Oryctochlus vulcanus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14461","Oryctochlus longilobus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14471","Oryctochlus minor","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14481","Oryctochlus affinis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14501","Oryctochlus minutus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14511","Ulaia montana","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14521","Ulaia magna","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"1453","Ulaia reducta","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14541","Jurochlus sibiricus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14551","Jurochlus rigor","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14561","Ulaimailonia mixta","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14571","Ulaimailia vetula","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14581","Mogsonomus tophus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.93,51.77,109.77,61.68,"Diptera",16,15,112.368,55.8565
+"14671","Mailonia pallida","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14681","Tophocladius stygialis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14691","Tanypodites gorchonensis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14721","Tanyderites admirandus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14741","Procramptonomyiidae","family","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"14751","Procramptonomyia sibirica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"15051","Krasnoyarskia secunda","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"1506","Willihennigia","genus","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"15071","Willihennigia curtipes","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"1508","Willihennigia inconspicua","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"15091","Willihennigia bicalcarata","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"1510","Willihennigia pleciiformis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"1511","Willihennigia furcata","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"15121","Willihennigia maxima","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"15131","Willihennigia atypica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"15181","Fungivoroplecia jurassica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"15191","Pleciofungivorella udaensis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"15251","Pleciofungivorella","genus","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"15261","Ghilaroviana longistyla","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Diptera",16,15,111.397,56.3479
+"16281","Jurochlus trivittatus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"16291","Jurochlus limbatus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"16301","Jurochlus lineatus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"16381","Eoptychopterina petri","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"18141","Sharasargus ruptus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"18171","Eremochaetidae","family","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"18191","Archisargoidea","superfamily","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Diptera",15,14,110.5056,46.7121
+"1900","Mesothaumalea fossilis","species","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Diptera",15,14,118.3339,56.682
+"19341","Mailotrichocera gracilis","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19361","Mailotrichocera gracilis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"19371","Mailotrichocera gracilis","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"19381","Mailotrichocera prisca","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"19391","Mailotrichocera ovifera","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19401","Mailotrichocera prisca","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19411","Mailotrichocera sukachevae","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19431","Eotrichocera (Eotrichocera)","subgenus","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Diptera",15,14,110.5056,46.7121
+"19491","Karatina","genus","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19521","Rasnitsynina collecta","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"19531","Rasnitsynina minae","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"19541","Rasnitsynina minae","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"19691","Tanyochoreta (Trichokara) zagadka","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19701","Tanyochoreta (Trichokara) zbulwami","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19711","Undaya alata","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19721","Undaya comis","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19731","Undaya gargantuina","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19741","Undaya hilara","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19751","Tanyochoreta (Trichokara) zbulwami","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"19761","Undaya gargantuina","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"19881","Undaya alata","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"19891","Undaya hilara","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"19901","Undaya gargantuina","species","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Diptera",15,14,118.3339,56.682
+"19911","Undaya kaluginae","species","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Diptera",15,14,118.3339,56.682
+"19921","Undaya kaluginae","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"19931","Undaya mitis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"19941","Undaya molesta","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"19951","Undaya parvula","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"19961","Undaya","genus","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"19971","Undaya mitis","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19981","Undaya molesta","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"19991","Undaya parvula","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"20001","Undaya pura","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"20012","Undaya","genus","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"20041","Undaya pura","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"20051","Undaya savina","species","Tithonian","",152.1,145,102.559998,53.740002,94.37,60.36,"Diptera",15,14,101.6406,56.4451
+"20121","Kovaleva (Kovaleva) fragmentosa","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"20131","Kovaleva (Kovaleva) obscura","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"20141","Kovaleva (Kovaleva) fragmentosa","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"20151","Kovaleva (Kovaleva) hirsuta","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"20161","Kovaleva (Kovaleva) obscura","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"20171","Kovaleva (Kovaleva) volodii","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"20181","Kovaleva (Vladimirevna) mirabilis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"20191","Kovaleva (Kovaleva) obscura","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"20201","Kovaleva (Kovaleva) sheviae","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"20211","Kovaleva (Kovaleva) volodii","species","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Diptera",15,14,118.3339,56.682
+"20221","Kovaleva (Vladimirevna) mirabilis","species","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Diptera",15,14,118.3339,56.682
+"20251","Undaya","genus","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"21061","Eucorethrina convexa","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21071","Undaya lukashevichae","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21081","Undaya lenae","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21091","Tipunia jorgi","species","Tithonian","",152.1,145,95.791,44.141998,96.03,49.83,"Diptera",15,14,98.169,46.1009
+"21103","Tipunia undata","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Diptera",15,14,98.1446,46.0943
+"21112","Tipunia undata","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2112","Cretolimonia pygmaea","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21131","Cretolimonia jurassica","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21141","Architipula (Architipula) krzeminskii","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2115","Architipula (Architipula) krzeminskii","species","Tithonian","",152.1,145,95.793999,44.137001,96.03,49.83,"Diptera",15,14,98.1736,46.0964
+"2116","Architipula (Architipula) ampla","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"2117","Architipula (Architipula) ampla","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2118","Mesotipula (Irenatipula) brevicella","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"2119","Mesotipula (Irenatipula) sigmoidea","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"2120","Mesotipula (Irenatipula) sigmoidea","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2121","Mesotipula (Metatipula) continens","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"2122","Mesotipula (Metatipula) continens","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2123","Eotipula","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2124","Eotipulina evidens","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2125","Eotipulina sharategica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2126","Eotipulina sharategica","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"2127","Eotipulina paula","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"2128","Limoniidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2129","Limoniidae","family","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21301","Protanyderus vetus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21312","Protanyderus senilis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21321","Protanyderus nebulosus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2133","Protanyderus","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2134","Protanyderus nebulosus","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Diptera",15,14,98.1525,46.0995
+"2135","Proptychopterina sharategica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2136","Praemacrochile ansorgei","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2137","Archizelmira kazachstanica","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21381","Archizelmira kazachstanica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21391","Eoptychoptera tempestilla","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21401","Nedoptychoptera","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21412","Eoptychopterina kaluginae","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21421","Mesosolva longivena","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21431","Tega penna","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21441","Procramptonomyia kovalevi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21451","Procramptonomyia ponomarenkoi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21461","Mesorhyphus handlirschi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21471","Mesorhyphus hennigi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21481","Mesorhyphus handlirschi","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Diptera",15,14,98.1446,46.0943
+"21491","Procramptonomyia kovalevi","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Diptera",15,14,98.1446,46.0943
+"21501","Procramptonomyia kovalevi","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21511","Archirhyphus asiaticus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21521","Protorhyphus rohdendorfi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21531","Protorhyphus rohdendorfi","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"2154","Zherikhinina alastos","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21551","Zherikhinina alastos","species","Tithonian","",152.1,145,95.767998,44.140999,96,49.82,"Diptera",15,14,98.146,46.0965
+"21561","Zherikhinina alastos","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21571","Mesoplecia","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21581","Mesopleciella","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21591","Pleciofungivora","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21601","Pleciofungivorella","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21612","Fungivorites","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21621","Fungivoroplecia","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21631","Pleciomima","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21641","Sciaromima","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21651","Paralycoriomima","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21661","Lycoriomimodes","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21671","Antiquamedia","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2168","Mesosciophilidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21691","Rhagionidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"2170","Protoligoneura","genus","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21712","Pleciofungivora","genus","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21721","Ghilaroviana","genus","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21731","Pleciomima","genus","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21741","Sciaromima","genus","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21751","Paralycoriomima","genus","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21761","Rhagionidae","family","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Diptera",15,14,98.1462,46.0925
+"21771","Bryanka","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21781","Pachyrhyphus","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Diptera",15,14,98.1547,46.0957
+"21931","Notoatherix antiqua","species","Tithonian","",152.1,145,149.684601,-32.167149,127.9,-70.59,"Diptera",15,14,88.7767,-74.6348
+"22581","Eotipula grangeri","species","Tithonian","",152.1,145,149.684601,-32.167149,127.9,-70.59,"Diptera",15,14,88.7767,-74.6348
+"2453","Mesotipula (Irenatipula) undinella","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Diptera",15,14,117.8204,56.4675
+"25371","Cretolimonia dayana","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Diptera",15,14,118.4949,56.7583
+"25381","Cretolimonia lukashevichae","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"25391","Cretolimonia pseudojurassica","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Diptera",15,14,117.703,57.0676
+"3659","Siphlonuridae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Ephemeroptera",15,14,98.1547,46.0957
+"4014","Epeoromimus umbratus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Ephemeroptera",15,14,98.1547,46.0957
+"4113","Siberiogenites mongolicus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Ephemeroptera",15,14,98.1547,46.0957
+"4415","Ephemeroptera","order","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Ephemeroptera",15,14,98.1547,46.0957
+"4615","Hexagenites weyenberghi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Ephemeroptera",15,14,18.8301,40.9199
+"4914","Archaeobehningia edmundsi","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Ephemeroptera",16,15,111.397,56.3479
+"6114","Turfanerella tingi","species","Late Jurassic","",163.5,145,89.199997,42.849998,91.62,46.87,"Ephemeroptera",16,14,91.924,43.8602
+"7114","Proameletus caudatus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Ephemeroptera",15,14,117.8204,56.4675
+"7214","Epeoromimus cretaceus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Ephemeroptera",15,14,117.8204,56.4675
+"9313","Mogzonurus elevatus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.93,51.77,109.77,61.68,"Ephemeroptera",16,15,112.368,55.8565
+"9414","Mogzonurella dissimilis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.93,51.77,109.77,61.68,"Ephemeroptera",16,15,112.368,55.8565
+"9514","Mogzonurella longa","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Ephemeroptera",16,15,111.397,56.3479
+"9714","Stackelbergisca sibirica","species","Oxfordian","Kimmeridgian",163.5,152.1,109.199997,52.349998,106.11,61.36,"Ephemeroptera",16,15,109.2139,56.0437
+"10914","Mesobaetis mandalensis","species","Tithonian","",152.1,145,104.133331,44.416668,105.82,51.45,"Ephemeroptera",15,14,106.8093,45.4903
+"15013","Hexagenites cellulosus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Ephemeroptera",15,14,18.8301,40.9199
+"16212","Olgisca schwertschlageri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Ephemeroptera",15,14,18.8301,40.9199
+"16812","Bolbonyx ludibriosus","species","Tithonian","",152.1,145,115.660004,50.759998,111.82,61.93,"Ephemeroptera",15,14,116.7886,55.3719
+"16910","Bolbonyx ludibriosus","species","Tithonian","",152.1,145,115.664169,50.760834,111.83,61.94,"Ephemeroptera",15,14,116.7928,55.3732
+"17113","Bolbonyx ludibriosus","species","Tithonian","",152.1,145,115.664169,50.758331,111.83,61.93,"Ephemeroptera",15,14,116.7937,55.3708
+"17313","Bolbonyx ludibriosus","species","Tithonian","",152.1,145,115.660004,50.754723,111.83,61.93,"Ephemeroptera",15,14,116.7905,55.3667
+"17412","Mogzonurella colorata","species","Late Jurassic","",163.5,145,111.129997,49.439999,109.27,59.67,"Ephemeroptera",16,14,112.3804,53.4719
+"17511","Epeoromimus cretaceus","species","Tithonian","",152.1,145,117.61972,51.918056,112.96,63.54,"Ephemeroptera",15,14,118.4982,56.7608
+"17612","Epeoromimus cretaceus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Ephemeroptera",15,14,118.4949,56.7583
+"18012","Proameletus caudatus","species","Tithonian","",152.1,145,116.912498,51.709167,112.33,63.14,"Ephemeroptera",15,14,117.8015,56.4644
+"18113","Proameletus caudatus","species","Tithonian","",152.1,145,116.917778,51.702499,112.34,63.14,"Ephemeroptera",15,14,117.8099,56.4586
+"18313","Proameletus caudatus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Ephemeroptera",15,14,118.4949,56.7583
+"18512","Proameletus caudatus","species","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Ephemeroptera",15,14,118.2773,56.5474
+"21212","Ephemeropsis","genus","Tithonian","",152.1,145,116,52,110.93,63.12,"Ephemeroptera",15,14,116.6903,56.6287
+"22912","Stackelbergisca sibirica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Ephemeroptera",16,15,111.397,56.3479
+"3570","Blattogryllulus mongolicus","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Grylloblattodea",15,14,110.5056,46.7121
+"3667","Bajanzhargalana magna","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Grylloblattodea",15,14,110.5056,46.7121
+"3770","Blattogryllulus lucidus","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Grylloblattodea",15,14,110.5056,46.7121
+"12108","Hemiptera","order","Kimmeridgian","Tithonian",157.3,145,-107.846802,44.541901,-40.98,31.5,"Hemiptera",16,14,-54.6438,40.8784
+"4451","Nettelstedtia breitkreutzi","species","Kimmeridgian","",157.3,152.1,8.708,52.292,21.89,35.4,"Hemiptera",16,15,16.3965,44.1781
+"4493","Saldonia formosa","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"4503","Saldonia insolita","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"4517","Shartegocimex rasnitsyni","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"4523","Shartegocimex distans","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"4533","Shartegocorpus paranotalis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"4818","Saldonia insolita","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Hemiptera",15,14,98.1462,46.0925
+"4917","Haenbea badamgaravae","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Hemiptera",15,14,110.5056,46.7121
+"4963","Haenbea badamgaravae","species","Tithonian","",152.1,145,107.796997,45.591999,109.01,53.53,"Hemiptera",15,14,110.5127,46.7142
+"5018","Haenbea badamgaravae","species","Tithonian","",152.1,145,99.169998,45.220001,98.64,51.88,"Hemiptera",15,14,101.2839,47.6504
+"6393","Karabasia constellata","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Hemiptera",15,14,117.703,57.0676
+"6402","Karabasia evansi","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Hemiptera",15,14,117.8204,56.4675
+"6693","Scarabaeides deperditus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"6702","Hemiptera","order","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"6715","Mesonepa primordialis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"6723","Mesocorixa tenuielythris","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"7342","Progonocimicidae","family","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Hemiptera",16,15,111.397,56.3479
+"7452","Saldonia sibirica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Hemiptera",16,15,111.397,56.3479
+"9962","Sphaerodemopsis jurassica","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"10002","Eocicada microcephala","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"10022","Prolystra lithographica","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"10072","Archipsyche eichstattensis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"10121","Stygeonepa foersteri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"10822","Copidopus jurassicus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"11042","Notonectites elterleini","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"11092","Mesonepa minor","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"12302","Gazimuria scutellata","species","Tithonian","",152.1,145,120.349442,52.936111,117.8,63.53,"Hemiptera",15,14,123.1951,54.1884
+"14042","Bakharia gibbera","species","Callovian","Kimmeridgian",166.1,152.1,119.184998,50.814999,123.19,60,"Hemiptera",17,15,122.0448,52.0578
+"14572","Subaphidulum ponomarenkoi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"14582","Subaphidulum gobicum","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"14591","Cicadopsyllidium mongolicum","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"14602","Aphidulum bemigdium","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"14921","Ischyopteron suprajurense","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"14942","Galerucites carinata","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"15515","Cicadomorpha parula","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Hemiptera",15,14,117.703,57.0676
+"15521","Cicadomorpha milva","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Hemiptera",15,14,118.4949,56.7583
+"15531","Anthoscytina daica","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Hemiptera",15,14,118.4949,56.7583
+"15572","Anthoscytina daica","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Hemiptera",15,14,117.8204,56.4675
+"15661","Cicadocoris lilliputus","species","Callovian","Kimmeridgian",166.1,152.1,119.184998,50.814999,123.19,60,"Hemiptera",17,15,122.0448,52.0578
+"15682","Shelopuga sinitsae","species","Tithonian","",152.1,145,115.660004,50.759998,111.82,61.93,"Hemiptera",15,14,116.7886,55.3719
+"15691","Shelopuga sinitsae","species","Tithonian","",152.1,145,115.660004,50.754723,111.83,61.93,"Hemiptera",15,14,116.7905,55.3667
+"15714","Quacsa ignota","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Hemiptera",15,14,117.8204,56.4675
+"15731","Saldomortalia zherichini","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Hemiptera",15,14,117.703,57.0676
+"15741","Saldomortalia hyalina","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Hemiptera",15,14,118.4949,56.7583
+"15761","Shelopuga sinitsae","species","Tithonian","",152.1,145,116.870003,51.98,111.99,63.37,"Hemiptera",15,14,117.6508,56.7236
+"18742","Gallomesovelia grioti","species","Late Kimmeridgian","",155.7,150.8,5.7756,45.990601,20.41,28.7,"Hemiptera",16,15,14.3953,37.7676
+"19201","Coryphocorixa zhangi","species","Tithonian","",152.1,145,95.769997,44.134998,96.01,49.82,"Hemiptera",15,14,98.1498,46.0909
+"19214","Coryphocorixa zhangi","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Hemiptera",15,14,98.1462,46.0925
+"19221","Coryphocorixa zhangi","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Hemiptera",15,14,98.1446,46.0943
+"19231","Coryphocorixa zhangi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"19241","Jurategia laticlavalis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"19252","Jurategia yaoi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"19262","Shartegonaucoris weitingae","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"19282","Jurategia laticlavalis","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Hemiptera",15,14,98.1462,46.0925
+"19292","Mesoveliidae","family","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Hemiptera",15,14,98.1462,46.0925
+"19302","Veliidae","family","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Hemiptera",15,14,98.1462,46.0925
+"19315","Dellashara tega","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"19322","Pterotella shartegensis","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Hemiptera",15,14,98.1462,46.0925
+"19332","Coryphocorixa zhangi","species","Tithonian","",152.1,145,95.767998,44.140999,96,49.82,"Hemiptera",15,14,98.146,46.0965
+"19342","Velocipedidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"19351","Nabidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"19362","Vetanthocoridae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"19372","Coreoidea","superfamily","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"19821","Belostomatinae","subfamily","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"1984","Pelonecta solnhofeni","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"19852","Nepoidea","superfamily","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hemiptera",15,14,18.8301,40.9199
+"20332","Enicocorinae","subfamily","Late Tithonian","Early Berriasian",150.8,140.2,-2.4415,50.533001,14.3,32.59,"Hemiptera",15,14,7.0112,42.0622
+"21231","Tinaphis mongolica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hemiptera",15,14,98.1547,46.0957
+"22002","Talbragarocossus jurassicus","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Hemiptera",15,14,88.7891,-74.6434
+"23341","Morrisonnepa jurassica","species","Early Tithonian","",150.8,145,-109.574997,37.634998,-45.14,26.77,"Hemiptera",15,14,-62.5355,34.4163
+"23672","Talbragaropsyllidium averyi","species","Tithonian","",152.1,145,149.684601,-32.167149,127.9,-70.59,"Hemiptera",15,14,88.7767,-74.6348
+"22715","Cleistogaster dahurica","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Hymenoptera",15,14,118.4949,56.7583
+"24616","Bethylonymus sibiricus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Hymenoptera",16,15,111.397,56.3479
+"2774","Mesolyda sibirica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Hymenoptera",16,15,111.397,56.3479
+"6153","Undatoma dahurica","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Hymenoptera",15,14,117.8204,56.4675
+"6173","Juralyda udensis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Hymenoptera",16,15,111.397,56.3479
+"6443","Myrmicium schroeteri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hymenoptera",15,14,18.8301,40.9199
+"6453","Apiaria mesozoica","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hymenoptera",15,14,18.8301,40.9199
+"7516","Udaserphus transbaicalicus","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Hymenoptera",16,15,111.397,56.3479
+"7523","Jurapria sibirica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Hymenoptera",16,15,111.397,56.3479
+"8023","Onokhoius aculeatus","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Hymenoptera",15,14,110.5056,46.7121
+"8202","Gulgonga beattiei","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Hymenoptera",15,14,88.7891,-74.6434
+"8216","Apocrita","suborder","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Hymenoptera",15,14,88.7891,-74.6434
+"8443","Cretobraconus maculatus","species","Tithonian","",152.1,145,104.133331,44.416668,105.82,51.45,"Hymenoptera",15,14,106.8093,45.4903
+"8621","Apocrita","suborder","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hymenoptera",15,14,18.8301,40.9199
+"8632","Myrmicium nanus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hymenoptera",15,14,18.8301,40.9199
+"8673","Myrmicium elongatum","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hymenoptera",15,14,18.8301,40.9199
+"9883","Bolboxyela bolboica","species","Tithonian","",152.1,145,115.664169,50.758331,111.83,61.93,"Hymenoptera",15,14,116.7937,55.3708
+"9892","Kuengilarva inexpectata","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Hymenoptera",15,14,117.703,57.0676
+"9917","Apocrita","suborder","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Hymenoptera",15,14,118.2773,56.5474
+"9942","Vespina","suborder","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Hymenoptera",15,14,117.8204,56.4675
+"10453","Apiaria oppenheimi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Hymenoptera",15,14,18.8301,40.9199
+"13613","Shartexyela mongolica","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Hymenoptera",15,14,98.1525,46.0995
+"13622","Sepulca mongolica","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Hymenoptera",15,14,98.1525,46.0995
+"13631","Apocrita","suborder","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hymenoptera",15,14,98.1547,46.0957
+"13641","Altephialtites altaicus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hymenoptera",15,14,98.1547,46.0957
+"13652","Praescopinus excellens","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hymenoptera",15,14,98.1547,46.0957
+"13661","Praeaulacus patiens","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Hymenoptera",15,14,98.1446,46.0943
+"13672","Praeaulacus sharteg","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Hymenoptera",15,14,98.1446,46.0943
+"13682","Anomopterella gobi","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hymenoptera",15,14,98.1547,46.0957
+"13691","Mesaulacinus mongolicus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hymenoptera",15,14,98.1547,46.0957
+"13701","Cleistogaster gobialtaica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Hymenoptera",15,14,98.1547,46.0957
+"16332","Anaxyelidae","family","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Hymenoptera",15,14,110.5056,46.7121
+"9109","Daiopterix olgae","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Lepidoptera",15,14,118.4949,56.7583
+"2738","Eolepidopterix jurassica","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Lepidoptera",16,15,111.397,56.3479
+"5020","Undopterix sukatshevae","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Lepidoptera",15,14,117.8204,56.4675
+"5220","Daiopterix rasnitsyni","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Lepidoptera",15,14,118.4949,56.7583
+"18016","Malmocimbrophlebia buergeri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Mecoptera",15,14,18.8301,40.9199
+"23216","Mesopanorpa","genus","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Mecoptera",16,15,111.397,56.3479
+"24017","Protorthophlebia hebes","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Mecoptera",16,15,111.397,56.3479
+"24414","Neorthophlebia","genus","Late Jurassic","",163.5,145,108.120003,51.215,104.19,60.29,"Mecoptera",16,14,108.5208,54.7868
+"3863","Orthophlebia bolboica","species","Tithonian","",152.1,145,115.664169,50.758331,111.83,61.93,"Mecoptera",15,14,116.7937,55.3708
+"3884","Mesopanorpa tergenica","species","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Mecoptera",15,14,118.2773,56.5474
+"3893","Mesopanorpa martynovae","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Mecoptera",15,14,118.4949,56.7583
+"3904","Orthophlebiidae","family","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Mecoptera",15,14,118.3339,56.682
+"39110","Sibirobittacus undus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Mecoptera",15,14,117.8204,56.4675
+"3924","Undisca dobrokhotovae","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Mecoptera",15,14,117.8204,56.4675
+"3933","Orthophlebiidae","family","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Mecoptera",15,14,118.4949,56.7583
+"3943","Panorpoidea","superfamily","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Mecoptera",15,14,117.703,57.0676
+"40110","Palaeoboreus zherichini","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Mecoptera",15,14,110.5056,46.7121
+"4393","Orthophlebia lithographica","species","Early Tithonian","",150.8,145,11.175,48.904999,23.89,32.08,"Mecoptera",15,14,18.8567,40.9164
+"5063","Neorthophlebia yunnanensis","species","Oxfordian","Kimmeridgian",163.5,152.1,101.769997,25.049999,117.75,28.6,"Mecoptera",16,15,107.0275,22.5215
+"5075","Orobittacus minutus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Mecoptera",15,14,98.1547,46.0957
+"5083","Scharabittacus mongolicus","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Mecoptera",15,14,98.1525,46.0995
+"5095","Orthophlebiidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Mecoptera",15,14,98.1547,46.0957
+"51011","Orthophlebia gubini","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Mecoptera",15,14,98.1547,46.0957
+"51111","Orthophlebia shartegica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Mecoptera",15,14,98.1547,46.0957
+"5129","Orthophlebia","genus","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Mecoptera",15,14,98.1547,46.0957
+"5134","Orthophlebia shartegica","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Mecoptera",15,14,98.1462,46.0925
+"5145","Orthophlebia shartegica","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Mecoptera",15,14,98.1446,46.0943
+"5234","Mesopanorpa praeangustipennis","species","Jurassic","",201.3,145,65.330002,47.830002,77.31,47.11,"Mecoptera",20,14,67.458,45.2544
+"7126","Corydalus vetustus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Megaloptera",15,14,18.8301,40.9199
+"14120","Sharasialis fusiformis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Megaloptera",15,14,98.1547,46.0957
+"3860","Mesopsychopsis hospes","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"15119","Buratina","genus","Late Oxfordian","Valanginian",161.2,132.9,89.5,31.75,96.19,17.28,"Neuroptera",16,13,85.0809,16.9308
+"18123","Buratina","genus","Kimmeridgian","",157.3,152.1,-7.866667,37.133331,8.82,22.08,"Neuroptera",16,15,0.3051,31.8897
+"19114","Buratina","genus","Kimmeridgian","",157.3,152.1,-9.066667,38.983334,8.77,24.16,"Neuroptera",16,15,0.3961,33.9656
+"20119","Buratina","genus","Kimmeridgian","",157.3,152.1,-8.983333,39.549999,9.11,24.64,"Neuroptera",16,15,0.8028,34.4261
+"21119","Buratina lusitanica","species","Kimmeridgian","",157.3,152.1,-8.983333,39.549999,9.11,24.64,"Neuroptera",16,15,0.8028,34.4261
+"23117","Buratina lusitanica","species","Late Oxfordian","Kimmeridgian",161.2,152.1,-9.066667,38.666668,9.23,24.13,"Neuroptera",16,15,0.2084,33.69
+"2750","Buratina lusitanica","species","Kimmeridgian","",157.3,152.1,-9.066667,38.950001,8.76,24.13,"Neuroptera",16,15,0.3763,33.9366
+"28107","Buratina lusitanica","species","Kimmeridgian","",157.3,152.1,-9.183333,39,8.69,24.21,"Neuroptera",16,15,0.3109,34.0248
+"29107","Buratina lusitanica","species","Kimmeridgian","",157.3,152.1,-9.1,38.966667,8.74,24.16,"Neuroptera",16,15,0.359,33.9639
+"5725","Prohemerobius minor","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Neuroptera",15,14,98.1547,46.0957
+"5824","Sogjuta shartegica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Neuroptera",15,14,98.1547,46.0957
+"10819","Leptolingia shartegica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Neuroptera",15,14,98.1547,46.0957
+"11916","Buratina lusitanica","species","Late Kimmeridgian","",155.7,150.8,13.983333,47.583332,35.65,18.12,"Neuroptera",16,15,22.6816,33.4427
+"23417","Mesonymphes hageni","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"28813","Nymphites priscus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"28913","Pseudomyrmeleon extinctus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"29012","Brongniartiella gigas","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"31913","Angarogramma incerta","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Neuroptera",16,15,111.397,56.3479
+"32012","Osmylites udensis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Neuroptera",16,15,111.397,56.3479
+"38213","Palparites deichmuelleri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"38315","Ineptiae meunieri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"38415","Gigantotermes excelsus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"38511","Neuroptera","order","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"3954","Nymphites lithographicus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"3982","Dicranoptila deichmuelleri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"3994","Osmylites excelsa","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"4025","Archegetes neuropterorum","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"4034","Mesotermes heros","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"4055","Mesochrysopa zitteli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"4075","Nymphites braueri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"4094","Creagroptera schwertschlageri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"4133","Brongniartiella inconditissimi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"4144","Kalligramma haeckeli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"4155","Meioneurites schlosseri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"4165","Buratina lusitanica","species","Late Tithonian","Berriasian",150.8,139.8,13.8,47.633331,36.97,16.3,"Neuroptera",15,14,22.6086,33.5613
+"4665","Mesosmylina","genus","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Neuroptera",15,14,117.703,57.0676
+"4705","Kalligrammula senckenbergiana","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Neuroptera",15,14,18.8301,40.9199
+"6336","Kalligrammatidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Neuroptera",15,14,98.1547,46.0957
+"6346","Dimidiosmylus ramosus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Neuroptera",15,14,98.1547,46.0957
+"6355","Osmylidae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Neuroptera",15,14,98.1547,46.0957
+"6365","Frustumopsychops pectinatus","species","Tithonian","",152.1,145,95.765999,44.139,96,49.82,"Neuroptera",15,14,98.1446,46.0943
+"6374","Jurakempynus sublimis","species","Tithonian","",152.1,145,95.791,44.141998,96.03,49.83,"Neuroptera",15,14,98.169,46.1009
+"6472","Sinosmylites hotgoricus","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Neuroptera",15,14,110.5056,46.7121
+"6554","Leptolingia oblonga","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Neuroptera",15,14,110.5056,46.7121
+"7402","Buratina","genus","Middle Callovian","Early Kimmeridgian",164.7,150.8,56.5,33,68.32,27.54,"Neuroptera",16,15,43.862,-14.9175
+"8663","Saucrosmylidae","family","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Neuroptera",15,14,110.5056,46.7121
+"8794","Buratina lusitanica","species","Kimmeridgian","Early Tithonian",157.3,145,23.166668,45.466667,34.38,10.97,"Neuroptera",16,14,999.99,999.99
+"2759","Stenophlebia latreillei","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"3866","Mesuropetala muensteri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"4126","Misofaeschnidium densum","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"5136","Bergeriaeschnidia inexpectata","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6130","Eumorbaeschna jurassica","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"7129","Solnhofenia stoebeneri","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Odonata",15,14,18.8316,40.905
+"8124","Aeschnogomphus kuempeli","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Odonata",15,14,18.8316,40.905
+"10125","Parastenophlebia casta","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"11123","Isophlebia aspasia","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"12126","Protolindenia wittei","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"13124","Aeschnogomphus intermedius","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"14125","Urogomphus giganteus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6320","Nannogomphus buergeri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6824","Prostenophlebia jurassica","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6926","Stenophlebia amphitrite","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"7130","Stenophlebia eichstaettensis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"7325","Stenophlebiidae","family","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"7420","Stenophlebia phryne","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"8325","Aeschnopsis tischlingeri","species","Early Tithonian","",150.8,145,11.105,48.904999,23.84,32.07,"Odonata",15,14,18.7959,40.9129
+"8420","Mesuropetalidae","family","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"9126","Cymatophlebia longialata","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"9220","Cymatophlebia longialata","species","Early Tithonian","",150.8,145,11.175,48.904999,23.89,32.08,"Odonata",15,14,18.8567,40.9164
+"9320","Cymatophlebia longialata","species","Early Tithonian","",150.8,145,11.11,48.900002,23.85,32.07,"Odonata",15,14,18.8008,40.9082
+"9419","Cymatophlebia longialata","species","Early Tithonian","",150.8,145,11.185,48.904999,23.9,32.08,"Odonata",15,14,18.8653,40.9169
+"9520","Cymatophlebia longialata","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Odonata",15,14,18.8316,40.905
+"9618","Cymatophlebia longialata","species","Early Tithonian","",150.8,145,11.145,48.908001,23.87,32.08,"Odonata",15,14,18.8303,40.9179
+"9820","Stenophlebia rolfhuggeri","species","Late Kimmeridgian","",155.7,150.8,8.881,48.132999,22.35,31.2,"Odonata",16,15,16.9375,40.037
+"10126","Cymatophlebia suevica","species","Early Kimmeridgian","",155.7,150.8,8.998,48.214001,22.42,31.3,"Odonata",16,15,17.032,40.1231
+"10220","Cymatophlebia herrienae","species","Early Kimmeridgian","",155.7,150.8,9.1222,48.356899,22.48,31.45,"Odonata",16,15,17.1271,40.2713
+"10419","Cymatophlebia pumilio","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"10619","Cymatophlebia pumilio","species","Early Tithonian","",150.8,145,11.105,48.904999,23.84,32.07,"Odonata",15,14,18.7959,40.9129
+"10720","Cymatophlebia kuempeli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"11220","Eumorbaeschna jurassica","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Odonata",15,14,18.8316,40.905
+"11320","Eumorbaeschna jurassica","species","Early Tithonian","",150.8,145,11.145,48.908001,23.87,32.08,"Odonata",15,14,18.8303,40.9179
+"14619","Steleopteron deichmuelleri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"14718","Xeta olovica","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Odonata",15,14,117.703,57.0676
+"15019","Sinitsia sophiae","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Odonata",15,14,117.703,57.0676
+"15319","Parasteleopteron guischardi","species","Early Tithonian","",150.8,145,10.96,48.895,23.73,32.05,"Odonata",15,14,18.6712,40.8958
+"15418","Parasteleopteron guischardi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"15520","Euparasteleopteron viohli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"15619","Odonata","order","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"15919","Euphaeopsis multinervis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"16126","Juracordulia schiemenzi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"18219","Lithoaeschnidium viohli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"18319","Brunetaeschnidium","genus","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"18417","Brunetaeschnidium nusplingensis","species","Late Kimmeridgian","",155.7,150.8,8.881,48.132999,22.35,31.2,"Odonata",16,15,16.9375,40.037
+"19320","Malmaeschnidium mayeri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"20616","Kimmeridgebrachypteraeschnidium etchesi","species","Late Kimmeridgian","",155.7,150.8,-2.117,50.619999,13.56,32.47,"Odonata",16,15,7.2851,42.1559
+"21719","Stenophlebia latreillei","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Odonata",15,14,18.8316,40.905
+"22419","Isophlebia aspasia","species","Early Tithonian","",150.8,145,11.105,48.904999,23.84,32.07,"Odonata",15,14,18.7959,40.9129
+"22515","Isophlebia aspasia","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Odonata",15,14,18.8316,40.905
+"22617","Isophlebia aspasia","species","Early Tithonian","",150.8,145,11.175,48.904999,23.89,32.08,"Odonata",15,14,18.8567,40.9164
+"2769","Prohemeroscopus jurassicus","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Odonata",15,14,18.8316,40.905
+"2777","Prohemeroscopus kuehnapfeli","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Odonata",15,14,18.8316,40.905
+"27915","Proterogomphus renateae","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"33513","Urogomphus giganteus","species","Early Tithonian","",150.8,145,11.185,48.904999,23.9,32.08,"Odonata",15,14,18.8653,40.9169
+"33713","Urogomphus giganteus","species","Early Tithonian","",150.8,145,10.961944,48.892776,23.74,32.04,"Odonata",15,14,18.6731,40.8936
+"33814","Aeschnogomphus","genus","Early Tithonian","",150.8,145,11.545,48.909,24.18,32.13,"Odonata",15,14,19.1772,40.9391
+"37011","Protolindenia wittei","species","Early Tithonian","",150.8,145,11.105,48.904999,23.84,32.07,"Odonata",15,14,18.7959,40.9129
+"38115","Isophlebioidea","superfamily","Tithonian","",152.1,145,107.796997,45.591999,109.01,53.53,"Odonata",15,14,110.5127,46.7142
+"38316","Parawalleria mongolica","species","Tithonian","",152.1,145,107.796997,45.591999,109.01,53.53,"Odonata",15,14,110.5127,46.7142
+"38416","Parawalleria incompleta","species","Tithonian","",152.1,145,107.796997,45.591999,109.01,53.53,"Odonata",15,14,110.5127,46.7142
+"38512","Sinitsia sophiae","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Odonata",15,14,118.4949,56.7583
+"3906","Sinitsia sophiae","species","Tithonian","",152.1,145,117.007004,51.337002,112.84,62.85,"Odonata",15,14,118.0459,56.1129
+"39112","Sinitsia sophiae","species","Tithonian","",152.1,145,102.559998,53.740002,94.37,60.36,"Odonata",15,14,101.6406,56.4451
+"3927","Sinitsia sophiae","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Odonata",15,14,117.8204,56.4675
+"3945","Dahurium draco","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Odonata",15,14,118.4949,56.7583
+"3963","Dahurium draco","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Odonata",15,14,117.8204,56.4675
+"4004","Dahurium draco","species","Tithonian","",152.1,145,117.410004,51.650002,112.99,63.24,"Odonata",15,14,118.37,56.4714
+"4027","Dahurium draco","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Odonata",15,14,117.703,57.0676
+"4035","Isophlebiidae","family","Tithonian","",152.1,145,102.559998,53.740002,94.37,60.36,"Odonata",15,14,101.6406,56.4451
+"4046","Isophlebiidae","family","Tithonian","",152.1,145,116,52,110.93,63.12,"Odonata",15,14,116.6903,56.6287
+"4076","Isophlebiidae","family","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Odonata",15,14,117.703,57.0676
+"4874","Mesonetopsis zeni","species","Late Jurassic","",163.5,145,89.199997,42.849998,91.62,46.87,"Odonata",16,14,91.924,43.8602
+"5097","Campterophlebiidae","family","Jurassic","",201.3,145,100.25,54.299999,106.87,62.55,"Odonata",20,14,99.0034,56.6501
+"5257","Isophlebiidae","family","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Odonata",16,15,111.397,56.3479
+"5654","Austroprotolindenia jurassica","species","Tithonian","",152.1,145,149.695007,-32.169998,127.92,-70.6,"Odonata",15,14,88.7891,-74.6434
+"5836","Odonata","order","Late Jurassic","Early Cretaceous",163.5,100.5,107.71611,45.673611,113.13,44.22,"Odonata",16,10,110.428,46.7947
+"61210","Anisophlebia helle","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6156","Nannogomphus bavaricus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"62112","Cymatophlebia longialata","species","Late Kimmeridgian","",155.7,150.8,8.881,48.132999,22.35,31.2,"Odonata",16,15,16.9375,40.037
+"6227","Misofaeschnidium densum","species","Late Kimmeridgian","",155.7,150.8,8.881,48.132999,22.35,31.2,"Odonata",16,15,16.9375,40.037
+"6267","Stenophlebia","genus","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6464","Eumorbaeschna adriankini","species","Early Tithonian","",150.8,145,20.135555,51.376389,29.98,35.76,"Odonata",15,14,26.2906,43.9064
+"6656","Nannogomphus vetustus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6666","Zygoptera","suborder","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6746","Protolindenia viohli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6795","Aeschnogomphus buchi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6845","Aeschnogomphus","genus","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"6954","Parastenophlebia casta","species","Early Tithonian","",150.8,145,11.11,48.900002,23.85,32.07,"Odonata",15,14,18.8008,40.9082
+"7085","Cymatophlebia densa","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"7095","Cymatophlebia longialata","species","Early Tithonian","",150.8,145,11,48.880001,23.77,32.04,"Odonata",15,14,18.7074,40.8828
+"71210","Euparasteleopteron viohli","species","Early Tithonian","",150.8,145,11.11,48.900002,23.85,32.07,"Odonata",15,14,18.8008,40.9082
+"7155","Euphaeopsis multinervis","species","Early Tithonian","",150.8,145,11.11,48.900002,23.85,32.07,"Odonata",15,14,18.8008,40.9082
+"7165","Cymatophlebia pumilio","species","Early Tithonian","",150.8,145,11.11,48.900002,23.85,32.07,"Odonata",15,14,18.8008,40.9082
+"7484","Protolindenia antiqua","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"7525","Anisoptera","suborder","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"8135","Odonata","order","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Odonata",15,14,98.1547,46.0957
+"8145","Asiopteridae","family","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Odonata",15,14,98.1547,46.0957
+"8155","Paragonophlebia patriciae","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Odonata",15,14,98.1547,46.0957
+"8162","Enteropia mongolica","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Odonata",15,14,98.1547,46.0957
+"8173","Odonata","order","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Odonata",15,14,98.1462,46.0925
+"8185","Erichschmidtia","genus","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Odonata",15,14,98.1462,46.0925
+"8424","Mesuropetala muensteri","species","Early Tithonian","",150.8,145,11.175,48.904999,23.89,32.08,"Odonata",15,14,18.8567,40.9164
+"8554","Aeschnopsis perkinsi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"9183","Cymatophlebia longialata","species","Late Tithonian","Early Berriasian",150.8,140.2,-4.3,42.712002,14.18,25.86,"Odonata",15,14,6.4522,35.4152
+"9194","Aktassiidae","family","Late Tithonian","Early Berriasian",150.8,140.2,-4.3,42.712002,14.18,25.86,"Odonata",15,14,6.4522,35.4152
+"9244","Andrephlebia buergeri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"9265","Jurahemiphlebia haeckeli","species","Late Kimmeridgian","",155.7,150.8,11.826,49.007,24.38,32.46,"Odonata",16,15,19.4108,41.0512
+"9275","Reschiostenophlebia koschnyi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"9284","Prohemeroscopus kuehnapfeli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"9294","Andrephlebia buergeri","species","Early Tithonian","",150.8,145,11.145,48.895,23.87,32.07,"Odonata",15,14,18.8316,40.905
+"9303","Jurahemiphlebia haeckeli","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"9323","Prostenophlebia","genus","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Odonata",15,14,18.8301,40.9199
+"11029","Conocephalella capito","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"3868","Grylloidea","superfamily","Late Kimmeridgian","",155.7,150.8,11.584697,48.918259,24.22,32.34,"Orthoptera",16,15,19.2107,40.9504
+"4129","Parapleurites morrisonensis","species","Kimmeridgian","",157.3,152.1,-105.300003,38.400002,-39.46,25.21,"Orthoptera",16,15,-53.7317,34.4884
+"3955","Notohagla mauii","species","Puaroan","",148.5,145,174.741211,-37.426399,157.13,-81.34,"Orthoptera",15,14,62.1722,-84.3728
+"4607","Jurassobatea gryllacroides","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"46113","Gryllidae","family","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"4629","Locustopsis germari","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"4636","Elcana lithophila","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"4646","Pycnophlebia speciosa","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"4707","Cyrtophyllites rogeri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"4928","Pycnophlebia deichmuelleri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"4936","Pycnophlebia robusta","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"4955","Pseudogryllacris propinqua","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"5206","Ashanga clara","species","Oxfordian","Kimmeridgian",163.5,152.1,110.260002,52.369999,107.27,61.7,"Orthoptera",16,15,110.3365,56.2109
+"6186","Panorpidium phyllophora","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"6196","Panorpidium deichmuelleri","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"6207","Panorpidium longicornis","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"62113","Panorpidium oppenheimi","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"6236","Panorpidium lithophila","species","Early Tithonian","",150.8,145,11.703333,49.001389,24.27,32.24,"Orthoptera",15,14,19.305,41.0393
+"6276","Pycnophlebia minor","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"67111","Grylloidea","superfamily","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"7843","Tasgorosailus orlovskajae","species","Late Jurassic","Early Cretaceous",163.5,100.5,69.900002,41.799999,81.23,32.22,"Orthoptera",16,10,73.4066,39.989
+"8434","Prophalangopsidae","family","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Orthoptera",15,14,118.4949,56.7583
+"8464","Prophalangopsidae","family","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Orthoptera",15,14,117.8204,56.4675
+"8474","Sibelcana rossica","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Orthoptera",15,14,117.8204,56.4675
+"8485","Sibelcana transbaicalica","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Orthoptera",15,14,117.703,57.0676
+"8494","Elcanidae","family","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Orthoptera",15,14,118.4949,56.7583
+"8503","Orthoptera","order","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Orthoptera",15,14,118.4949,56.7583
+"85111","Elcanidae","family","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Orthoptera",15,14,118.2773,56.5474
+"8605","Orthoptera","order","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Orthoptera",15,14,117.703,57.0676
+"9135","Ensifera","suborder","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Orthoptera",15,14,18.8301,40.9199
+"9864","Aenigmagryllus indistinctus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Orthoptera",15,14,98.1547,46.0957
+"9875","Paracyrtophyllites popovi","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Orthoptera",15,14,98.1525,46.0995
+"9885","Aenigmagryllus obscurus","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Orthoptera",15,14,98.1525,46.0995
+"9894","Sharategia rasnitsyni","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Orthoptera",15,14,98.1525,46.0995
+"9904","Neosharategia paradoxa","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Orthoptera",15,14,98.1462,46.0925
+"99111","Ponomarenkoana probontzagania","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Orthoptera",15,14,98.1462,46.0925
+"9924","Storozhenkoana parvispeculum","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Orthoptera",15,14,98.1462,46.0925
+"9933","Storozhenkoana parvispeculum","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Orthoptera",15,14,98.1547,46.0957
+"32109","Dimoula dimi","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Plecoptera",15,14,118.4949,56.7583
+"33106","Nemourisca diligens","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Plecoptera",15,14,118.4949,56.7583
+"3930","Platyperla kingi","species","Late Jurassic","",163.5,145,89.199997,42.849998,91.62,46.87,"Plecoptera",16,14,91.924,43.8602
+"4226","Dipsoperla kunikanensis","species","Tithonian","",152.1,145,117.169998,51.82,112.52,63.32,"Plecoptera",15,14,118.0416,56.6064
+"4729","Chloroperloides fusiformis","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Plecoptera",16,15,111.397,56.3479
+"7227","Mogzonoperla truncata","species","Oxfordian","Kimmeridgian",163.5,152.1,111.93,51.77,109.77,61.68,"Plecoptera",16,15,112.368,55.8565
+"7727","Udopteryx complicata","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Plecoptera",16,15,111.397,56.3479
+"10925","Siberioperla abbreviata","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Plecoptera",15,14,110.5056,46.7121
+"11420","Uroperla daja","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Plecoptera",15,14,118.4949,56.7583
+"12420","Dipsoperla serpentis","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Plecoptera",15,14,117.8204,56.4675
+"12520","Dipsoperla serpentis","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Plecoptera",15,14,118.4949,56.7583
+"13320","Pectinoperla notabilis","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Plecoptera",15,14,117.703,57.0676
+"13418","Savina laeta","species","Tithonian","",152.1,145,102.559998,53.740002,94.37,60.36,"Plecoptera",15,14,101.6406,56.4451
+"13519","Perlitodes aenigmaticus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Plecoptera",15,14,118.4949,56.7583
+"13919","Perlariopsis basalis","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Plecoptera",15,14,110.5056,46.7121
+"14325","Perlariopsis terna","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Plecoptera",15,14,110.5056,46.7121
+"16719","Rasnitsyrina desiliens","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Plecoptera",15,14,110.5056,46.7121
+"16819","Karanemoura appropinquata","species","Tithonian","",152.1,145,107.790001,45.59,109.01,53.53,"Plecoptera",15,14,110.5056,46.7121
+"19818","Baleyopteryx urocornis","species","Tithonian","",152.1,145,115.400002,47.200001,116.47,57,"Plecoptera",15,14,118.2433,48.4081
+"20128","Positopteryx dubia","species","Tithonian","",152.1,145,117.449997,51.860001,112.81,63.44,"Plecoptera",15,14,118.3339,56.682
+"20217","Positopteryx dubia","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Plecoptera",15,14,117.8204,56.4675
+"20320","Lycoleuctra lupina","species","Tithonian","",152.1,145,117.355003,51.735001,112.83,63.3,"Plecoptera",15,14,118.2773,56.5474
+"20423","Lycoleuctra lupina","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Plecoptera",15,14,118.4949,56.7583
+"21020","Sharaperla obliqua","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Plecoptera",15,14,98.1547,46.0957
+"21126","Platyperla mendosa","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Plecoptera",15,14,98.1547,46.0957
+"21220","Trianguliperla optanda","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Plecoptera",15,14,98.1547,46.0957
+"21323","Mesoleuctroides derelictus","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Plecoptera",15,14,98.1547,46.0957
+"21419","Dicronemoura attenuata","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Plecoptera",15,14,98.1547,46.0957
+"21519","Karanemoura perpropinqua","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Plecoptera",15,14,98.1547,46.0957
+"21623","Mongolonemoura inversa","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Plecoptera",15,14,98.1547,46.0957
+"21720","Sharaperla obliqua","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Plecoptera",15,14,98.1462,46.0925
+"21820","Trianguliperla optanda","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Plecoptera",15,14,98.1462,46.0925
+"24219","Siberioperla scobloi","species","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Plecoptera",16,15,111.397,56.3479
+"24319","Siberioperla scobloi","species","Oxfordian","Kimmeridgian",163.5,152.1,109.199997,52.349998,106.11,61.36,"Plecoptera",16,15,109.2139,56.0437
+"24418","Siberioperla bukukunica","species","Late Jurassic","",163.5,145,111.129997,49.439999,109.27,59.67,"Plecoptera",16,14,112.3804,53.4719
+"24520","Siberioperla bukukunica","species","Late Jurassic","",163.5,145,111.744003,49.695,109.74,60.08,"Plecoptera",16,14,112.9464,53.8051
+"25518","Bestioperlisca inulata","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Plecoptera",15,14,98.1462,46.0925
+"25118","Mesoraphidia gobiensis","species","Tithonian","",152.1,145,107.796997,45.591999,109.01,53.53,"Raphidioptera",15,14,110.5127,46.7142
+"7624","Trichoptera","order","Oxfordian","Kimmeridgian",163.5,152.1,111.25,52.369999,108.38,62,"Trichoptera",16,15,111.397,56.3479
+"7728","Scyphindusia hydroptiliformis","species","Callovian","Kimmeridgian",166.1,152.1,119.184998,50.814999,123.19,60,"Trichoptera",17,15,122.0448,52.0578
+"7826","Rhyacophila","genus","Oxfordian","Kimmeridgian",163.5,152.1,111.93,51.77,109.77,61.68,"Trichoptera",16,15,112.368,55.8565
+"7927","Secrindusia expressa","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Trichoptera",15,14,98.1462,46.0925
+"8027","Ostracindusia martynovae","species","Tithonian","",152.1,145,95.791,44.141998,96.03,49.83,"Trichoptera",15,14,98.169,46.1009
+"8147","Conchindusia longaeva","species","Tithonian","",152.1,145,95.769997,44.136501,96.01,49.82,"Trichoptera",15,14,98.1494,46.0924
+"8228","Folindusia digna","species","Tithonian","",152.1,145,95.769997,44.136501,96.01,49.82,"Trichoptera",15,14,98.1494,46.0924
+"8330","Conchindusia longaeva","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Trichoptera",15,14,98.1525,46.0995
+"8429","Conchindusia longaeva","species","Tithonian","",152.1,145,95.767998,44.140999,96,49.82,"Trichoptera",15,14,98.146,46.0965
+"8526","Conchindusia longaeva","species","Tithonian","",152.1,145,95.793999,44.137001,96.03,49.83,"Trichoptera",15,14,98.1736,46.0964
+"8627","Folindusia digna","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Trichoptera",15,14,98.1547,46.0957
+"8828","Folindusia digna","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Trichoptera",15,14,98.1525,46.0995
+"8929","Folindusia adumbrata","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Trichoptera",15,14,98.1547,46.0957
+"9028","Folindusia adumbrata","species","Tithonian","",152.1,145,95.769997,44.134998,96.01,49.82,"Trichoptera",15,14,98.1498,46.0909
+"9139","Folindusia pilarius","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Trichoptera",15,14,98.1547,46.0957
+"9227","Folindusia pilarius","species","Tithonian","",152.1,145,95.769997,44.134998,96.01,49.82,"Trichoptera",15,14,98.1498,46.0909
+"9326","Folindusia pilarius","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Trichoptera",15,14,98.1525,46.0995
+"9428","Folindusia megasporae","species","Tithonian","",152.1,145,95.766998,44.137001,96.01,49.82,"Trichoptera",15,14,98.1462,46.0925
+"9527","Folindusia megasporae","species","Tithonian","",152.1,145,95.769997,44.136501,96.01,49.82,"Trichoptera",15,14,98.1494,46.0924
+"9625","Folindusia megasporae","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Trichoptera",15,14,98.1547,46.0957
+"9726","Folindusia megasporae","species","Tithonian","",152.1,145,95.775002,44.143002,96.01,49.83,"Trichoptera",15,14,98.1525,46.0995
+"16823","Archotaulius bavaricus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Trichoptera",15,14,18.8301,40.9199
+"16924","Mesotaulius jurassicus","species","Early Tithonian","",150.8,145,11.145,48.91,23.87,32.08,"Trichoptera",15,14,18.8301,40.9199
+"25519","Dajella tenera","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Trichoptera",15,14,118.4949,56.7583
+"25619","Necrotaulius minutissimus","species","Tithonian","",152.1,145,117.615997,51.916,112.95,63.53,"Trichoptera",15,14,118.4949,56.7583
+"25721","Necrotaulius tener","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Trichoptera",15,14,117.8204,56.4675
+"25820","Utania remissa","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Trichoptera",15,14,117.8204,56.4675
+"25918","Vitimotaulius secundus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Trichoptera",15,14,117.8204,56.4675
+"26020","Necrotaulius minutissimus","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Trichoptera",15,14,117.703,57.0676
+"26122","Liadotaulius shewjensis","species","Tithonian","",152.1,145,117.035004,52.310001,111.82,63.71,"Trichoptera",15,14,117.703,57.0676
+"26219","Liadotaulius korujensis","species","Callovian","Kimmeridgian",166.1,152.1,119.184998,50.814999,123.19,60,"Trichoptera",17,15,122.0448,52.0578
+"26319","Multimodus perillustris","species","Tithonian","",152.1,145,116,52,110.93,63.12,"Trichoptera",15,14,116.6903,56.6287
+"26517","Cretotaulius ultimus","species","Tithonian","",152.1,145,116.93,51.709999,112.35,63.15,"Trichoptera",15,14,117.8204,56.4675
+"26715","Baissoferus udaensis","species","Oxfordian","Kimmeridgian",163.5,152.1,110.260002,52.369999,107.27,61.7,"Trichoptera",16,15,110.3365,56.2109
+"27414","Sukatshevabaga pumila","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Trichoptera",15,14,98.1547,46.0957
+"27513","Bullivena grandis","species","Tithonian","",152.1,145,95.776001,44.139,96.01,49.82,"Trichoptera",15,14,98.1547,46.0957
+"27612","Oncovena sharategensis","species","Tithonian","",152.1,145,95.773003,44.138,96.01,49.82,"Trichoptera",15,14,98.152,46.0943
+"31316","Trichoptera","order","Tithonian","",152.1,145,-108.767967,39.150146,-43.98,27.29,"Trichoptera",15,14,-61.4686,35.807

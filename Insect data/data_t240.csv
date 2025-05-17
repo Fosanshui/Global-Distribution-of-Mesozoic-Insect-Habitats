@@ -1,0 +1,801 @@
+"","name","rank","early_i","late_i","max_ma","min_ma","lng","lat","paleolng","paleolat","group","max_m","min_m","Mlng","Mlat"
+"4","Ferganagrion kirghiziensis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"14","Tillyardomyrmeleon petermilleri","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Archizygoptera",25,24,131.8982,-61.1729
+"16","Voltzialestes triasicus","species","Aegean","",247.2,242,7.207,48.91,27.23,27.24,"Archizygoptera",25,24,16.3018,14.4689
+"17","Voltzialestes triasicus","species","Aegean","",247.2,242,7.242,48.832001,27.28,27.17,"Archizygoptera",25,24,16.3566,14.4074
+"34","Kennedya carpenteri","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"36","Terskeja paula","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"37","Paratriassoneura primitiva","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"39","Kennedya gracilis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"40","Batkenia pusilla","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"42","Terskeja pumilio","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"43","Terskeja tenuis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"56","Moltenagrion koningskroonensis","species","Carnian","",237,228,28,-31.5,-1.79,-53.41,"Archizygoptera",24,23,-5.8054,-68.8165
+"59","Kennedya madygensis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"60","Kennedya ferganensis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Archizygoptera",24,24,60.1332,36.5402
+"5210","Blattodea","order","Longobardian","",242,235,10.089,50.02,27.75,29.72,"Blattodea",24,24,17.5665,16.2724
+"5310","Anablatta compacta","species","Longobardian","",242,235,-69.230003,-32.941113,-28.42,-37.22,"Blattodea",24,24,-40.3492,-52.8059
+"5410","Delpuenteblatta dangeloi","species","Longobardian","",242,235,-69.230003,-32.941113,-28.42,-37.22,"Blattodea",24,24,-40.3492,-52.8059
+"5510","Lariojablatta neiffi","species","Longobardian","",242,235,-69.230003,-32.941113,-28.42,-37.22,"Blattodea",24,24,-40.3492,-52.8059
+"5610","Blattodea","order","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Blattodea",24,23,-7.7689,-68.1295
+"5710","Blattodea","order","Late Triassic","",237,201.3,29.049999,-28.566668,10.1,-51.82,"Blattodea",24,20,0.9348,-67.0728
+"5810","Blattodea","order","Carnian","",237,228,27.130301,-30.4214,-1.51,-52.11,"Blattodea",24,23,-5.4339,-67.5125
+"6010","Pedinoblatta","genus","Longobardian","",242,235,10.089,50.02,27.75,29.72,"Blattodea",24,24,17.5665,16.2724
+"62","Voltziablatta intercalata","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Blattodea",25,24,16.4826,14.3299
+"63","Voltziablatta grauvogeli","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Blattodea",25,24,16.4826,14.3299
+"65","Voltziablatta grauvogeli","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Blattodea",25,24,16.3628,14.2871
+"120","Transitoblatta reticulata","species","Aegean","",247.2,242,7.247,48.782001,27.29,27.12,"Blattodea",25,24,16.381,14.3632
+"121","Scleroblatta densa","species","Aegean","",247.2,242,7.247,48.782001,27.29,27.12,"Blattodea",25,24,16.381,14.3632
+"122","Scleroblatta densa","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Blattodea",25,24,16.4826,14.3299
+"127","Argentinoblatta herbsti","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Blattodea",24,23,-37.7049,-49.9445
+"128","Argentinoblatta","genus","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Blattodea",24,23,-37.7049,-49.9445
+"129","Condorblatta lutzae","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Blattodea",24,23,-37.7049,-49.9445
+"130","Condorblatta lutzae","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Blattodea",24,23,-37.9426,-51.0683
+"131","Mancusoblatta pulchella","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Blattodea",24,23,-37.7049,-49.9445
+"132","Hermosablatta pectinata","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Blattodea",24,23,-37.7049,-49.9445
+"133","Hermosablatta crassatella","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Blattodea",24,23,-37.7049,-49.9445
+"134","Hermosablatta crassatella","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Blattodea",24,23,-37.9426,-51.0683
+"135","Hermosablatta","genus","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Blattodea",24,23,-37.9426,-51.0683
+"136","Lariojablatta chanarensis","species","Carnian","",237,228,-67.816666,-29.833332,-26.33,-36.01,"Blattodea",24,23,-37.7621,-49.8895
+"143","Pulchellablatta nana","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Blattodea",24,23,-37.7049,-49.9445
+"144","Argentinoblattula revelata","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Blattodea",24,23,-37.7049,-49.9445
+"150","Condorblatta lutzae","species","Carnian","",237,228,-67.816666,-29.833332,-26.33,-36.01,"Blattodea",24,23,-37.7621,-49.8895
+"192","Blattodea","order","Ladinian","",242,237,10.5,43.700001,32.11,16.03,"Blattodea",24,24,20.186,5.5223
+"264","Blattodea","order","Aegean","Bithynian",247.2,242,20.382,51.011002,35.99,31.46,"Blattodea",25,24,23.0619,20.3396
+"294","Anusoblatta recta","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Blattodea",24,24,86.7908,39.1097
+"305","Cathayiblatta longata","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Blattodea",24,24,86.7908,39.1097
+"449","Sardyoblattina kimurai","species","Carnian","",237,228,131.169998,34.185001,134.63,17.8,"Blattodea",24,23,109.9101,41.1663
+"450","Blattodea","order","Carnian","",237,228,131.169998,34.185001,134.63,17.8,"Blattodea",24,23,109.9101,41.1663
+"451","Pedinoblatta ishidae","species","Carnian","",237,228,131.169998,34.185001,134.63,17.8,"Blattodea",24,23,109.9101,41.1663
+"516","Hermosablatta pygmaea","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Blattodea",24,23,-39.3357,-48.9977
+"553","Blattodea","order","Bithynian","",247.2,242,6.78,51.966,26.19,30.17,"Blattodea",25,24,14.7321,17.1396
+"659","Blattodea","order","Aegean","",247.2,242,2.4745,39.661999,NA,NA,"Blattodea",25,24,14.9433,4.2829
+"2961","Coleoptera","order","Carnian","Norian",237,208.5,18.275557,50.665833,27.93,33.11,"Coleoptera",24,21,22.0532,19.3454
+"3562","Platycrossos caroli","species","Carnian","",237,228,15.03,47.847,35.99,16.02,"Coleoptera",24,23,25.1625,7.1651
+"3633","Hydrobiites handlirschi","species","Carnian","",237,228,15.03,47.847,35.99,16.02,"Coleoptera",24,23,25.1625,7.1651
+"3741","Ademosyne polyzetete","species","Carnian","",237,228,15.03,47.847,35.99,16.02,"Coleoptera",24,23,25.1625,7.1651
+"3827","Diarcuipenna bennettitophila","species","Carnian","",237,228,15.03,47.847,35.99,16.02,"Coleoptera",24,23,25.1625,7.1651
+"3911","Polyphaga","suborder","Carnian","",237,228,15.03,47.847,35.99,16.02,"Coleoptera",24,23,25.1625,7.1651
+"4010","Pseudobuprestites pterophylli","species","Carnian","",237,228,9.52,47.139999,26.51,26.85,"Coleoptera",24,23,21.6683,8.7071
+"4110","Pseudocurculionites prodromus","species","Carnian","",237,228,9.52,47.139999,26.51,26.85,"Coleoptera",24,23,21.6683,8.7071
+"5311","Coleoptera","order","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Coleoptera",24,23,-7.7689,-68.1295
+"11410","Tetracoleus tshalyshevi","species","Anisian","",247.2,242,62.389801,68.361,48.57,56.48,"Coleoptera",25,24,23.8014,46.8389
+"11510","Tetracoleus minimus","species","Anisian","",247.2,242,62.389801,68.361,48.57,56.48,"Coleoptera",25,24,23.8014,46.8389
+"11610","Schizocoleus septentrionalis","species","Anisian","",247.2,242,62.389801,68.361,48.57,56.48,"Coleoptera",25,24,23.8014,46.8389
+"11710","Stegosyne borealis","species","Anisian","",247.2,242,62.389801,68.361,48.57,56.48,"Coleoptera",25,24,23.8014,46.8389
+"118","Pseudochrysomelites anser","species","Anisian","",247.2,242,62.389801,68.361,48.57,56.48,"Coleoptera",25,24,23.8014,46.8389
+"119","Pseudochrysomelites planus","species","Anisian","",247.2,242,62.389801,68.361,48.57,56.48,"Coleoptera",25,24,23.8014,46.8389
+"12010","Pseudochrysomelites dilatatus","species","Anisian","",247.2,242,62.389801,68.361,48.57,56.48,"Coleoptera",25,24,23.8014,46.8389
+"24610","Elateridium angustius","species","Pelsonian","Illyrian",247.2,242,150.755005,-34.087002,109.35,-76.82,"Coleoptera",25,24,130.9612,-61.4558
+"24710","Adelidium cordatum","species","Pelsonian","Illyrian",247.2,242,150.755005,-34.087002,109.35,-76.82,"Coleoptera",25,24,130.9612,-61.4558
+"24810","Metrorhynchites grandis","species","Pelsonian","Illyrian",247.2,242,150.755005,-34.087002,109.35,-76.82,"Coleoptera",25,24,130.9612,-61.4558
+"24910","Ademosyne wianamattensis","species","Pelsonian","Illyrian",247.2,242,150.729996,-34.040001,109.4,-76.77,"Coleoptera",25,24,130.9311,-61.4065
+"267","Elateridium wianamattense","species","Pelsonian","Illyrian",247.2,242,151.188995,-33.911999,111.08,-76.9,"Coleoptera",25,24,131.7528,-61.3275
+"2682","Metrorhynchites sydneiensis","species","Pelsonian","Illyrian",247.2,242,151.188995,-33.911999,111.08,-76.9,"Coleoptera",25,24,131.7528,-61.3275
+"269","Etheridgea petrica","species","Pelsonian","Illyrian",247.2,242,151.188995,-33.911999,111.08,-76.9,"Coleoptera",25,24,131.7528,-61.3275
+"270","Metrorhynchites dunstani","species","Pelsonian","Illyrian",247.2,242,151.188995,-33.911999,111.08,-76.9,"Coleoptera",25,24,131.7528,-61.3275
+"271","Curculionidae","family","Pelsonian","Illyrian",247.2,242,151.188995,-33.911999,111.08,-76.9,"Coleoptera",25,24,131.7528,-61.3275
+"272","Coleoptera","order","Pelsonian","Illyrian",247.2,242,151.188995,-33.911999,111.08,-76.9,"Coleoptera",25,24,131.7528,-61.3275
+"3057","Obrienia kuscheli","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"30610","Obrienia ingurgata","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"3073","Obrienia illaetabilis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"3095","Guillermia lecticula","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"31010","Madygenorhynchus multifidus","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"313","Obrieniidae","family","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"314","Obrieniidae","family","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"3509","Coleoptera","order","Carnian","",237,228,9.99,49.790001,25.94,29.47,"Coleoptera",24,23,17.6125,16.0378
+"35310","Delpuentesyne menendezi","species","Longobardian","",242,235,-69.230003,-32.941113,-28.42,-37.22,"Coleoptera",24,24,-40.3492,-52.8059
+"35410","Ademosyne speciosa","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Coleoptera",24,23,-7.7689,-68.1295
+"35510","Moltenocupes townrowi","species","Carnian","",237,228,29.5,-29.5,2.03,-52.75,"Coleoptera",24,23,0.3418,-68.0601
+"3563","Ademosyne speciosa","species","Carnian","",237,228,29.5,-29.5,2.03,-52.75,"Coleoptera",24,23,0.3418,-68.0601
+"3572","Ademosyne prisca","species","Carnian","",237,228,29.5,-29.5,2.03,-52.75,"Coleoptera",24,23,0.3418,-68.0601
+"358","Umkomaasia depressa","species","Carnian","",237,228,29.459999,-29.540001,1.94,-52.76,"Coleoptera",24,23,0.2033,-68.0718
+"3591","Pseudosilphites natalensis","species","Carnian","",237,228,29.459999,-29.540001,1.94,-52.76,"Coleoptera",24,23,0.2033,-68.0718
+"3601","Coleoptera","order","Late Triassic","",237,201.3,29.049999,-28.566668,10.1,-51.82,"Coleoptera",24,20,0.9348,-67.0728
+"36110","Coleoptera","order","Late Triassic","",237,201.3,29.5,-29.5,9.94,-52.82,"Coleoptera",24,20,0.3418,-68.0601
+"36210","Moltenocupes townrowi","species","Carnian","",237,228,28,-31.533333,-1.82,-53.43,"Coleoptera",24,23,-5.8662,-68.8416
+"3636","Ademosyne reducta","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Coleoptera",24,23,-7.7689,-68.1295
+"3672","Ademosyne","genus","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Coleoptera",25,24,17.4045,16.3137
+"3685","Meseumolpites","genus","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Coleoptera",25,24,17.4045,16.3137
+"371","Ademosyne","genus","Longobardian","",242,235,10.336,50.034,27.92,29.77,"Coleoptera",24,24,17.7083,16.3552
+"37210","Coleoptera","order","Longobardian","",242,235,10.41,50.099998,27.96,29.85,"Coleoptera",24,24,17.7221,16.4354
+"4681","Coleoptera","order","Longobardian","",242,235,109.027,35.224998,116,16.4,"Coleoptera",24,24,86.7908,39.1097
+"4761","Cupesia serricornia","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"4771","Cupesia sepulta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"4791","Lithocupes punctatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"4801","Lithocupes gigas","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"481","Rhabdocupes baculatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"4821","Rhabdocupes baculatus","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"4831","Notocupes laticella","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"484","Notocupes rostratus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"4851","Notocupes tenuis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"4891","Notocupes oxypygus","species","Carnian","",237,228,80.349998,43.450001,82.99,47.04,"Coleoptera",24,23,62.3107,44.6587
+"5041","Kirghizocupes proporeius","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5051","Kirghizocupes indistinctus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5061","Dolichosyne confragosa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5071","Dolichosyne confragosa","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"5091","Dolichosyne sulcata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5102","Dolichosyne rostrata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5141","Ademosyne bacca","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5151","Ademosyne elliptica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5161","Ademosyne kirghizica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5181","Cephalosyne capitata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5231","Tricoleus punctatus","species","Carnian","",237,228,80.349998,43.450001,82.99,47.04,"Coleoptera",24,23,62.3107,44.6587
+"5241","Tricoleus incertus","species","Carnian","",237,228,80.349998,43.450001,82.99,47.04,"Coleoptera",24,23,62.3107,44.6587
+"5251","Tricoleodes acutus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"526","Tricoleodes longus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"527","Sogdelytron latum","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"5281","Hadeocoleus gigas","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"529","Hadeocoleus pelopius","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"530","Hadeocoleus catachtonius","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5341","Hadeocoleus catachtonius","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"535","Hadeocoleodes calus","species","Carnian","",237,228,80.349998,43.450001,82.99,47.04,"Coleoptera",24,23,62.3107,44.6587
+"5361","Pesus prognathus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5371","Triassocoleus sulcatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5381","Triassocoleus tortulosus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5401","Salebroferus confragosus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5412","Salebroferus asper","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5451","Salebroferus confragosus","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"5491","Lethocoleus sternalis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5501","Schizophorinus punctatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5512","Schizophoroides rugosus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5521","Schizophoroides glaber","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5531","Schizophoroides tuberculatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5541","Praesagus capitatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5551","Thnesidius xyphophorus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5561","Thnesidius ovatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5601","Schizophoroides tuberculatus","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"5621","Catabrycus hoplites","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"563","Avocatinus elongatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"565","Catinoides rotundatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"566","Triassocatinius brachynotus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5671","Macrocatinius brachycephalus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"5681","Triassocatinius glabratus","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"5791","Ademosyne arcucciae","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Coleoptera",24,23,-37.9426,-51.0683
+"5801","Ademosyne arcucciae","species","Carnian","",237,228,-67.543999,-29.785,-26.04,-35.95,"Coleoptera",24,23,-37.9346,-51.1023
+"5812","Ademosyne arcucciae","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"5841","Ademosyne arcucciae","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"586","Ademosyne elongatus","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"5871","Ademosyne elongatus","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Coleoptera",24,23,-37.9426,-51.0683
+"5881","Ademosyne hexacostata","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Coleoptera",24,23,-37.9426,-51.0683
+"5891","Ademosyne hexacostata","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"590","Ademosyne punctuada","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Coleoptera",24,23,-37.9426,-51.0683
+"591","Ademosyne punctuada","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"5921","Ademosyne punctuada","species","Carnian","",237,228,-67.543999,-29.785,-26.04,-35.95,"Coleoptera",24,23,-37.9346,-51.1023
+"5931","Argentinosyne frenguellii","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Coleoptera",24,23,-37.9426,-51.0683
+"5941","Argentinosyne frenguellii","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"5951","Argentinosyne gonaldiae","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"598","Argentinosyne gualoensis","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"5991","Argentinosyne rugosa","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"6012","Argentinosyne losrastrosensis","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"6021","Argentinosyne losrastrosensis","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Coleoptera",24,23,-37.9426,-51.0683
+"6031","Permosynidae","family","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"6041","Argentinocupes pulcher","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"6051","Argentinocupes abdalai","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"6061","Gemelina triangularis","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Coleoptera",24,23,-37.9426,-51.0683
+"6071","Gemelina triangularis","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"608","Cardiosyne obesa","species","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Coleoptera",24,23,-37.9426,-51.0683
+"6091","Cardiosyne obesa","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"6111","Cardiosyne elegans","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Coleoptera",24,23,-37.7049,-49.9445
+"615","Coleoptera","order","Carnian","",237,228,-67.543999,-29.785,-26.04,-35.95,"Coleoptera",24,23,-37.9346,-51.1023
+"616","Coleoptera","order","Carnian","",237,228,-67.555,-29.752001,-26.06,-35.92,"Coleoptera",24,23,-37.9426,-51.0683
+"6221","Argentinosyne duraznoensis","species","Carnian","",237,228,-69.114998,-33.080002,-27.58,-39.29,"Coleoptera",24,23,-40.2247,-52.9574
+"6231","Argentinosyne bonapartei","species","Carnian","",237,228,-67.816666,-29.833332,-26.33,-36.01,"Coleoptera",24,23,-37.7621,-49.8895
+"6241","Argentinocupes pulcher","species","Carnian","",237,228,-67.816666,-29.833332,-26.33,-36.01,"Coleoptera",24,23,-37.7621,-49.8895
+"6261","Triaplus macroplatus","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"6281","Triaplidae","family","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"6291","Triaplus laticoxa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"631","Triaplus laticoxa","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"6651","Sogdodromeus altus","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"720","Peltosyne triassica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"982","Platycupes dolichocerus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"983","Platycupes pusillus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"984","Platycupes reticulatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"985","Triadocupes ferghanensis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"986","Triadocupes latus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"987","Triadocupes ellipticus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"988","Pterocupes antennatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"989","Pterocupes leptocerus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"990","Cupesia monilicornia","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"991","Kirghizocupes cellulosus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"992","Rhabdocupes longus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"993","Rhabdocupes minor","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"994","Notocupoides fasciatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"995","Notocupoides capitatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"1046","Cupedinae","subfamily","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"1047","Platycupes major","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"1048","Procupes mandibularis","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"1049","Asimma rara","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"1050","Notocupoides triassicus","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"1051","Lithocupes incertus","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"1274","Flichea lotharingiaca","species","Ladinian","",242,237,6.478,48.574001,25.86,27.73,"Coleoptera",24,24,15.9908,13.9658
+"1282","Pseudochrysomelites rothenbachi","species","Carnian","",237,228,7.632,47.528,25.01,26.85,"Coleoptera",24,23,17.1558,13.3275
+"1795","Stargelytron altus","species","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Coleoptera",25,24,17.4045,16.3137
+"1852","Coleoptera","order","Ladinian","",242,237,1.14,41.255001,23.01,19.11,"Coleoptera",24,24,14.8909,5.0185
+"1864","Moltenocupes townrowi","species","Carnian","",237,228,29.459999,-29.540001,1.94,-52.76,"Coleoptera",24,23,0.2033,-68.0718
+"2066","Ademosyne","genus","Carnian","",237,228,-72.957001,-37.171001,-31.6,-43.48,"Coleoptera",24,23,-46.8076,-56.4462
+"2067","Ischichucasyne santajuanaensis","species","Carnian","",237,228,-72.957001,-37.171001,-31.6,-43.48,"Coleoptera",24,23,-46.8076,-56.4462
+"2080","Notocupes","genus","Longobardian","",242,235,8.9496,45.8922,33.39,18.1,"Coleoptera",24,24,20.5969,7.9408
+"2342","Notocupes shiluoensis","species","Ladinian","",242,237,110.769997,37.150002,118.43,15.92,"Coleoptera",24,24,88.9264,40.8437
+"2528","Menephiloides minensis","species","Carnian","",237,228,131.169998,34.185001,134.63,17.8,"Coleoptera",24,23,109.9101,41.1663
+"2529","Clathropenna rugosa","species","Carnian","",237,228,131.169998,34.185001,134.63,17.8,"Coleoptera",24,23,109.9101,41.1663
+"2530","Ademosynoides japonicus","species","Carnian","",237,228,131.169998,34.185001,134.63,17.8,"Coleoptera",24,23,109.9101,41.1663
+"2579","Toksunius chinaticus","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Coleoptera",24,23,67.1447,49.3196
+"2580","Ademosynoides minor","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Coleoptera",24,23,67.1447,49.3196
+"2581","Agrascapha curta","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Coleoptera",24,23,67.1447,49.3196
+"2582","Euroscapha hoplopoda","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Coleoptera",24,23,67.1447,49.3196
+"2583","Euroscapha rectabdomena","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Coleoptera",24,23,67.1447,49.3196
+"2683","Praedodromeus sangiorgiensis","species","Longobardian","",242,235,8.9496,45.8922,33.39,18.1,"Coleoptera",24,24,20.5969,7.9408
+"2914","Triassocupes yaochaensis","species","Ladinian","",242,237,106.93,34.810001,114.4,16.36,"Coleoptera",24,24,84.5325,38.9042
+"2915","Sogdelytron tristichus","species","Ladinian","",242,237,106.93,34.810001,114.4,16.36,"Coleoptera",24,24,84.5325,38.9042
+"2916","Clathrocupes anthrilegnotos","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Coleoptera",24,24,86.7908,39.1097
+"2954","Ademosyne umutu","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"2955","Argentinosyne frenguellii","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"2956","Argentinocupes pulcher","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"2957","Argentinocupes sara","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"2958","Ademosyne punctuada","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"2959","Ischichucasyne cladocosta","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"2960","Argentinosyne ischichucaensis","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"2962","Babuskaya elaterata","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Coleoptera",24,23,-39.3357,-48.9977
+"3044","Stargelytron altus","species","Bithynian","",247.2,242,8.78,50.459999,27.98,28.98,"Coleoptera",25,24,16.5817,16.3033
+"3177","Coleoptera","order","Illyrian","",247.2,242,6.78,51.966,26.19,30.17,"Coleoptera",25,24,14.7321,17.1396
+"3225","Peltosyne triassica","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Coleoptera",24,24,60.1842,36.5518
+"3226","Peltosyne varyvrosa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"3227","Gnathopeltos dixis","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Coleoptera",24,24,60.181,36.5001
+"3228","Ofthalmopeltos synkritos","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Coleoptera",24,24,60.1332,36.5402
+"3274","Myxophaga","suborder","Longobardian","",242,235,109.027,35.224998,116,16.4,"Coleoptera",24,24,86.7908,39.1097
+"3275","Elateriformia","infraorder","Longobardian","",242,235,109.027,35.224998,116,16.4,"Coleoptera",24,24,86.7908,39.1097
+"3276","Adephaga","suborder","Longobardian","",242,235,109.027,35.224998,116,16.4,"Coleoptera",24,24,86.7908,39.1097
+"3285","Frankencupes ultimus","species","Bithynian","",247.2,242,8.78,50.459999,27.98,28.98,"Coleoptera",25,24,16.5817,16.3033
+"3288","Phoroschizidae","family","Carnian","",237,228,80.349998,43.450001,82.99,47.04,"Coleoptera",24,23,62.3107,44.6587
+"3412","Coleoptera","order","Late Triassic","",237,201.3,119.565002,40.064999,131.8,42.6,"Coleoptera",24,20,98.5964,42.7934
+"3457","Coleoptera","order","Carnian","",237,228,131.149002,34.182999,134.61,17.81,"Coleoptera",24,23,109.887,41.1651
+"3485","Coptoclavia africana","species","Late Triassic","",237,201.3,20.514999,-8.435,12.24,-30.2,"Coleoptera",24,20,7.2247,-45.6518
+"3754","Coleoptera","order","Carnian","",237,228,-77.626099,37.519001,-8.83,12.69,"Coleoptera",24,23,-13.8562,-2.712
+"11611","Dilemmala specula","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Diptera",24,24,60.1842,36.5518
+"11711","Psychotipa predicta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"11810","Psychotipa depicta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"11910","Mabelysia charlesi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"12011","Gnomusca molecula","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"12111","Gnomusca renyxa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"12211","Nadiptera kaluginae","species","Carnian","",237,228,80.349998,43.450001,82.99,47.04,"Diptera",24,23,62.3107,44.6587
+"12311","Nadiptera pulchella","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"12511","Kuperwoodia benefica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"12611","Anemeca liya","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"12810","Vymrhyphus tuomikoskii","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"12911","Vymrhyphus triassicus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"13311","Louisa nova","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"13410","Archilimonia vogesiana","species","Aegean","",247.2,242,7.242,48.832001,27.28,27.17,"Diptera",25,24,16.3566,14.4074
+"13511","Tanus triassicus","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"13611","Vymrhyphus blagoderovi","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"13711","Gallia alsatica","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"26910","Grauvogelia arzvilleriana","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"5591","Voltziapupa tentata","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"5602","Voltziapupa tentata","species","Aegean","",247.2,242,7.247,48.782001,27.29,27.12,"Diptera",25,24,16.381,14.3632
+"5615","Voltziapupa tentata","species","Aegean","",247.2,242,7.207,48.91,27.23,27.24,"Diptera",25,24,16.3018,14.4689
+"5622","Voltziapupa cornuta","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"5631","Anisinodus crinitus","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"5641","Nematocera","suborder","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"5691","Nematocera","suborder","Aegean","",247.2,242,7.247,48.782001,27.29,27.12,"Diptera",25,24,16.381,14.3632
+"5702","Nematocera","suborder","Aegean","",247.2,242,7.207,48.91,27.23,27.24,"Diptera",25,24,16.3018,14.4689
+"5714","Nematocera","suborder","Aegean","",247.2,242,7.242,48.832001,27.28,27.17,"Diptera",25,24,16.3566,14.4074
+"5721","Diptera","order","Aegean","",247.2,242,7.242,48.832001,27.28,27.17,"Diptera",25,24,16.3566,14.4074
+"5731","Diptera","order","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"9971","Nematocera","suborder","Carnian","",237,228,12.05,46.529999,33.7,17.04,"Diptera",24,23,22.7282,7.202
+"16351","Trihennigma zavattierii","species","Carnian","",237,228,-69.119003,-33.077999,-27.59,-39.29,"Diptera",24,23,-40.2298,-52.9549
+"24041","Archilimonia grauvogeliana","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"24321","Clavapartus latus","species","Aegean","",247.2,242,7.207,48.91,27.23,27.24,"Diptera",25,24,16.3018,14.4689
+"2433","Clavapartus latus","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Diptera",25,24,16.3628,14.2871
+"2434","Clavapartus latus","species","Aegean","",247.2,242,7.242,48.832001,27.28,27.17,"Diptera",25,24,16.3566,14.4074
+"24351","Clavapartus latus","species","Aegean","",247.2,242,7.247,48.782001,27.29,27.12,"Diptera",25,24,16.381,14.3632
+"25411","Bashkonia franconica","species","Bithynian","",247.2,242,9.61,49.810001,28.74,28.46,"Diptera",25,24,17.3741,15.9482
+"25712","Voltziapupa cornuta","species","Aegean","",247.2,242,2.4745,39.661999,NA,NA,"Diptera",25,24,14.9433,4.2829
+"2572","Nematocera","suborder","Aegean","",247.2,242,2.4745,39.661999,NA,NA,"Diptera",25,24,14.9433,4.2829
+"2573","Protoanisolarva juarezi","species","Aegean","",247.2,242,2.4745,39.661999,NA,NA,"Diptera",25,24,14.9433,4.2829
+"25812","Triassomyia shcherbakovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Diptera",24,24,60.1332,36.5402
+"11003","Palaeomesorthopteron pullus","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Embioptera",25,24,16.4826,14.3299
+"8104","Nestorembia novojilovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Embioptera",24,24,60.1332,36.5402
+"12105","Nestorembia shcherbakovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Embioptera",24,24,60.1332,36.5402
+"16105","Madygembia rasnitsyni","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Embioptera",24,24,60.1332,36.5402
+"17105","Rasnalexia rasnitsyni","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Embioptera",24,24,60.1332,36.5402
+"18105","Nestorembia","genus","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Embioptera",24,24,60.1332,36.5402
+"14213","Archaeobehningia mogutshevae","species","Middle Triassic","",247.2,237,67,57,64.01,50.32,"Ephemeroptera",25,24,39.9428,44.0544
+"15513","Triassonurus doliiformis","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Ephemeroptera",25,24,16.3628,14.2871
+"15613","Triassonurus doliiformis","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Ephemeroptera",25,24,16.4826,14.3299
+"15712","Triassonurus doliiformis","species","Aegean","",247.2,242,7.255,48.735001,27.31,27.08,"Ephemeroptera",25,24,16.406,14.3226
+"15813","Triassonurus doliiformis","species","Aegean","",247.2,242,7.242,48.832001,27.28,27.17,"Ephemeroptera",25,24,16.3566,14.4074
+"28911","Ephemeroptera","order","Aegean","",247.2,242,2.4745,39.661999,NA,NA,"Ephemeroptera",25,24,14.9433,4.2829
+"29111","Triassonurus doliiformis","species","Aegean","",247.2,242,2.4745,39.661999,NA,NA,"Ephemeroptera",25,24,14.9433,4.2829
+"3208","Gorochovia individua","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"7105","Gorochovia minuta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"10104","Gorochovia anomala","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"11106","Gorochovia fecunda","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"12107","Gorochovia bifurca","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"14106","Gorochoviella conjuncta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"17107","Pseudoliomopterites obscurus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"18106","Pseudoliomopterites lucidus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"20106","Madygenophlebia bella","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"21105","Madygenophlebia primitiva","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"22107","Micromadygenophlebia obscura","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"24104","Madygenophlebia nana","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"2726","Grylloblattodea","order","Carnian","",237,228,27.5,-29.5,-0.14,-51.62,"Grylloblattodea",24,23,-3.2803,-67.0039
+"29102","Euchauliodes distinctus","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Grylloblattodea",24,23,-7.7689,-68.1295
+"31101","Triasseuryptilon acostai","species","Carnian","",237,228,-69.133003,-33.075001,-27.6,-39.29,"Grylloblattodea",24,23,-40.2483,-52.9502
+"4114","Anaidelia extrema","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"4214","Pseudoshurabia pallidula","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"4416","Madygenidelia conjuncta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Grylloblattodea",24,24,60.1332,36.5402
+"5116","Grylloblattodea","order","Illyrian","",247.2,242,6.78,51.966,26.19,30.17,"Grylloblattodea",25,24,14.7321,17.1396
+"10105","Tipuloidea rhaetica","species","Carnian","",237,228,-69.1101,-33.0812,-27.58,-39.29,"Hemiptera",24,23,-40.2183,-52.9592
+"13913","Leaphis prima","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Hemiptera",25,24,16.3628,14.2871
+"15014","Triassophyllum leopardi","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Hemiptera",25,24,16.4826,14.3299
+"15313","Auchenorrhyncha","suborder","Anisian","",247.2,242,62.389801,68.361,48.57,56.48,"Hemiptera",25,24,23.8014,46.8389
+"25313","Maguviopsis kotchnevi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"25413","Tingiopsis reticulata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"25513","Nevicia imitans","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"25613","Asiocula lima","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"25714","Falcarta bella","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"25814","Phyllotexta latens","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"25913","Fulgobole evansi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"26014","Scytachile emeljanovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"26212","Fasolinka beckermigdisovae","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"26611","Sacvoyagea ventrosa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"2729","Mesojablonia kukalovae","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"2733","Tingiopsis reticulata","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"2743","Sacvoyagea ventrosa","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"2754","Maguviopsis kotchnevi","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"2785","Nonescyta mala","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"27911","Asiocula lima","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"28011","Falcarta bella","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"28112","Krendelia ansata","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"28212","Fasolinka beckermigdisovae","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"28312","Cuanoma protracta","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"28412","Phyllotexta latens","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"28611","Fulgobole evansi","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"29413","Sitechka perforata","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"30810","Triassopsylla plecioides","species","Pelsonian","Illyrian",247.2,242,150.755005,-34.087002,109.35,-76.82,"Hemiptera",25,24,130.9612,-61.4558
+"4083","Prosbolomorpha clara","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Hemiptera",24,23,-7.7689,-68.1295
+"4091","Tennentsia protuberans","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Hemiptera",24,23,-7.7689,-68.1295
+"4107","Protopsyllidiidae","family","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Hemiptera",24,23,-7.7689,-68.1295
+"4132","Scytinoptera distorta","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Hemiptera",24,23,-7.7689,-68.1295
+"4142","Leptoprosbole lepida","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Hemiptera",24,23,-7.7689,-68.1295
+"4152","Dunstania petrophila","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Hemiptera",24,23,-7.7689,-68.1295
+"4162","Karoontina magna","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Hemiptera",24,23,-7.7689,-68.1295
+"4172","Triassogereon distinctum","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Hemiptera",24,23,-7.7689,-68.1295
+"4216","Rhoeniella granulata","species","Aegean","Bithynian",247.2,242,9.954,50.548,28.79,29.23,"Hemiptera",25,24,17.2426,16.708
+"4302","Heseneuma hammelburgensis","species","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Hemiptera",25,24,17.4045,16.3137
+"4314","Saaloscytina perreticulata","species","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Hemiptera",25,24,17.4045,16.3137
+"4321","Ipsviciidae","family","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Hemiptera",25,24,17.4045,16.3137
+"4331","Dubiaphis curvata","species","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Hemiptera",25,24,17.4045,16.3137
+"4341","Heteroptera","suborder","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Hemiptera",25,24,17.4045,16.3137
+"4351","Gallodunstania grauvogeli","species","Aegean","",247.2,242,7.242,48.832001,27.28,27.17,"Hemiptera",25,24,16.3566,14.4074
+"5272","Beaconiella fennahi","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Hemiptera",25,24,131.8982,-61.1729
+"5282","Beaconiella multivenata","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Hemiptera",25,24,131.8982,-61.1729
+"5543","Popovigocimex yurii","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"5553","Yurigocimex popovi","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"5563","Lariojaprosbole melchori","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Hemiptera",24,23,-39.3357,-48.9977
+"5572","Mesoscytina forsterae","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"5582","Apheloscyta mayae","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"5592","Fulgobole arcucciae","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"5603","Dysmorphoptiloides gigantea","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"5617","Dysmorphoptiloides pulcherrima","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"5623","Dysmorphoptiloides acostai","species","Carnian","",237,228,-69.114998,-33.080002,-27.58,-39.29,"Hemiptera",24,23,-40.2247,-52.9574
+"5632","Dysmorphoptiloides breviptera","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"5642","Bandelnielsenia chilena","species","Carnian","",237,228,-72.957001,-37.171001,-31.6,-43.48,"Hemiptera",24,23,-46.8076,-56.4462
+"5651","Argentinocicada magna","species","Carnian","",237,228,-69.114998,-33.080002,-27.58,-39.29,"Hemiptera",24,23,-40.2247,-52.9574
+"5661","Argentinocicada minima","species","Carnian","",237,228,-69.114998,-33.080002,-27.58,-39.29,"Hemiptera",24,23,-40.2247,-52.9574
+"5672","Potrerillia nervosa","species","Carnian","",237,228,-69.114998,-33.080002,-27.58,-39.29,"Hemiptera",24,23,-40.2247,-52.9574
+"5943","Cacheutacicada kurtzae","species","Carnian","",237,228,-69.114998,-33.080002,-27.58,-39.29,"Hemiptera",24,23,-40.2247,-52.9574
+"5953","Dysmorphoptiloides kotejai","species","Carnian","",237,228,-69.113998,-29.080999,-27.76,-35.29,"Hemiptera",24,23,-39.3357,-48.9977
+"5962","Saaloscytina carmonae","species","Carnian","",237,228,-67.816666,-29.833332,-26.33,-36.01,"Hemiptera",24,23,-37.7621,-49.8895
+"6353","Pelorisca connectens","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"6573","Coccavus supercubitus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"6893","Dracaphis angustata","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"8142","Creaphis theodora","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"8342","Madygenopsyllidium djailautshoense","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"12492","Scytinopteridae","family","Anisian","Norian",247.2,208.5,147.294006,-42.860001,78.54,-72.93,"Hemiptera",25,21,120.4312,-69.5642
+"15022","Serpentivena tigrina","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"15314","Triassoscytinopsis paranotalis","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Hemiptera",25,24,131.8982,-61.1729
+"15322","Fletcheriana triassica","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Hemiptera",25,24,131.8982,-61.1729
+"15872","Shaanxioscarta juxta","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"16671","Dytoscytina ejuncida","species","Late Triassic","",237,201.3,116.425003,25.83,126.02,24.99,"Hemiptera",24,20,103.2513,22.2322
+"16714","Lacunisbole ligonis","species","Carnian","",237,228,113.620003,24.700001,118.3,1.2,"Hemiptera",24,23,101.564,19.9446
+"16821","Ipsvicioides minimus","species","Carnian","",237,228,131.169998,34.185001,134.63,17.8,"Hemiptera",24,23,109.9101,41.1663
+"16831","Szeiinia huanglongensis","species","Late Triassic","",237,201.3,109.800003,35.599998,120.32,40.29,"Hemiptera",24,20,87.6578,39.4044
+"16841","Magnacicadia shaanxiensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"17152","Beaconiella triassica","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"17162","Disivicia tianshanensis","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Hemiptera",24,23,67.1447,49.3196
+"17172","Suljuktaja turkestanensis","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Hemiptera",24,23,67.1447,49.3196
+"17182","Kerjieprosbole stigmatis","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Hemiptera",24,23,67.1447,49.3196
+"17192","Kerjiecoris oopsis","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Hemiptera",24,23,67.1447,49.3196
+"17202","Lacocorixa divena","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Hemiptera",24,23,67.1447,49.3196
+"17213","Cutitegmena oonis","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Hemiptera",24,23,67.1447,49.3196
+"17221","Crypsacorixa tachis","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Hemiptera",24,23,67.1447,49.3196
+"17232","Homoptera","suborder","Carnian","",237,228,88.18,43.125,90.36,50.01,"Hemiptera",24,23,67.1447,49.3196
+"17315","Granulus tongchuanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"17772","Dunstaniodes elongatus","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Hemiptera",24,24,60.181,36.5001
+"17782","Siksteliana popovi","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Hemiptera",24,24,60.181,36.5001
+"18432","Arlecoris louisi","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Hemiptera",25,24,16.3628,14.2871
+"18442","Arlecoris louisi","species","Aegean","",247.2,242,7.247,48.782001,27.29,27.12,"Hemiptera",25,24,16.381,14.3632
+"18861","Triassodoecus chinai","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Hemiptera",25,24,131.8982,-61.1729
+"19532","Shaandongia longxianensis","species","Ladinian","",242,237,106.93,34.810001,114.4,16.36,"Hemiptera",24,24,84.5325,38.9042
+"19542","Mesocixiella shaanxiensis","species","Ladinian","",242,237,106.93,34.810001,114.4,16.36,"Hemiptera",24,24,84.5325,38.9042
+"19621","Dysmorphoptiloides acostai","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"20031","Dysmorphoptiloides ellisi","species","Anisian","",247.2,242,151.645004,-25.620001,126.35,-69.78,"Hemiptera",25,24,134.1163,-53.1239
+"20082","Tennentsia evansi","species","Anisian","",247.2,242,151.645004,-25.620001,126.35,-69.78,"Hemiptera",25,24,134.1163,-53.1239
+"20392","Duraznoscarta ramosa","species","Carnian","",237,228,-69.119003,-33.077999,-27.59,-39.29,"Hemiptera",24,23,-40.2298,-52.9549
+"20402","Argentinoscytina clara","species","Carnian","",237,228,-69.1101,-33.0812,-27.58,-39.29,"Hemiptera",24,23,-40.2183,-52.9592
+"20415","Protopsyllidiidae","family","Carnian","",237,228,-69.1101,-33.0812,-27.58,-39.29,"Hemiptera",24,23,-40.2183,-52.9592
+"20472","Mesoscytina australis","species","Anisian","",247.2,242,152.520996,-27.309,126.65,-71.64,"Hemiptera",25,24,135.1942,-54.875
+"20482","Scytinopteridae","family","Anisian","",247.2,242,152.520996,-27.309,126.65,-71.64,"Hemiptera",25,24,135.1942,-54.875
+"20502","Mesoscytina fistulae","species","Anisian","",247.2,242,151.645004,-25.620001,126.35,-69.78,"Hemiptera",25,24,134.1163,-53.1239
+"20515","Mesoscytina woodsi","species","Anisian","",247.2,242,151.645004,-25.620001,126.35,-69.78,"Hemiptera",25,24,134.1163,-53.1239
+"21291","Archetingis ladinica","species","Longobardian","",242,235,8.9496,45.8922,33.39,18.1,"Hemiptera",24,24,20.5969,7.9408
+"21422","Boreocixius tongchuanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"21432","Dunstaniidae","family","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"21442","Aphidoidea","superfamily","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"21452","Cicadocorinae","subfamily","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"21462","Corixidae","family","Carnian","",237,228,84.932503,45.673332,85.08,50.75,"Hemiptera",24,23,62.0103,48.6024
+"21991","Hemiptera","order","Late Triassic","",237,201.3,119.565002,40.064999,131.8,42.6,"Hemiptera",24,20,98.5964,42.7934
+"22762","Karesmina punicea","species","Anisian","",247.2,242,152.520996,-27.309,126.65,-71.64,"Hemiptera",25,24,135.1942,-54.875
+"22982","Saaloscytina carmonae","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"22992","Dysmorphoptiloides losrastrosensis","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"23002","Gualoscarta obscura","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"23032","Corixidae","family","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Hemiptera",24,23,-37.7049,-49.9445
+"23172","Beaconiella pulchra","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"23181","Beaconiella cincta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"23232","Triknightia mira","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"23242","Triknightia mira","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"23615","Sinogranulus qishuiheensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"23622","Tennentsia orientalis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"23802","Triassopsyllidiida pectinata","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"24022","Scytinoptera tongchuanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"24062","Papiliontina dracomima","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"24072","Papiliontina spectans","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"24082","Papiliontina machaon","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"24092","Eocicadellium grimaldii","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"24114","Strivicia davidi","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Hemiptera",24,24,60.1842,36.5518
+"24122","Strivicia davidi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hemiptera",24,24,60.1332,36.5402
+"24231","Hylicelloidea","superfamily","Carnian","",237,228,-69.119003,-33.077999,-27.59,-39.29,"Hemiptera",24,23,-40.2298,-52.9549
+"24431","Sinogranulus jinsuoguanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"24442","Archaeomaguviopsis magicus","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Hemiptera",24,24,86.7908,39.1097
+"24572","Duraznoscytinum aristovi","species","Carnian","",237,228,-69.119003,-33.077999,-27.59,-39.29,"Hemiptera",24,23,-40.2298,-52.9549
+"24582","Tipuloidea cuyana","species","Carnian","",237,228,-69.119003,-33.077999,-27.59,-39.29,"Hemiptera",24,23,-40.2298,-52.9549
+"24592","Cuyanoscytinum arcucciae","species","Carnian","",237,228,-69.119003,-33.077999,-27.59,-39.29,"Hemiptera",24,23,-40.2298,-52.9549
+"12115","Homoptera","suborder","Carnian","",237,228,88.18,43.125,90.36,50.01,"Homoptera",24,23,67.1447,49.3196
+"26313","Moltenia rieki","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Hymenoptera",24,23,-7.7689,-68.1295
+"9542","Xyelinus majus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9552","Lithoxyela fenestralis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9561","Oryctoxyela triassica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9571","Madygenius extraradius","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9581","Xiphoxyela procrusta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9591","Dinoxyela armata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"960","Asioxyela paurura","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9614","Leioxyela mollis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9621","Leioxyela mitis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9632","Leioxyela grandis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9642","Madygella analoga","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9651","Oryctoxyela anomala","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9661","Madygenius primitivus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9671","Ferganoxyela sogdiana","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9681","Ferganoxyela destructa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9691","Triassoxyela orycta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"9717","Asioxyela parvula","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"10921","Potrerilloxyela menendezi","species","Carnian","",237,228,-69.1101,-33.0812,-27.58,-39.29,"Hymenoptera",24,23,-40.2183,-52.9592
+"11573","Triassoxyela foveolata","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Hymenoptera",24,24,60.181,36.5001
+"11583","Triassoxyela kirgizica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"11592","Xiphoxyela striata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"11603","Asioxyela grandipennis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"11616","Asioxyela smilodon","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"11622","Leioxyela antiqua","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"11631","Euryxyela euryptera","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"11643","Leioxyela lata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"11653","Xyelinus angustiradius","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"13142","Madygella kurochkini","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"13152","Chubakka madygensis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"13162","Madygella levivenosa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"13173","Madygella aristovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"13182","Madygella bashkuevi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"13192","Samarkandykia ryzhkovae","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"13202","Samarkandykia shmakovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Hymenoptera",24,24,60.1332,36.5402
+"16973","Madygella humioi","species","Carnian","",237,228,131.149002,34.182999,134.61,17.81,"Hymenoptera",24,23,109.887,41.1651
+"16983","Xyeloidea","superfamily","Carnian","",237,228,131.149002,34.182999,134.61,17.81,"Hymenoptera",24,23,109.887,41.1651
+"4120","Tipulidites affinis","species","Carnian","",237,228,-69.1101,-33.0812,-27.58,-39.29,"Mecoptera",24,23,-40.2183,-52.9592
+"5127","Mecoptera","order","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Mecoptera",24,23,-7.7689,-68.1295
+"6125","Choristopanorpa bifasciata","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Mecoptera",25,24,131.8982,-61.1729
+"5318","Mesopanorpodes wianamattensis","species","Pelsonian","Illyrian",247.2,242,150.755005,-34.087002,109.35,-76.82,"Mecoptera",25,24,130.9612,-61.4558
+"9018","Afristella delicatula","species","Carnian","",237,228,28,-31.533333,-1.82,-53.43,"Mecoptera",24,23,-5.8662,-68.8416
+"9120","Mesoses magna","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Mecoptera",24,23,-7.7689,-68.1295
+"9218","Mesoses optata","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Mecoptera",24,23,-7.7689,-68.1295
+"11716","Protorthophlebia triassica","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"11816","Protorthophlebia ladinica","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"12917","Agetopanorpa consueta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"13017","Liassochorista utilis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"13118","Prochoristella longa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"13216","Mesageta pertrita","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"13317","Mesageta ignava","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"13415","Agetopanorpa deceptoria","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"13717","Mesageta rieki","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"13816","Agetopanorpa triassica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"14119","Prochoristella ignara","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"14318","Mesageta insana","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"14517","Liassochorista molesta","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"14617","Mesageta rieki","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"14716","Pseudopolycentropus madygenicus","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"14816","Prochoristella longa","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"15215","Mesageta gigantea","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"15917","Pseudopolycentropus triasicus","species","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Mecoptera",25,24,17.4045,16.3137
+"16617","Laurentiptera gallica","species","Aegean","",247.2,242,7.247,48.782001,27.29,27.12,"Mecoptera",25,24,16.381,14.3632
+"16716","Laurentiptera gallica","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Mecoptera",25,24,16.4826,14.3299
+"16816","Longifurcula hejiafangensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"16916","Allochorista erdosensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"17013","Mesopsyche tongchuanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"17318","Ladinochorista lata","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"17416","Mesopanorpodes latus","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"17514","Prochoristella pilosa","species","Aegean","",247.2,242,7.247,48.782001,27.29,27.12,"Mecoptera",25,24,16.381,14.3632
+"17616","Pseudopolycentropus triasicus","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Mecoptera",25,24,16.3628,14.2871
+"17716","Pseudopolycentropus triasicus","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Mecoptera",25,24,16.4826,14.3299
+"17816","Worcestobia haradai","species","Carnian","",237,228,131.149002,34.182999,134.61,17.81,"Mecoptera",24,23,109.887,41.1651
+"18515","Triassochoristites jinsuoguanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"18617","Forcinerva tongchuanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"18718","Erdosia pectinata","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"18817","Mesopanorpodes shaanxiensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"19015","Mesopsyche shcherbakovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"19515","Mesopsyche justa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"19616","Mesopsyche tortiva","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"19716","Mecaenigma suspectum","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"19916","Mesopsyche gentica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"20214","Mesopsyche ordinata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"20816","Thaumatomerope sogdiana","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"20917","Thaumatomerope oligoneura","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"21016","Thaumatomerope sogdiana","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"21117","Pronotiothauma neuropteroides","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"21216","Thaumatomerope madygenica","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"21317","Blattomerope polyneura","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"21516","Thaumatomerope minuta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"22017","Triasoparachorista huaxiaensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"29212","Mecoptera","order","Aegean","Bithynian",247.2,242,20.382,51.011002,35.99,31.46,"Mecoptera",25,24,23.0619,20.3396
+"34312","Parachorista asiatica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"34412","Parachorista multivena","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"34511","Parachorista comica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"34614","Triassochorista kirgizica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"35012","Protorthophlebia curta","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"35113","Orthophlebia (Dolichophlebia) ladinica","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"35212","Ctenophlebia tongchuanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"36512","Parachorista religiosa","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"36612","Prochoristella vicina","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"36713","Mesochorista injuriosa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"36811","Choristopanorpa opinata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"36913","Choristopanorpa ridibunda","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"3706","Parachorista arguta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"37112","Mecolusor confusicius","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"37314","Parachorista sana","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"37412","Choristopanorpa temperata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"37613","Parachorista immota","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Mecoptera",24,24,60.1332,36.5402
+"37814","Choristopanorpa ridibunda","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"37914","Panorpaenigma aemulum","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"38014","Kirgizichorista larvata","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Mecoptera",24,24,60.1842,36.5518
+"4293","Shaanxichorista hejiafangensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"4303","Hongchoristites martinsoni","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"4318","Neorthophlebopsis qishuiheensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"48111","Protorthophlebia macula","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Mecoptera",24,23,67.1447,49.3196
+"4824","Kalochorista isofurca","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Mecoptera",24,23,67.1447,49.3196
+"4883","Qingochorista conjunctiva","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"5165","Argentinopanorpa miguezi","species","Carnian","",237,228,-69.119003,-33.077999,-27.59,-39.29,"Mecoptera",24,23,-40.2298,-52.9549
+"5244","Mesoses gayndah","species","Anisian","",247.2,242,151.645004,-25.620001,126.35,-69.78,"Mecoptera",25,24,134.1163,-53.1239
+"56110","Prochoristella","genus","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"6145","Mesopsyche jinsuoguanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"6154","Mesopsyche liaoi","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Mecoptera",24,23,67.1447,49.3196
+"6265","Sinoparachorista rara","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"6274","Virgulaparachorista tongchuanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"6285","Virgulaparachorista elegans","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Mecoptera",24,24,86.7908,39.1097
+"6295","Duraznochorista zavattierii","species","Carnian","",237,228,-69.119003,-33.077999,-27.59,-39.29,"Mecoptera",24,23,-40.2298,-52.9549
+"6304","Potrerillopanorpa macloughlini","species","Carnian","",237,228,-69.119003,-33.077999,-27.59,-39.29,"Mecoptera",24,23,-40.2298,-52.9549
+"11817","Neuroptera","order","Bithynian","",247.2,242,9.8999,50.125702,28.86,28.81,"Neuroptera",25,24,17.4045,16.3137
+"4765","Lithosmylidia baronne","species","Anisian","",247.2,242,151.645004,-25.620001,126.35,-69.78,"Neuroptera",25,24,134.1163,-53.1239
+"6246","Gayndahpsychops carsburgi","species","Anisian","",247.2,242,151.645004,-25.620001,126.35,-69.78,"Neuroptera",25,24,134.1163,-53.1239
+"6404","Minonymphites orthophlebes","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Neuroptera",24,24,86.7908,39.1097
+"7454","Osmylopsychops radialis","species","Carnian","",237,228,6.683,45.417,30.73,19.73,"Neuroptera",24,23,19.0347,8.5284
+"21319","Pseudotriassothemis okafujii","species","Carnian","",237,228,131.149002,34.182999,134.61,17.81,"Odonata",24,23,109.887,41.1651
+"21417","Pseudotriassothemis nipponensis","species","Carnian","",237,228,131.149002,34.182999,134.61,17.81,"Odonata",24,23,109.887,41.1651
+"30814","Afrotriassothemis regularis","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Odonata",24,23,-7.7689,-68.1295
+"30913","Afrotriassothemis heidiae","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Odonata",24,23,-7.7689,-68.1295
+"31115","Triassoneura andersoni","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Odonata",24,23,-7.7689,-68.1295
+"33415","Pseudotriassothemis minensis","species","Carnian","",237,228,131.149002,34.182999,134.61,17.81,"Odonata",24,23,109.887,41.1651
+"4676","Triassothemis mendozensis","species","Carnian","",237,228,-69.133003,-33.075001,-27.6,-39.29,"Odonata",24,23,-40.2483,-52.9502
+"5635","Triassolestodes asiaticus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Odonata",24,24,60.1332,36.5402
+"5138","Paratitan reliquia","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"6228","Clatrotitan andersoni","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Orthoptera",25,24,131.8982,-61.1729
+"6324","Clatrotitan scullyi","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Orthoptera",25,24,131.8982,-61.1729
+"6526","Mesacridites elongata","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Orthoptera",25,24,131.8982,-61.1729
+"6620","Prohagla superba","species","Anisian","",247.2,242,151.25,-33.75,111.67,-76.8,"Orthoptera",25,24,131.8982,-61.1729
+"13819","Mesotitan giganteus","species","Pelsonian","Illyrian",247.2,242,151.188995,-33.911999,111.08,-76.9,"Orthoptera",25,24,131.7528,-61.3275
+"14019","Mesotitan","genus","Pelsonian","Illyrian",247.2,242,151.188995,-33.911999,111.08,-76.9,"Orthoptera",25,24,131.7528,-61.3275
+"14324","Mesoedischia madygenica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"14520","Meselcana madygenica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"14620","Probintoniella triassica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"14919","Triassomanteodes madygenicus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"16019","Provitimia pectinata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"16128","Proshiella ramivenosa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"16219","Kashgarlimahmutia reducta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"16319","Ferganopterodes reductus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"16418","Madygenia orientalis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"16520","Turkestania deviata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"16620","Ferganopterus clarus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"17016","Zeunerophlebia gigas","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"17219","Proisfaroptera martynovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"17323","Protshorkuphlebia triassica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"17419","Archihagla zeuneri","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"19220","Gryllavus madygenicus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"19324","Gryllacrimima perfecta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"19419","Locustavus madygensis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"19518","Mesotitan primitivus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"19618","Mesotitanodes tillyardi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"19719","Mesotitan ovalis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"19817","Gigatitan vulgaris","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"20017","Gigatitan magnificus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"20126","Gigatitan extensus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"20918","Mesotitan superior","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"21418","Locustavus lanceolatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"21620","Mesotitanodes similis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"21819","Paratitan libelluloides","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"21920","Gigatitan ovatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"22020","Gigatitan similis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"23320","Mesotitan primitivus","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Orthoptera",24,24,60.181,36.5001
+"23419","Gigatitan vulgaris","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Orthoptera",24,24,60.181,36.5001
+"29215","Voliopus margueritae","species","Carnian","",237,228,26.433332,-31.466667,-3.38,-52.48,"Orthoptera",24,23,-8.4405,-67.8988
+"29317","Gryllacrimima johnski","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Orthoptera",24,23,-7.7689,-68.1295
+"29418","Afrohagla contorta","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Orthoptera",24,23,-7.7689,-68.1295
+"29517","Dordrechtia","genus","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Orthoptera",24,23,-7.7689,-68.1295
+"29615","Gryllacrimima","genus","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Orthoptera",24,23,-7.7689,-68.1295
+"29716","Proparagryllacrididae","family","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Orthoptera",24,23,-7.7689,-68.1295
+"29814","Proparagryllacrididae","family","Carnian","",237,228,26.216667,-31.566668,-3.72,-52.43,"Orthoptera",24,23,-8.9803,-67.8462
+"29916","Dordrechtia aasvoelbergensis","species","Carnian","",237,228,26.216667,-31.566668,-3.72,-52.43,"Orthoptera",24,23,-8.9803,-67.8462
+"30012","Lutheria dewetii","species","Carnian","",237,228,26.950001,-30.683332,-1.98,-52.2,"Orthoptera",24,23,-6.1894,-67.6102
+"30116","Haglidae","family","Carnian","",237,228,26.950001,-30.683332,-1.98,-52.2,"Orthoptera",24,23,-6.1894,-67.6102
+"30216","Afrohagla","genus","Carnian","",237,228,27.916668,-31.5,-1.87,-53.36,"Orthoptera",24,23,-5.9533,-68.7697
+"30315","Dordrechtia robusta","species","Carnian","",237,228,27.5,-29.5,-0.14,-51.62,"Orthoptera",24,23,-3.2803,-67.0039
+"30415","Dordrechtia robusta","species","Carnian","",237,228,29,-30.5,0.4,-53.23,"Orthoptera",24,23,-2.23,-68.5946
+"30516","Lutheria dewetii","species","Carnian","",237,228,28.516001,-30.683001,-0.33,-53.09,"Orthoptera",24,23,-3.4312,-68.4767
+"34715","Dordrechtia robusta","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Orthoptera",24,23,-7.7689,-68.1295
+"35215","Parafergania sharovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"35416","Oedischimima deficientis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"36115","Madygenia extremalis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"36217","Madygenia ovalis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"36316","Madygenia longissima","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"36416","Platymadygenia grandis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"36614","Galliagryllavus vogesiacus","species","Aegean","",247.2,242,7.175,48.720001,27.26,27.05,"Orthoptera",25,24,16.3628,14.2871
+"36715","Triassoparacyrtophyllites bifurcatus","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Orthoptera",25,24,16.4826,14.3299
+"36813","Voltziahagla pseudoveinosa","species","Aegean","",247.2,242,7.242,48.832001,27.28,27.17,"Orthoptera",25,24,16.3566,14.4074
+"3995","Meselcana permelcanoides","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4005","Xenoferganella pini","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"40111","Pseudoferganopsis zini","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4028","Ferganotriassia lata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4036","Triassoferganella angusta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4047","Pteroferganodes decipiens","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4056","Pteroferganella sharovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4066","Pteroferganella crassa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4077","Pteroferganella minuta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4086","Pteroferganodes rieki","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4095","Ferganopterus longus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"41013","Notopamphagopsis","genus","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Orthoptera",24,23,-37.7049,-49.9445
+"4146","Notopamphagopsis","genus","Carnian","",237,228,-69.114998,-33.080002,-27.58,-39.29,"Orthoptera",24,23,-40.2247,-52.9574
+"4157","Probintoniella crassa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4167","Probintoniella oblonga","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4176","Paroshiella alia","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4185","Stenoshiella angusta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4195","Eubintoniella ferganica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4206","Mesoedischia kirgizica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"42112","Mesoedischia obliqua","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4256","Proxenopterum primitivum","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4266","Axenopterum venosum","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4277","Ahagla mira","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4287","Locustavus problematicus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4296","Locustavus intermedius","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4306","Locustavus deformatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"43111","Locustavus minutus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4326","Adzhajloutshella plana","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4334","Dzhajloutshella flexuosa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4386","Miolocustavus reductus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4395","Brevilocustavus distinctus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4406","Triassoxya novozhilovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"44114","Brevilocustavus microscopicus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"45112","Adzhajloutshella talis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"4529","Dzhajloutshella arcanum","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"5737","Prototitan sharovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"5747","Paratitan reductus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"5757","Minititan zherichini","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"5766","Paratitan longispeculum","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"5776","Paratitan bispeculum","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"5787","Paratitan venosus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"5798","Paratitan intermedius","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"5807","Paratitan latispeculum","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"58113","Paratitan modestus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"7905","Paramaraga fusca","species","Carnian","",237,228,80.349998,43.450001,82.99,47.04,"Orthoptera",24,23,62.3107,44.6587
+"79111","Cantohagla gracilis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"7924","Tinnihagla handlirschi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"7936","Maragella reducta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"7944","Tuphella rasnitzyni","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"7956","Protshorkuphlebia kirgizica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"7964","Sharovohagla plana","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"7975","Vocohagla clara","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"7986","Vocohagla tarbinskyi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"7994","Voliopinae","subfamily","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8005","Phonovoliopus musicus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"80111","Melovoliopus fasciatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8025","Phyllovoliopus insufficiens","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8036","Neotuphella minor","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8045","Hagloptera intermedia","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8055","Tuphella rohdendorfi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8065","Tuphella sharovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8074","Protshorkuphlebia similis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8086","Archihagla tenuis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8096","Dulcihagla beybienkoi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"81012","Lyrohagla pravdini","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"81112","Lyrohagla decipiens","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8129","Sonohagla saussurei","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8136","Sonohagla chopardi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8146","Microhagla minuta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8156","Dinohagla corrugata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8174","Platyvoliopus maximus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8186","Stenovoliopus elongatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8194","Zavoliopus densus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8205","Triassaga tshorkuphlebioides","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"82111","Eumaraga madygenica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8226","Hagloedischia primitiva","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8236","Haglomorpha martynovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8246","Modihagla ovalis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8256","Dulcihagla mistshenkoi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8266","Lyrohagla uvarovi","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8276","Sonohagla curta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8286","Tinnihagla zeuneri","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8296","Dolichohagla longa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8305","Voliopus ancestralis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"83112","Euvoliopus giganteus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8327","Macrovoliopus declivis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8335","Paravoliopus dorsalis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8344","Voliopellus latus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8355","Triassaga angusta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8364","Zamaraga reticulata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8376","Paragryllavus curvatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"8384","Zagryllavus elongatus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Orthoptera",24,24,60.1332,36.5402
+"9375","Afrohagla contorta","species","Carnian","",237,228,26.433332,-31.466667,-3.38,-52.48,"Orthoptera",24,23,-8.4405,-67.8988
+"9385","Afrohagla contorta","species","Carnian","",237,228,27.5,-29.5,-0.14,-51.62,"Orthoptera",24,23,-3.2803,-67.0039
+"9395","Afrohagla","genus","Carnian","",237,228,26.233334,-31.533333,-3.66,-52.41,"Orthoptera",24,23,-8.8925,-67.8316
+"94111","Notopamphagopsis bolivari","species","Carnian","",237,228,-69.119003,-33.082001,-27.59,-39.29,"Orthoptera",24,23,-40.2307,-52.9589
+"102110","Hejiafanga tongchuanensis","species","Longobardian","",242,235,109.027,35.224998,116,16.4,"Orthoptera",24,24,86.7908,39.1097
+"10684","Parabintoniella papierae","species","Aegean","",247.2,242,7.362,48.710999,27.39,27.07,"Orthoptera",25,24,16.4826,14.3299
+"10694","Parabintoniella papierae","species","Aegean","",247.2,242,7.242,48.832001,27.28,27.17,"Orthoptera",25,24,16.3566,14.4074
+"21000","Gondwanoperlidium argentinarum","species","Carnian","",237,228,-69.1101,-33.0812,-27.58,-39.29,"Plecoptera",24,23,-40.2183,-52.9592
+"3877","Gondwanoperlidium mendozensis","species","Carnian","",237,228,-69.1101,-33.0812,-27.58,-39.29,"Plecoptera",24,23,-40.2183,-52.9592
+"16130","Euxenoperla clara","species","Carnian","",237,228,26.833332,-31.466667,-2.97,-52.71,"Plecoptera",24,23,-7.7689,-68.1295
+"17129","Gondwanoperlidium argentina","species","Carnian","",237,228,-69.1101,-33.0812,-27.58,-39.29,"Plecoptera",24,23,-40.2183,-52.9592
+"37103","Argentinoperlidium rogersi","species","Carnian","",237,228,-67.76667,-29.883333,-26.28,-36.05,"Plecoptera",24,23,-37.7049,-49.9445
+"10726","Siberioperla ovalis","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Plecoptera",24,24,60.1842,36.5518
+"13617","Mesoleuctra brachypoda","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Plecoptera",24,24,60.1842,36.5518
+"14524","Dicronemoura dira","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"14624","Dicronemoura acaulis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"14920","Dicronemoura declinata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"15320","Dicronemoura dira","species","Ladinian","",242,237,70.199997,40,79.94,38.38,"Plecoptera",24,24,60.181,36.5001
+"17130","Fritaniopsis brevicaulis","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"17820","Fritaniopsis dependens","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"17920","Fritaniopsis remota","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"18323","Tritaniella mera","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"18419","Tritaniella synneura","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"18723","Ramonemoura constricta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"18919","Tritaniella pectinata","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"19019","Cristonemoura porrecta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"19120","Cristonemoura binerva","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"19325","Tritaniella perlonga","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Plecoptera",24,24,60.1332,36.5402
+"20520","Platyperla marquati","species","Carnian","",237,228,-69.1101,-33.0812,-27.58,-39.29,"Plecoptera",24,23,-40.2183,-52.9592
+"24816","Capitiperla tonicopoda","species","Carnian","",237,228,88.18,43.125,90.36,50.01,"Plecoptera",24,23,67.1447,49.3196
+"23127","Sanctipaulus mendesi","species","Ladinian","",242,237,-53.792,-29.743,-12.71,-35.26,"Trichoptera",24,24,-18.7637,-51.8269
+"10027","Prophilopotamus asiaticus","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Trichoptera",24,24,60.1332,36.5402
+"10137","Cladochorista multivenosa","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Trichoptera",24,24,60.1332,36.5402
+"10225","Prorhyacophila furcata","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Trichoptera",24,24,60.1842,36.5518
+"10329","Necrotaulius proximus","species","Ladinian","",242,237,70.254997,40.029999,79.97,38.43,"Trichoptera",24,24,60.1842,36.5518
+"32315","Folindusia","genus","Longobardian","",242,235,109.027,35.224998,116,16.4,"Trichoptera",24,24,86.7908,39.1097
+"32414","Terrindusia","genus","Carnian","",237,228,84.932503,45.673332,85.08,50.75,"Trichoptera",24,23,62.0103,48.6024
+"4196","Cladochorista curta","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Trichoptera",24,24,60.1332,36.5402
+"4207","Cladochoristella sola","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Trichoptera",24,24,60.1332,36.5402
+"42113","Prorhyacophila rara","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Trichoptera",24,24,60.1332,36.5402
+"4228","Prorhyacophila batkenica","species","Ladinian","",242,237,70.209999,40.055,79.91,38.43,"Trichoptera",24,24,60.1332,36.5402

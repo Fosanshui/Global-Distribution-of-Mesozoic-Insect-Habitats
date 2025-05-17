@@ -1,0 +1,496 @@
+"","name","rank","early_i","late_i","max_ma","min_ma","lng","lat","paleolng","paleolat","group","max_m","min_m","Mlng","Mlat"
+"2","Italomyrmeleon bergomensis","species","Sevatian","",212,205.6,9.558333,45.797222,27.34,25.32,"Archizygoptera",21,21,12.4715,29.7815
+"3","Triassagrion australiense","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Archizygoptera",23,21,94.2455,-56.8295
+"18","Protomyrmeleon anglicanus","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Archizygoptera",21,20,-0.5848,35.3176
+"13100","Blattodea","order","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Blattodea",23,21,-24.6969,13.2982
+"4410","Austromylacrites latus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Blattodea",23,21,94.2455,-56.8295
+"45","Blattodea","order","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Blattodea",23,21,94.2455,-56.8295
+"4610","Austroblattula ipsviciensis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Blattodea",23,21,94.2455,-56.8295
+"5710","Blattodea","order","Late Triassic","",237,201.3,29.049999,-28.566668,10.1,-51.82,"Blattodea",24,20,3.4728,-46.3216
+"200","Blattula incompleta","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Blattodea",21,20,-0.5947,35.4562
+"244","Mesoblattinidae","family","Rhaetian","",208.5,201.3,-2,52,9.06,34.83,"Blattodea",21,20,-0.4685,35.4351
+"321","Hongaya elegans","species","Rhaetian","",208.5,201.3,107.129997,20.965,124.71,33.87,"Blattodea",21,20,103.2173,29.9607
+"322","Rhaetoblattina brevis","species","Rhaetian","",208.5,201.3,107.129997,20.965,124.71,33.87,"Blattodea",21,20,103.2173,29.9607
+"323","Kebaona obscura","species","Rhaetian","",208.5,201.3,107.330002,21.030001,124.92,33.96,"Blattodea",21,20,103.4316,30.0289
+"338","Actinoblattula charlesi","species","Rhaetian","",208.5,201.3,32.485001,41.779999,40.5,37.77,"Blattodea",21,20,999.99,999.99
+"339","Blattula tchakrasensis","species","Rhaetian","",208.5,201.3,32.485001,41.779999,40.5,37.77,"Blattodea",21,20,999.99,999.99
+"340","Blattula piveteaui","species","Rhaetian","",208.5,201.3,32.485001,41.779999,40.5,37.77,"Blattodea",21,20,999.99,999.99
+"2961","Coleoptera","order","Carnian","Norian",237,208.5,18.275557,50.665833,27.93,33.11,"Coleoptera",24,21,14.5551,39.9483
+"3212","Coleoptera","order","Norian","",228,208.5,-53.446667,-29.5625,-6.86,-38.53,"Coleoptera",23,21,-14.1287,-34.0817
+"9110","Phoroschizidae","family","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Coleoptera",23,21,-24.6969,13.2982
+"22110","Ademosyne llantenesensis","species","Norian","",228,208.5,-69.589996,-35.630001,-23.06,-45.59,"Coleoptera",23,21,-28.5227,-42.8816
+"22210","Ademosyne rosenfeldi","species","Norian","",228,208.5,-69.589996,-35.630001,-23.06,-45.59,"Coleoptera",23,21,-28.5227,-42.8816
+"2505","Ademosyne australiensis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"25110","Ademosynoides angusta","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"252","Ademosynoides obtusa","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"253","Ademosyne olliffi","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"254","Ademosyne major","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"25510","Ademosynoides minor","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"25610","Ademosyne congener","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"25710","Platycrossos tumidus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"25810","Ademosyne cameroni","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"25910","Ademosyne punctata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"26010","Ulomites willcoxi","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"26110","Mesothoris clathrata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"265","Mesostigmodera typica","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"266","Etheridgea australis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"315","Kenderlyka consobrina","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Coleoptera",23,21,76.1298,62.4036
+"316","Obrieniidae","family","Alaunian","",215.56,212,131.720001,43.299999,152.36,55.4,"Coleoptera",22,21,137.5378,50.4241
+"32110","Holcoptera schlotheimi","species","Rhaetian","",208.5,201.3,-2.15,52.029999,8.94,34.82,"Coleoptera",21,20,-0.5871,35.4262
+"345","Holcoptera giebeli","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Coleoptera",21,20,-0.5947,35.4562
+"34910","Elaterophanes","genus","Rhaetian","Early Hettangian",208.5,196.5,10.955,49.988998,18.65,37.82,"Coleoptera",21,20,9.7282,37.1139
+"3601","Coleoptera","order","Late Triassic","",237,201.3,29.049999,-28.566668,10.1,-51.82,"Coleoptera",24,20,3.4728,-46.3216
+"36110","Coleoptera","order","Late Triassic","",237,201.3,29.5,-29.5,9.94,-52.82,"Coleoptera",24,20,3.4722,-47.3345
+"3663","Holcoptera schlotheimi","species","Rhaetian","",208.5,201.3,-2.629,51.602001,8.84,34.31,"Coleoptera",21,20,-0.715,34.9163
+"469","Holcoptera schlotheimi","species","Sevatian","",212,205.6,9.558333,45.797222,27.34,25.32,"Coleoptera",21,21,12.4715,29.7815
+"5112","Gnathosyne akkolkensis","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Coleoptera",23,21,76.1298,62.4036
+"597","Argentinosyne gonaldiae","species","Norian","",228,208.5,-69.160004,-32.459999,-23.37,-42.41,"Coleoptera",23,21,-29.3803,-39.7572
+"600","Argentinosyne rugosa","species","Norian","",228,208.5,-69.160004,-32.459999,-23.37,-42.41,"Coleoptera",23,21,-29.3803,-39.7572
+"6681","Platycoxa jurassica","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Coleoptera",23,21,76.1298,62.4036
+"718","Necronectulus avus","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Coleoptera",23,21,76.1298,62.4036
+"719","Triadogyrus sternalis","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Coleoptera",23,21,29.4915,45.1467
+"794","Colymbotethis antecessor","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Coleoptera",23,21,76.1298,62.4036
+"964","Anhydrophilus brodiei","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Coleoptera",21,20,-0.5848,35.3176
+"965","Elaterophanes vetustus","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Coleoptera",21,20,-0.5848,35.3176
+"966","Elaterophanes acutus","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Coleoptera",21,20,-0.5848,35.3176
+"967","Anhydrophilus brodiei","species","Rhaetian","",208.5,201.3,-2,52.125,8.99,34.95,"Coleoptera",21,20,-0.5292,35.5499
+"968","Pseudotelephorus haueri","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"969","Pseudotelephorus punctulatus","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"970","Pseudotelephorus grandis","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"971","Holcoptera schlotheimi","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"972","Glaphyroptula anglica","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1275","Heeriaopsis laevigatum","species","Rhaetian","",208.5,201.3,12.558,56.199001,15.91,42.68,"Coleoptera",21,20,6.9125,43.0177
+"1276","Nannocurculionites carlsoni","species","Rhaetian","",208.5,201.3,12.92,56.080002,16.23,42.7,"Coleoptera",21,20,7.2328,43.0174
+"1277","Pseudocarabites deplanatus","species","Rhaetian","",208.5,201.3,12.92,56.080002,16.23,42.7,"Coleoptera",21,20,7.2328,43.0174
+"1280","Parabuprestites rugulosus","species","Rhaetian","",208.5,201.3,12.92,56.080002,16.23,42.7,"Coleoptera",21,20,7.2328,43.0174
+"1281","Pseudohydrophilites nathorsti","species","Rhaetian","",208.5,201.3,12.92,56.080002,16.23,42.7,"Coleoptera",21,20,7.2328,43.0174
+"1283","Eocoleopteron roemeri","species","Rhaetian","",208.5,201.3,9.944,52.150002,17.03,38.44,"Coleoptera",21,20,7.7472,38.7363
+"1284","Pseudoelateropsis infraliassica","species","Rhaetian","",208.5,201.3,9.944,52.150002,17.03,38.44,"Coleoptera",21,20,7.7472,38.7363
+"1285","Helopides hildesiensis","species","Rhaetian","",208.5,201.3,9.944,52.150002,17.03,38.44,"Coleoptera",21,20,7.7472,38.7363
+"1298","Elaterophanes vetustus","species","Rhaetian","",208.5,201.3,-2.2,51.950001,8.95,34.74,"Coleoptera",21,20,-0.5831,35.3405
+"1305","Plastelater neptuni","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1306","Brodiola nana","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1324","Hydrobiites anglicus","species","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Coleoptera",21,20,-0.5997,35.3314
+"1325","Hydrobiites liasinus","species","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Coleoptera",21,20,-0.5997,35.3314
+"1326","Hydrobiites giebeli","species","Rhaetian","",208.5,201.3,-2.629,51.602001,8.84,34.31,"Coleoptera",21,20,-0.715,34.9163
+"1327","Chrysomelopsis andraei","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Coleoptera",21,20,-0.6111,35.3765
+"1328","Xenogyrinus natans","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Coleoptera",21,20,-0.6111,35.3765
+"1329","Mimelater angulatus","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Coleoptera",21,20,-0.5848,35.3176
+"1342","Anepismus vanus","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Coleoptera",21,20,-0.5848,35.3176
+"1343","Stenelytron redtenbacheri","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Coleoptera",21,20,-0.5848,35.3176
+"1358","Dinoharpalus liasinus","species","Rhaetian","",208.5,201.3,-2.629,51.602001,8.84,34.31,"Coleoptera",21,20,-0.715,34.9163
+"1359","Stigmenamma heeri","species","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Coleoptera",21,20,-0.5997,35.3314
+"1360","Notokistus brodiei","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1361","Hadrocephalus anglicus","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1362","Hadrocephalus liasinus","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1363","Hadrocephalus minor","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1364","Paragyrinus dubius","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1370","Anhydrophilus brodiei","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1371","Pseudotelephorus haueri","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Coleoptera",21,20,-0.6111,35.3765
+"1378","Coleoptera","order","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"1386","Coleoptera","order","Rhaetian","",208.5,201.3,-2.629,51.602001,8.84,34.31,"Coleoptera",21,20,-0.715,34.9163
+"1388","Coleopteron","genus","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Coleoptera",21,20,-0.5848,35.3176
+"1389","Coleopteron aquaticus","species","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Coleoptera",21,20,-0.5997,35.3314
+"1390","Coleopteron","genus","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Coleoptera",21,20,-0.5997,35.3314
+"1394","Coleopteron","genus","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Coleoptera",21,20,-0.4848,35.7289
+"1397","Coleopteron","genus","Rhaetian","",208.5,201.3,-2.414,51.827999,8.87,34.57,"Coleoptera",21,20,-0.6732,35.1764
+"1400","Coleopteron","genus","Rhaetian","",208.5,201.3,-2.2,51.950001,8.95,34.74,"Coleoptera",21,20,-0.5831,35.3405
+"1401","Coleopteron","genus","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Coleoptera",21,20,-0.5947,35.4562
+"1403","Coleopteron","genus","Rhaetian","",208.5,201.3,-0.78,54.130001,8.7,37.07,"Coleoptera",21,20,-0.7057,37.6796
+"1415","Leehermania prorova","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Coleoptera",23,21,-24.6969,13.2982
+"2093","Coleoptera","order","Rhaetian","",208.5,201.3,32.485001,41.779999,40.5,37.77,"Coleoptera",21,20,999.99,999.99
+"2096","Coleoptera","order","Rhaetian","",208.5,201.3,12.558,56.199001,15.91,42.68,"Coleoptera",21,20,6.9125,43.0177
+"2157","Mormolucoides articulatus","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Coleoptera",23,21,-24.6969,13.2982
+"2171","Ademosyne parva","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2172","Ademosyne intermedia","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2173","Ademosyne lata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2174","Ademosyne brevis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2175","Ademosyne curvata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2176","Ademosyne ramocostata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2177","Ademosyne rugulosa","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2178","Ademosyne vittamargina","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2179","Ademosyne adunca","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2180","Ademosynoides alternata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2181","Ademosynoides abnormis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2182","Ademosynoides magnifica","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2183","Platycrossos ligulatus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2184","Platycrossos subtumidus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2185","Simmondsia subpiriformis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2186","Simmondsia cylindrica","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2187","Grammositum bilineatus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2188","Shepherdia quadrivittata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2189","Polysitum punctatus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2190","Polysitum minutus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2191","Elateridium subulatum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2192","Elateridium transversum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2193","Mesothoris punctomarginum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2194","Elaterium bipunctatum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2195","Reeveana major","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2196","Reeveana intermedia","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2197","Reeveana minor","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2198","Tryoniopsis punctata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2199","Tryoniopsis granulata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2200","Mesolobites trivittatus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2201","Mesolobites tuberculatus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2202","Mesolobites granulatus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2203","Mesolobites quadripartita","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2204","Mesolobites tenuiclathrata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2205","Willcoxia magnopunctata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2206","Tillyardiopsis tuberculata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2207","Tillyardiopsis granulata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2208","Leioodes pygmaeum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2209","Leioodes planum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2210","Apheloodes rugosum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2211","Apheloodes obliquum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2212","Ademosynoides striatella","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2214","Mesothoris grandis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2215","Tillyardiopsis variotuberculata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Coleoptera",23,21,94.2455,-56.8295
+"2233","Coleoptera","order","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Coleoptera",21,20,-0.5947,35.4562
+"2363","Alveolacupes primus","species","Rhaetian","",208.5,201.3,113.800003,27.995001,131.24,41.59,"Coleoptera",21,20,110.4423,37.0324
+"2364","Alveolicupes secundes","species","Rhaetian","",208.5,201.3,113.800003,27.995001,131.24,41.59,"Coleoptera",21,20,110.4423,37.0324
+"2365","Mesolobites punctatoides","species","Rhaetian","",208.5,201.3,113.800003,27.995001,131.24,41.59,"Coleoptera",21,20,110.4423,37.0324
+"2366","Bistrisyne tenua","species","Rhaetian","",208.5,201.3,113.800003,27.995001,131.24,41.59,"Coleoptera",21,20,110.4423,37.0324
+"2367","Diarcuipenna heterosa","species","Norian","",228,208.5,113.800003,27.995001,123.59,28.57,"Coleoptera",23,21,110.4423,37.0324
+"2368","Dzeregia juxta","species","Norian","",228,208.5,113.800003,27.995001,123.59,28.57,"Coleoptera",23,21,110.4423,37.0324
+"2369","Metrorhynchites dilutes","species","Rhaetian","",208.5,201.3,113.800003,27.995001,131.24,41.59,"Coleoptera",21,20,110.4423,37.0324
+"2576","Mesolobites margacrispus","species","Rhaetian","",208.5,201.3,112.927002,23.254999,130.91,36.8,"Coleoptera",21,20,109.4701,32.2945
+"2627","Mesosagrites multipunctatus","species","Rhaetian","",208.5,201.3,61.490002,55.064999,50.24,60.05,"Coleoptera",21,20,42.5748,59.0753
+"2642","Omma liassicum","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Coleoptera",21,20,-0.4848,35.7289
+"2644","Omma liassicum","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Coleoptera",21,20,-0.4685,35.4351
+"2645","Omma liassicum","species","Rhaetian","",208.5,201.3,-0.78,54.130001,8.7,37.07,"Coleoptera",21,20,-0.7057,37.6796
+"2646","Omma liassicum","species","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Coleoptera",21,20,-0.5997,35.3314
+"2691","Pseudosilphites triassicus","species","Alaunian","Sevatian",215.56,205.6,8.84,52.16,17.64,35.4,"Coleoptera",22,21,6.9732,38.4317
+"2693","Triadocoleopteron spectabile","species","Rhaetian","",208.5,201.3,9.9,51.360001,17.5,37.74,"Coleoptera",21,20,8.1835,38.0236
+"3184","Holcoptera schlotheimi","species","Rhaetian","",208.5,201.3,-2.2,51.950001,8.95,34.74,"Coleoptera",21,20,-0.5831,35.3405
+"3185","Holcoptera schlotheimi","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Coleoptera",21,20,-0.6111,35.3765
+"3186","Holcoptera schlotheimi","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Coleoptera",21,20,-0.5947,35.4562
+"3187","Holcoptera schlotheimi","species","Rhaetian","",208.5,201.3,-2.414,51.827999,8.87,34.57,"Coleoptera",21,20,-0.6732,35.1764
+"3194","Holcoptera giebeli","species","Rhaetian","",208.5,201.3,-2.2,51.950001,8.95,34.74,"Coleoptera",21,20,-0.5831,35.3405
+"3195","Holcoptera pigmentatus","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Coleoptera",21,20,-0.4848,35.7289
+"3202","Holcoptera solitensis","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Coleoptera",23,21,-24.6969,13.2982
+"3412","Coleoptera","order","Late Triassic","",237,201.3,119.565002,40.064999,131.8,42.6,"Coleoptera",24,20,121.4516,50.3247
+"3485","Coptoclavia africana","species","Late Triassic","",237,201.3,20.514999,-8.435,12.24,-30.2,"Coleoptera",24,20,3.211,-24.646
+"3728","Holcoptera rasnitsyni","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Coleoptera",23,21,29.4915,45.1467
+"3753","Coleoptera","order","Norian","",228,208.5,-79.291603,35.5588,-12.48,8.87,"Coleoptera",23,21,-24.2727,12.3566
+"2668","Phanerogramma heeri","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Dermaptera",21,20,-0.5848,35.3176
+"8211","Phanerogramma heeri","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Dermaptera",21,20,-0.6111,35.3765
+"8311","Phanerogramma heeri","species","Rhaetian","",208.5,201.3,-2.2,51.950001,8.95,34.74,"Dermaptera",21,20,-0.5831,35.3405
+"8411","Phanerogramma heeri","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Dermaptera",21,20,-0.4848,35.7289
+"8611","Phanerogramma heeri","species","Rhaetian","",208.5,201.3,-1.837,52.279999,9.02,35.13,"Dermaptera",21,20,-0.4921,35.7318
+"8710","Phanerogramma heeri","species","Rhaetian","",208.5,201.3,-0.78,54.130001,8.7,37.07,"Dermaptera",21,20,-0.7057,37.6796
+"8911","Phanerogramma gouldsbroughi","species","Rhaetian","Hettangian",208.5,199.3,-2.6,51.5,8.66,34.62,"Dermaptera",21,20,-0.6463,34.8294
+"9011","Phanerogramma australis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Dermaptera",23,21,94.2455,-56.8295
+"9111","Phanerogramma dunstani","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Dermaptera",23,21,94.2455,-56.8295
+"10410","Phanerogramma kellyi","species","Rhaetian","",208.5,201.3,-2.629,51.602001,8.84,34.31,"Dermaptera",21,20,-0.715,34.9163
+"3362","Metarchilimonia krzeminskorum","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"3442","Metarchilimonia solita","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"3565","Triassopsychoda olseni","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"3638","Yalea rectimedia","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"3744","Virginiptera certa","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"3851","Virginiptera similis","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"3913","Crosaphis virginiensis","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"4012","Prosechamyia trimedia","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"4112","Prosechamyia dimedia","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"11511","Vladiptera kovalevi","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Diptera",23,21,76.1298,62.4036
+"13811","Tillyardiptera prima","species","Norian","",228,208.5,152.800003,-27.533333,114.21,-60.71,"Diptera",23,21,94.4103,-56.7947
+"13911","Austrocramptonomyia minuta","species","Norian","",228,208.5,152.800003,-27.533333,114.21,-60.71,"Diptera",23,21,94.4103,-56.7947
+"14011","Veriplecia handlirschi","species","Norian","",228,208.5,152.800003,-27.533333,114.21,-60.71,"Diptera",23,21,94.4103,-56.7947
+"19410","Aenne triassica","species","Rhaetian","",208.5,201.3,-2.629,51.602001,8.84,34.31,"Diptera",21,20,-0.715,34.9163
+"19610","Rhaetania dianae","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Diptera",21,20,-0.5947,35.4562
+"3203","Architipula youngi","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"32111","Yalea argentata","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"32211","Alinka cara","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"5882","Crosaphis anomala","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Diptera",23,21,94.3656,-56.7971
+"7651","Virginiptera lativentra","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"766","Brachyrhyphus distortus","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"23651","Tipulomorpha","infraorder","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"23661","Veriplecia rugosa","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"23671","Diptera","order","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Diptera",23,21,-24.6969,13.2982
+"14113","Mesobaetis ornata","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Ephemeroptera",23,21,29.4915,45.1467
+"11005","Triassoprobnis humilis","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Grylloblattodea",23,21,29.4915,45.1467
+"5616","Archescytinidae","family","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Hemiptera",23,21,-24.6969,13.2982
+"5716","Naucoridae","family","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Hemiptera",23,21,-24.6969,13.2982
+"31012","Dunstania pulchra","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"31112","Mesogereon neuropunctatum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"31210","Mesojassus ipsviciensis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"31311","Mesocixiodes termioneura","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"31411","Paradunstania affinis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"31511","Dunstaniopsis triassica","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"31611","Chiliocycla scolopoides","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"31711","Mesoscytina australis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"31910","Mesodiphthera grandis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"32112","Mesocixius triassicus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"32212","Ipsvicia jonesi","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"32512","Eurymelidium australe","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"32711","Homoptera","suborder","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"32811","Triassocixius australicus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"32912","Mesogereon superbum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"33012","Mesogereon compressum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"33111","Mesogereon affine","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"33212","Mesogereon shepherdi","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"33811","Apheloscyta mesocampta","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"33911","Tardilly prosboloides","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"34010","Tardilly dunstani","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"34211","Mesonirvana orthoclada","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"34410","Ipsviciopsis elegans","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"34612","Dunstaniidae","family","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"34711","Triassocoris myersi","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"34811","Triassocoris scutulum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"34912","Triassocoris","genus","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"35010","Triassocoris ovalis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"35111","Triassocoris grandis","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"36711","Archicercopis","genus","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Hemiptera",21,20,-0.5997,35.3314
+"3687","Hemiptera","order","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Hemiptera",21,20,-0.5997,35.3314
+"36911","Cicadocoris anglicus","species","Rhaetian","",208.5,201.3,-1.837,52.279999,9.02,35.13,"Hemiptera",21,20,-0.4921,35.7318
+"3702","Britannicola senilis","species","Rhaetian","",208.5,201.3,-2.2,51.950001,8.95,34.74,"Hemiptera",21,20,-0.5831,35.3405
+"38012","Pachymeridiidae","family","Rhaetian","",208.5,201.3,-2.2,51.950001,8.95,34.74,"Hemiptera",21,20,-0.5831,35.3405
+"38112","Pachymeridiidae","family","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Hemiptera",21,20,-0.5947,35.4562
+"4382","Liassocicada ignotatus","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Hemiptera",21,20,-0.6111,35.3765
+"4391","Liassocicada ignotatus","species","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Hemiptera",21,20,-0.5997,35.3314
+"4402","Liassocicada ignotatus","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Hemiptera",21,20,-0.5947,35.4562
+"6263","Ipsviciopsis langenbergensis","species","Sevatian","",212,205.6,10.652,52.061001,18.48,36.76,"Hemiptera",21,21,8.2939,38.8609
+"6343","Woottonia phalerata","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Hemiptera",23,21,76.1298,62.4036
+"6851","Meshemipteron incertum","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Hemiptera",21,20,-0.4685,35.4351
+"8352","Triassothea analis","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"8802","Homopterites anglicus","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Hemiptera",21,20,-0.5848,35.3176
+"8971","Dysmorphoptila liasina","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Hemiptera",21,20,-0.5848,35.3176
+"12241","Ipsviciella asiatica","species","Sevatian","Rhaetian",212,201.3,117.639999,24.985001,135.04,38.32,"Hemiptera",21,20,114.6257,33.9864
+"12272","Doryscarta xialiaoensis","species","Sevatian","Rhaetian",212,201.3,117.639999,24.985001,135.04,38.32,"Hemiptera",21,20,114.6257,33.9864
+"12492","Scytinopteridae","family","Anisian","Norian",247.2,208.5,147.294006,-42.860001,78.54,-72.93,"Hemiptera",25,21,64.405,-61.9631
+"14781","Eoscarterella media","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15061","Mesothymbris perkinsi","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15113","Mesonirvana abrupta","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15122","Triassoscelis anomala","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15132","Crosbella elongata","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15162","Mesojassus australis","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15172","Hylicella colorata","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15192","Mesojassula marginata","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15202","Trifidella perfecta","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15222","Dysmorphoptiloides elongata","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15232","Mesocixius parvus","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15262","Fletcheriana triassica","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15272","Triassoaphis cubitus","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15282","Platyscytinella paradoxa","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15292","Hexascytina tillyardi","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15302","Triscytina rotundata","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"15481","Knezouria unicus","species","Norian","",228,208.5,152.830002,-27.6,114.18,-60.78,"Hemiptera",23,21,94.3608,-56.8612
+"16671","Dytoscytina ejuncida","species","Late Triassic","",237,201.3,116.425003,25.83,126.02,24.99,"Hemiptera",24,20,113.3106,34.8475
+"16682","Quadrisbole vieta","species","Rhaetian","",208.5,201.3,113.800003,27.995001,131.24,41.59,"Hemiptera",21,20,110.4423,37.0324
+"16692","Sinisbole juvenis","species","Norian","",228,208.5,113.800003,27.995001,123.59,28.57,"Hemiptera",23,21,110.4423,37.0324
+"16721","Apheloscyta xiangdongensis","species","Norian","",228,208.5,113.800003,27.995001,123.59,28.57,"Hemiptera",23,21,110.4423,37.0324
+"16831","Szeiinia huanglongensis","species","Late Triassic","",237,201.3,109.800003,35.599998,120.32,40.29,"Hemiptera",24,20,108.0881,48.3886
+"17401","Mesojassus ipsviciensis","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"17422","Heteronella marksei","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"17432","Heterojassus membranaceus","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"17441","Heteroptera","suborder","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"17451","Tricrosbia minuta","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"17482","Cercopoidea","superfamily","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"17501","Homoptera","suborder","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"17513","Hemiptera","order","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"17522","Heterochterus timmsii","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"18091","Hexascytina tillyardi","species","Norian","",228,208.5,152.800003,-27.533333,114.21,-60.71,"Hemiptera",23,21,94.4103,-56.7947
+"18108","Microscytinella radians","species","Norian","",228,208.5,152.800003,-27.533333,114.21,-60.71,"Hemiptera",23,21,94.4103,-56.7947
+"18115","Platyscytinella paradoxa","species","Norian","",228,208.5,152.800003,-27.533333,114.21,-60.71,"Hemiptera",23,21,94.4103,-56.7947
+"18814","Pseudipsvicia ala","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Hemiptera",23,21,94.2455,-56.8295
+"19392","Lufengnacta corrugis","species","Norian","",228,208.5,101.900002,25.15,111.87,25.1,"Hemiptera",23,21,97.4159,34.0191
+"19942","Mesocixius parvus","species","Norian","",228,208.5,152.768997,-27.549999,114.15,-60.71,"Hemiptera",23,21,94.353,-56.7876
+"19952","Carsburgia knezouri","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Hemiptera",23,21,94.3496,-56.8636
+"19962","Carsburgia knezouri","species","Norian","",228,208.5,152.830002,-27.6,114.18,-60.78,"Hemiptera",23,21,94.3608,-56.8612
+"20002","Dysmorphoptiloides elongata","species","Norian","",228,208.5,152.800003,-27.546,114.2,-60.72,"Hemiptera",23,21,94.3942,-56.8038
+"20042","Tennentsia princeps","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"20062","Heterochterus timmsii","species","Norian","",228,208.5,152.783997,-27.544001,114.18,-60.71,"Hemiptera",23,21,94.3781,-56.7925
+"20072","Tennentsia princeps","species","Norian","",228,208.5,152.800003,-27.546,114.2,-60.72,"Hemiptera",23,21,94.3942,-56.8038
+"20492","Mesoscytina fistulae","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"20522","Mesoscytina magna","species","Norian","",228,208.5,152.830002,-27.6,114.18,-60.78,"Hemiptera",23,21,94.3608,-56.8612
+"20532","Eurymelidium australe","species","Norian","",228,208.5,152.830002,-27.6,114.18,-60.78,"Hemiptera",23,21,94.3608,-56.8612
+"20542","Eurymelidium australe","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Hemiptera",23,21,94.3496,-56.8636
+"20552","Apheloscyta mesocampta","species","Norian","",228,208.5,152.830002,-27.584,114.2,-60.77,"Hemiptera",23,21,94.3811,-56.8496
+"20582","Mesonirvana dmitryi","species","Norian","",228,208.5,152.830002,-27.6,114.18,-60.78,"Hemiptera",23,21,94.3608,-56.8612
+"20592","Mesonirvana dmitryi","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Hemiptera",23,21,94.3496,-56.8636
+"20872","Hallakkungis amisanus","species","Norian","",228,208.5,126.625954,36.338951,138.14,38.97,"Hemiptera",23,21,127.3568,44.953
+"21214","Triassonepa solensis","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Hemiptera",23,21,-24.6969,13.2982
+"21821","Mesodiphthera grandis","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Hemiptera",23,21,94.3496,-56.8636
+"21991","Hemiptera","order","Late Triassic","",237,201.3,119.565002,40.064999,131.8,42.6,"Hemiptera",24,20,121.4516,50.3247
+"22752","Crosbixius carsburgi","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hemiptera",23,21,94.3656,-56.7971
+"23442","Mesojassus ipsviciensis","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Hemiptera",23,21,94.3496,-56.8636
+"23452","Mesojassus australis","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Hemiptera",23,21,94.3496,-56.8636
+"23522","Ipsvicia jonesi","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Hemiptera",23,21,94.3496,-56.8636
+"23532","Ipsviciopsis elegans","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Hemiptera",23,21,94.3496,-56.8636
+"23592","Mesocixiodes termioneura","species","Norian","",228,208.5,152.830002,-27.6,114.18,-60.78,"Hemiptera",23,21,94.3608,-56.8612
+"24322","Tennentsia koreana","species","Norian","",228,208.5,126.625954,36.338951,138.14,38.97,"Hemiptera",23,21,127.3568,44.953
+"3400","Homoptera","suborder","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Homoptera",23,21,94.2455,-56.8295
+"10106","Knezouria unicus","species","Norian","",228,208.5,152.830002,-27.6,114.18,-60.78,"Homoptera",23,21,94.3608,-56.8612
+"13108","Homoptera","suborder","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Homoptera",23,21,94.3656,-56.7971
+"20109","Archexyela crosbyi","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hymenoptera",23,21,94.3656,-56.7971
+"4892","Sepulenia","genus","Sevatian","",212,205.6,10.652,52.061001,18.48,36.76,"Hymenoptera",21,21,8.2939,38.8609
+"12183","Archexyela ipswichensis","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Hymenoptera",23,21,94.3656,-56.7971
+"6120","Lepidoptera","order","Rhaetian","",208.5,201.3,10.718333,52.306389,17.45,38.82,"Lepidoptera",21,20,8.1917,39.0966
+"6219","Glossata","suborder","Rhaetian","",208.5,201.3,10.718333,52.306389,17.45,38.82,"Lepidoptera",21,20,8.1917,39.0966
+"7124","Neopermopanorpa mesembria","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"8117","Xenopanorpa didymovena","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"9119","Mesochorista proavita","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"10117","Neoparachorista perkinsi","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"11117","Neoparachorista splendida","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"12120","Neoparachorista semiovena","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"13117","Triassochorista nana","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"14118","Archebittacus exilis","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"15117","Xenochoristella hillae","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"16117","Austrochoristella whitehousei","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"17119","Mesotanyderus jonesi","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Mecoptera",23,21,94.3656,-56.7971
+"4620","Mendozachorista volkheimeri","species","Norian","",228,208.5,-69.589996,-35.630001,-23.06,-45.59,"Mecoptera",23,21,-28.5227,-42.8816
+"5128","Mesopsyche triareolata","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Mecoptera",23,21,94.2455,-56.8295
+"5425","Mesochorista proavita","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Mecoptera",23,21,94.2455,-56.8295
+"5524","Mecoptera","order","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Mecoptera",23,21,94.2455,-56.8295
+"5820","Izjumus ukrainensis","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Mecoptera",23,21,29.4915,45.1467
+"5919","Garazhovka triassica","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Mecoptera",23,21,29.4915,45.1467
+"9318","Mesochorista anglicana","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Mecoptera",21,20,-0.4848,35.7289
+"9418","Protorthophlebia latipennis","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Mecoptera",21,20,-0.4848,35.7289
+"9518","Orthophlebia liassica","species","Rhaetian","",208.5,201.3,-2.226,51.93,8.94,34.71,"Mecoptera",21,20,-0.5915,35.3158
+"9615","Orthophlebia liassica","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Mecoptera",21,20,-0.5848,35.3176
+"9918","Orthophlebia liassica","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Mecoptera",21,20,-0.6111,35.3765
+"10018","Orthophlebia liassica","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Mecoptera",21,20,-0.5947,35.4562
+"10317","Orthophlebia liassica","species","Rhaetian","",208.5,201.3,-1.837,52.279999,9.02,35.13,"Mecoptera",21,20,-0.4921,35.7318
+"10417","Orthophlebia liassica","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Mecoptera",21,20,-0.4848,35.7289
+"10519","Orthophlebia liassica","species","Rhaetian","",208.5,201.3,-2.2,51.950001,8.95,34.74,"Mecoptera",21,20,-0.5831,35.3405
+"10617","Orthophlebia liassica","species","Rhaetian","",208.5,201.3,-2.226,51.946999,8.94,34.73,"Mecoptera",21,20,-0.5997,35.3314
+"10718","Orthophlebia pictipennis","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Mecoptera",21,20,-0.6111,35.3765
+"10919","Worcestobia gigantea","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Mecoptera",21,20,-0.5947,35.4562
+"11118","Protobittacus liassicus","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Mecoptera",21,20,-0.5947,35.4562
+"11218","Protobittacus maculatus","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Mecoptera",21,20,-0.5947,35.4562
+"18317","Pseudopolycentropus","genus","Sevatian","",212,205.6,10.652,52.061001,18.48,36.76,"Mecoptera",21,21,8.2939,38.8609
+"18415","Mesotanyderus","genus","Sevatian","",212,205.6,10.652,52.061001,18.48,36.76,"Mecoptera",21,21,8.2939,38.8609
+"18916","Mesopsyche dobrokhotovae","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Mecoptera",23,21,29.4915,45.1467
+"19318","Liassochorista kenderlykensis","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Mecoptera",23,21,76.1298,62.4036
+"20713","Orthophlebia liassica","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Mecoptera",21,20,-0.4685,35.4351
+"21717","Pseudopolycentropodes virginicus","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Mecoptera",23,21,-24.6969,13.2982
+"27811","Orthophlebia intermedia","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Mecoptera",21,20,-0.5947,35.4562
+"29612","Orthophlebia nana","species","Rhaetian","Hettangian",208.5,199.3,-2.083333,51.883331,8.81,35.11,"Mecoptera",21,20,-0.4699,35.3076
+"29713","Orthophlebia pygmaea","species","Rhaetian","Hettangian",208.5,199.3,-1.82,52.189999,8.82,35.46,"Mecoptera",21,20,-0.4363,35.6533
+"29913","Orthophlebia laesa","species","Rhaetian","Hettangian",208.5,199.3,-2.083333,51.883331,8.81,35.11,"Mecoptera",21,20,-0.4699,35.3076
+"30010","Orthophlebia bella","species","Rhaetian","Hettangian",208.5,199.3,-1.82,52.189999,8.82,35.46,"Mecoptera",21,20,-0.4363,35.6533
+"30113","Orthophlebia gracilis","species","Rhaetian","",208.5,201.3,-2.145,52.055,8.93,34.84,"Mecoptera",21,20,-0.5958,35.4504
+"30213","Orthophlebia stigmatica","species","Rhaetian","Hettangian",208.5,199.3,-2.083333,51.883331,8.81,35.11,"Mecoptera",21,20,-0.4699,35.3076
+"30312","Orthophlebia furcata","species","Rhaetian","Hettangian",208.5,199.3,-2.083333,51.883331,8.81,35.11,"Mecoptera",21,20,-0.4699,35.3076
+"30412","Orthophlebia parvula","species","Rhaetian","Hettangian",208.5,199.3,-2.083333,51.883331,8.81,35.11,"Mecoptera",21,20,-0.4699,35.3076
+"30513","Orthophlebia anglica","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Mecoptera",21,20,-0.5848,35.3176
+"35413","Orthophlebia confusa","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Mecoptera",21,20,-0.6111,35.3765
+"38314","Mesopsyche triareolata","species","Norian","",228,208.5,152.757004,-27.621,114.05,-60.76,"Mecoptera",23,21,94.249,-56.8313
+"38414","Orthophlebiidae","family","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Mecoptera",23,21,94.2455,-56.8295
+"4044","Orthophlebia liassica","species","Rhaetian","",208.5,201.3,-2,52.125,8.99,34.95,"Mecoptera",21,20,-0.5292,35.5499
+"4982","Mesochorista proavita","species","Norian","",228,208.5,152.779007,-27.551001,114.16,-60.72,"Mecoptera",23,21,94.3634,-56.7945
+"5255","Mesopsyche triareolata","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Mecoptera",23,21,94.3496,-56.8636
+"5263","Mesopsyche triareolata","species","Norian","",228,208.5,152.830002,-27.6,114.18,-60.78,"Mecoptera",23,21,94.3608,-56.8612
+"5475","Mesopsyche dobrokhotovae","species","Norian","",228,208.5,126.625954,36.338951,138.14,38.97,"Mecoptera",23,21,127.3568,44.953
+"55111","Archebittacus exilis","species","Norian","",228,208.5,152.768997,-27.549999,114.15,-60.71,"Mecoptera",23,21,94.353,-56.7876
+"3700","Nematophlebia plicata","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Megaloptera",21,20,-0.4685,35.4351
+"20118","Izyumochauliodes aristovi","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Megaloptera",23,21,29.4915,45.1467
+"21118","Sialidae","family","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Megaloptera",23,21,29.4915,45.1467
+"22120","Megaloptera","order","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Megaloptera",23,21,29.4915,45.1467
+"4924","Mesoberotha superba","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"5027","Proberothella elongata","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"5130","Archeosmylus stigmatus","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"5225","Archeosmylus costalis","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"5320","Lithosmylidia lineata","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"5427","Lithosmylidia parvula","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"5526","Osmylopsychops spillerae","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"5620","Archepsychops triassicus","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"10418","Protopsychopsis venosa","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Neuroptera",23,21,94.2455,-56.8295
+"10520","Archepsychops triassicus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Neuroptera",23,21,94.2455,-56.8295
+"10618","Triassopsychops superbus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Neuroptera",23,21,94.2455,-56.8295
+"10719","Osmylopsychops spillerae","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Neuroptera",23,21,94.2455,-56.8295
+"11122","Megapolystoechus magnificus","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Neuroptera",21,20,-0.5947,35.4562
+"12218","Neuroptera","order","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Neuroptera",21,20,-0.5848,35.3176
+"12319","Megapolystoechus magnificus","species","Rhaetian","",208.5,201.3,-2.629,51.602001,8.84,34.31,"Neuroptera",21,20,-0.715,34.9163
+"4645","Petropsychops superbus","species","Norian","",228,208.5,152.757004,-27.621,114.05,-60.76,"Neuroptera",23,21,94.249,-56.8313
+"4655","Archeosmylus","genus","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Neuroptera",23,21,94.2455,-56.8295
+"4744","Lithosmylidia","genus","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"4755","Neuroptera","order","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"57111","Archedilaropsis furcata","species","Rhaetian","",208.5,201.3,61.415001,54.91,50.4,59.91,"Neuroptera",21,20,42.7197,58.9328
+"6175","Triassopsychops superbus","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Neuroptera",23,21,94.3496,-56.8636
+"6185","Osmylopsychops spillerae","species","Norian","",228,208.5,152.826996,-27.606001,114.17,-60.79,"Neuroptera",23,21,94.3496,-56.8636
+"62111","Osmylopsychops spillerae","species","Norian","",228,208.5,152.768997,-27.549999,114.15,-60.71,"Neuroptera",23,21,94.353,-56.7876
+"6235","Petropsychops superbus","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Neuroptera",23,21,94.3656,-56.7971
+"21518","Odonata","order","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Odonata",23,21,94.3656,-56.7971
+"28116","Odonata","order","Sevatian","",212,205.6,9.558333,45.797222,27.34,25.32,"Odonata",21,21,12.4715,29.7815
+"28215","Mesomantidion queenslandicum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Odonata",23,21,94.2455,-56.8295
+"28316","Odonata","order","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Odonata",23,21,94.2455,-56.8295
+"28415","Triassolestes epiophlebioides","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Odonata",23,21,94.2455,-56.8295
+"28515","Triassophlebia stigmatica","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Odonata",23,21,94.2455,-56.8295
+"31515","Liassophlebia","genus","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Odonata",21,20,-0.5947,35.4562
+"31615","Liassophlebia withersi","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Odonata",21,20,-0.5947,35.4562
+"31715","Liassophlebia westwoodi","species","Rhaetian","",208.5,201.3,-2.083333,51.883331,9.07,34.71,"Odonata",21,20,-0.4699,35.3076
+"31814","Odonata","order","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Odonata",21,20,-0.5947,35.4562
+"32116","Liassophlebia","genus","Rhaetian","",208.5,201.3,-2.414,51.827999,8.87,34.57,"Odonata",21,20,-0.6732,35.1764
+"33016","Oryctothemis hageni","species","Rhaetian","",208.5,201.3,-2.083333,51.883331,9.07,34.71,"Odonata",21,20,-0.4699,35.3076
+"33216","Odonata","order","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Odonata",21,20,-0.6111,35.3765
+"5664","Samarura","genus","Rhaetian","",208.5,201.3,152.440002,-27.459999,105.07,-55.36,"Odonata",21,20,94.0847,-56.5202
+"6705","Triassothemis gartzii","species","Rhaetian","",208.5,201.3,14.38,53.209999,19.28,40.75,"Odonata",21,20,10.1539,40.9589
+"75110","Odonata","order","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Odonata",21,20,-0.4685,35.4351
+"9394","Koreatriassothemis elongatus","species","Norian","",228,208.5,126.625954,36.338951,138.14,38.97,"Odonata",23,21,127.3568,44.953
+"9404","Isophlebioptera","unranked clade","Norian","",228,208.5,126.63028,36.350834,138.15,38.98,"Odonata",23,21,127.3671,44.963
+"3869","Orthoptera","order","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Orthoptera",23,21,-24.6969,13.2982
+"6727","Triassolocusta leptoptera","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Orthoptera",23,21,94.3656,-56.7971
+"6825","Prohagla imperfecta","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Orthoptera",23,21,94.3656,-56.7971
+"6927","Prohagla","genus","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Orthoptera",23,21,94.3656,-56.7971
+"7024","Neohagla sinuata","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Orthoptera",23,21,94.3656,-56.7971
+"7135","Mesogryllacris giganteus","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Orthoptera",23,21,94.3656,-56.7971
+"7225","Xenopterum crosbyi","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Orthoptera",23,21,94.3656,-56.7971
+"14128","Triassomantis pygmaeus","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Orthoptera",23,21,94.2455,-56.8295
+"14220","Triassolocusta leptoptera","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Orthoptera",23,21,94.2455,-56.8295
+"26417","Bintoniella brodiei","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Orthoptera",21,20,-0.4848,35.7289
+"26713","Bintoniella brodiei","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"36915","Locustopsis spectabilis","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"37414","Locustopsis elegans","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"37712","Locustopsis bucklandi","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"37817","Plesioschwinzia gracilis","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"37917","Plesioschwinzia bernstorffi","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"38513","Plesioschwinzia constricta","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"38610","Locustopsis nana","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"3895","Locustopsis cubitalis","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"44210","Archelcana","genus","Sevatian","",212,205.6,10.652,52.061001,18.48,36.76,"Orthoptera",21,21,8.2939,38.8609
+"4537","Protogryllus (Protogryllus) grandis","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Orthoptera",21,20,-0.4848,35.7289
+"4546","Protogryllus (Protogryllus) grandis","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Orthoptera",21,20,-0.6111,35.3765
+"4556","Protogryllus (Protogryllus) grandis","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"4597","Protogryllus (Protogryllus) parallelus","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Orthoptera",21,20,-0.4848,35.7289
+"4656","Hagla gracilis","species","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Orthoptera",21,20,-0.6111,35.3765
+"4666","Hagla gracilis","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"4757","Protogryllus (Protogryllus) dobbertinensis","species","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Orthoptera",21,20,-0.4848,35.7289
+"4838","Gryllidae","family","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"4856","Gryllidae","family","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Orthoptera",21,20,-0.4848,35.7289
+"5047","Eospilopteron ornatum","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Orthoptera",21,20,-0.4685,35.4351
+"5056","Haglopsis parallela","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Orthoptera",21,20,-0.4685,35.4351
+"5066","Panorpidium liasina","species","Rhaetian","",208.5,201.3,-2,52,9.06,34.83,"Orthoptera",21,20,-0.4685,35.4351
+"6176","Ensifera","suborder","Rhaetian","",208.5,201.3,-2.211,51.992001,8.92,34.77,"Orthoptera",21,20,-0.6111,35.3765
+"6375","Panorpidium liasina","species","Rhaetian","Hettangian",208.5,199.3,-2.083333,51.883331,8.81,35.11,"Orthoptera",21,20,-0.4699,35.3076
+"6567","Parelcana dubia","species","Rhaetian","Hettangian",208.5,199.3,-2.083333,51.883331,8.81,35.11,"Orthoptera",21,20,-0.4699,35.3076
+"69111","Haglopsis parallela","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"6935","Hagla gracilis","species","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Orthoptera",21,20,-0.4685,35.4351
+"6944","Panorpidium liasina","species","Rhaetian","",208.5,201.3,-2.14,52.060001,8.93,34.85,"Orthoptera",21,20,-0.5947,35.4562
+"7895","Euhagla saurensis","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Orthoptera",23,21,76.1298,62.4036
+"8755","Proparagryllacris crassifemur","species","Norian","",228,208.5,152.757004,-27.621,114.05,-60.76,"Orthoptera",23,21,94.249,-56.8313
+"8766","Proparagryllacris crassifemur","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Orthoptera",23,21,94.2455,-56.8295
+"8854","Orthoptera","order","Rhaetian","Early Hettangian",208.5,196.5,-2,52,8.54,35.64,"Orthoptera",21,20,-0.4685,35.4351
+"9702","Ensifera","suborder","Norian","",228,208.5,-75.247398,40.344898,-9.47,13.81,"Orthoptera",23,21,-21.64,17.5134
+"10231","Cascadelcana virginiana","species","Norian","",228,208.5,-79.668999,36.540901,-12.82,9.85,"Orthoptera",23,21,-24.6969,13.2982
+"10734","Magnatitan jongheoni","species","Norian","",228,208.5,126.625954,36.338951,138.14,38.97,"Orthoptera",23,21,127.3568,44.953
+"10954","Plesioschwinzia sharovi","species","Rhaetian","",208.5,201.3,-3.381,51.185001,8.55,33.73,"Orthoptera",21,20,-1.0451,34.3504
+"4137","Plecoptera","order","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Plecoptera",23,21,94.3656,-56.7971
+"10420","Siberioperla angulata","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Plecoptera",23,21,29.4915,45.1467
+"10525","Siberioperla ovalis","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Plecoptera",23,21,76.1298,62.4036
+"12719","Trianguliperla aequalis","species","Norian","",228,208.5,85.199997,47.5,80.08,58.25,"Plecoptera",23,21,76.1298,62.4036
+"13129","Trianguliperla innoxia","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Plecoptera",23,21,29.4915,45.1467
+"13220","Berekia neglecta","species","Norian","",228,208.5,37.049999,49.18,40.37,39.41,"Plecoptera",23,21,29.4915,45.1467
+"21923","Gondwanoperlidium triassicum","species","Norian","",228,208.5,152.757004,-27.621,114.05,-60.76,"Plecoptera",23,21,94.249,-56.8313
+"22023","Gondwanoperlidium triassicum","species","Norian","",228,208.5,152.753998,-27.621,114.05,-60.76,"Plecoptera",23,21,94.2455,-56.8295
+"25618","Triassoperla yongrenensis","species","Norian","",228,208.5,101.550003,26.1,111.46,26.03,"Plecoptera",23,21,96.9919,34.9571
+"26218","Siberioperlidae","family","Norian","",228,208.5,126.63028,36.350834,138.15,38.98,"Plecoptera",23,21,127.3671,44.963
+"26318","Platyperla","genus","Norian","",228,208.5,126.63028,36.350834,138.15,38.98,"Plecoptera",23,21,127.3671,44.963
+"26418","Baleyopterygidae","family","Norian","",228,208.5,126.625954,36.338951,138.14,38.97,"Plecoptera",23,21,127.3568,44.953
+"21003","Cladochoristella bryani","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Trichoptera",23,21,94.3656,-56.7971
+"3887","Prorhyacophila colliveri","species","Norian","",228,208.5,152.781998,-27.552,114.17,-60.72,"Trichoptera",23,21,94.3656,-56.7971
+"14136","Austaulius furcatus","species","Rhaetian","",208.5,201.3,-2.629,51.602001,8.84,34.31,"Trichoptera",21,20,-0.715,34.9163
+"17135","Austaulius furcatus","species","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Trichoptera",21,20,-0.5848,35.3176
+"20130","Necrotaulius","genus","Rhaetian","",208.5,201.3,-2.216667,51.929443,8.95,34.71,"Trichoptera",21,20,-0.5848,35.3176
+"21128","Necrotaulius","genus","Rhaetian","",208.5,201.3,-1.83,52.275002,9.03,35.13,"Trichoptera",21,20,-0.4848,35.7289
+"22128","Necrotaulius","genus","Rhaetian","",208.5,201.3,-2.15,52.029999,8.94,34.82,"Trichoptera",21,20,-0.5871,35.4262
+"31616","Austaulius furcatus","species","Rhaetian","",208.5,201.3,-3.381,51.185001,8.55,33.73,"Trichoptera",21,20,-1.0451,34.3504
