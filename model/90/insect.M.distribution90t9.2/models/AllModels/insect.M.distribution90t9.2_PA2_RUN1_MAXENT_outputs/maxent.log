@@ -1,0 +1,45 @@
+Tue Sep 03 06:22:00 CST 2024
+MaxEnt version 3.4.4
+Reading file Back_swd.csv
+readGrid: max memory 466092032, total allocated 253231104, free 236054456, used 17176648, increment 17176648
+Reading samples from Sp_swd.csv
+Read samples: max memory 466092032, total allocated 253231104, free 234733256, used 18497848, increment 1321200
+Making features
+makeFeatures: max memory 466092032, total allocated 253231104, free 234733256, used 18497848, increment 0
+Command line used:  environmentallayers=./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs/Back_swd.csv samplesfile=./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs/Sp_swd.csv projectionlayers=./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs/Predictions/Pred_swd.csv outputdirectory=./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs outputformat=logistic redoifexists visible=FALSE linear=TRUE quadratic=TRUE product=TRUE threshold=TRUE hinge=TRUE lq2lqptthreshold=80 l2lqthreshold=10 hingethreshold=15 beta_threshold=-1 beta_categorical=-1 beta_lqp=-1 beta_hinge=-1 betamultiplier=1 defaultprevalence=0.5 autorun nowarnings notooltips noaddsamplestobackground
+Command line to repeat: java density.MaxEnt nowarnings noprefixes outputformat=logistic outputdirectory=./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs projectionlayers=./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs/Predictions/Pred_swd.csv samplesfile=./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs/Sp_swd.csv environmentallayers=./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs/Back_swd.csv nowarnings notooltips noaskoverwrite threshold noaddsamplestobackground autorun novisible
+Species: insect.M.distribution90t9.2_PA2_RUN1
+Layers: PC1 PC2 PC3
+Layertypes: Continuous Continuous Continuous
+outputformat: logistic
+outputdirectory: ./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs
+projectionlayers: ./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs/Predictions/Pred_swd.csv
+samplesfile: ./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs/Sp_swd.csv
+environmentallayers: ./insect.M.distribution90t9.2/models/AllModels/insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs/Back_swd.csv
+warnings: false
+tooltips: false
+askoverwrite: false
+threshold: true
+addsamplestobackground: false
+autorun: true
+visible: false
+
+getSamples: max memory 466092032, total allocated 253231104, free 233411752, used 19819352, increment 1321504
+insect.M.distribution90t9.2_PA2_RUN1: 
+Regularization values: linear/quadratic/product: 0.481, categorical: 0.250, threshold: 1.820, hinge: 0.500
+18 samples
+Density: max memory 466092032, total allocated 253231104, free 233411752, used 19819352, increment 0
+linearPredictor: max memory 466092032, total allocated 253231104, free 233411752, used 19819352, increment 0
+FeaturedSpace: max memory 466092032, total allocated 253231104, free 233411752, used 19819352, increment 0
+Sequential: max memory 466092032, total allocated 253231104, free 233411752, used 19819352, increment 0
+Initial loss: 4.0943445622221
+300: time = 0.048000 loss = 3.278350
+Resulting gain: 0.8159942962245323
+Projecting...
+Writing file .\insect.M.distribution90t9.2\models\AllModels\insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs\insect.M.distribution90t9.2_PA2_RUN1.csv
+Projecting...
+Reading file Pred_swd.csv
+readGrid: max memory 466092032, total allocated 253231104, free 199179568, used 54051536, increment 34232184
+Writing file .\insect.M.distribution90t9.2\models\AllModels\insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs\insect.M.distribution90t9.2_PA2_RUN1_Pred_swd.csv
+Writing file .\insect.M.distribution90t9.2\models\AllModels\insect.M.distribution90t9.2_PA2_RUN1_MAXENT_outputs\insect.M.distribution90t9.2_PA2_RUN1_Pred_swd_clamping.csv
+Ending

@@ -1,0 +1,3 @@
+X,Y,Test or train,Raw prediction,Cumulative prediction,Logistic prediction
+-47.525,35.0639,train,Infinity,100.0,NaN
+-149.36,-59.8952,train,Infinity,100.0,NaN

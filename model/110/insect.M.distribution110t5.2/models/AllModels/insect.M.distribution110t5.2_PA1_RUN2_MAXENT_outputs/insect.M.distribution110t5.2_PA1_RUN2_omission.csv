@@ -1,0 +1,4 @@
+Raw value,Corresponding cumulative value,Corresponding Logistic value,Fractional area,Training omission,Test omission
+2.24123E-1,22.412309337,0.276181433,0.033333333,0.117647059,0
+7.75877E-1,100,0.56913325,0.016666667,0.117647059,0
+1E0,100,0.629967434,0,0.117647059,0

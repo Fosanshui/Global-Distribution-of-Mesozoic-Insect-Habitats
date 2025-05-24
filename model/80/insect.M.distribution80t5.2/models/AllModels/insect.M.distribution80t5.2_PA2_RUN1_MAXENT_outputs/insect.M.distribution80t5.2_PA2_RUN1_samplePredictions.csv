@@ -1,0 +1,3 @@
+X,Y,Test or train,Raw prediction,Cumulative prediction,Logistic prediction
+-47.525,35.0639,train,0.9054795062475176,100.0,0.8344717330897625
+-149.36,-59.8952,train,0.7823260381529867,100.0,0.8132797790380788

@@ -1,0 +1,21 @@
+X,Y,Test or train,Raw prediction,Cumulative prediction,Logistic prediction
+95.5153,46.077,train,Infinity,100.0,NaN
+98.1107,46.2216,train,Infinity,100.0,NaN
+4.6553,32.7977,train,0.0,0.0,0.0
+-10.1554,-10.5518,train,Infinity,100.0,NaN
+6.7137,29.5753,train,0.0,0.0,0.0
+-37.4232,-36.3737,train,Infinity,100.0,NaN
+6.4096,29.4373,train,0.0,0.0,0.0
+11.3475,16.3257,train,0.0,0.0,0.0
+6.7488,35.3447,train,0.0,0.0,0.0
+97.1891,45.1907,train,Infinity,100.0,NaN
+-10.1459,-10.5968,train,Infinity,100.0,NaN
+33.996,39.8632,train,0.0,0.0,0.0
+-10.1355,-10.5264,train,Infinity,100.0,NaN
+-37.2955,-36.8613,train,Infinity,100.0,NaN
+94.3903,39.4722,train,Infinity,100.0,NaN
+-10.136,-10.5134,train,Infinity,100.0,NaN
+128.9371,-54.7587,train,0.0,0.0,0.0
+80.1673,54.2054,train,0.0,0.0,0.0
+69.188,37.4022,train,Infinity,100.0,NaN
+3.5325,33.1929,train,0.0,0.0,0.0
