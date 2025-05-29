@@ -1,3 +1,4 @@
+# All function  ##
 remove_variable <- function(R = R,Coord = Coord, Name = Name, thresholds=0.8, Select = T){
   
   if(Select){
@@ -316,6 +317,16 @@ p_ins = "E://CL/paper/insect data_M/total/"
 outncpath = "E://CL/paper/out_nc/total"
 path = "E://CL/paper/ModelT"
 setwd("E://CL/paper/outRdata/total/")
+
+#D <- Distribution(nc_list = nc_list, p_ins = p_ins, 
+#                    c.var = c.var, c.var2 = c.var2, c.p_mp = c.p_mp, c.p_np = c.p_np, Select_point = Select_point, thresholds = thresholds, c.npc = c.npc, 
+#                    rc = rc, nresamp = nresamp,
+#                    d.model = d.model, d.eval = d.eval, d.PA.nb.absences = d.PA.nb.absences, d.PA.nb.rep = d.PA.nb.rep, d.strategy = d.strategy, d.nb.rep = d.nb.rep, d.path = d.path, d.maxent.path = d.maxent.path,
+#                    outncpath = outncpath)
+#setwd("E://CL/paper/outRdata/total/")
+#save(D, file = paste0("E://CL/paper/outRdata/total/",names(D[[5]]),".RData"))
+#
+
 for(i in 1:19){
   D <- Distribution(nc_list = nc_list[i], p_ins = p_ins, 
                     c.var = c.var, c.var2 = c.var2, c.p_mp = c.p_mp, c.p_np = c.p_np, Select_point = Select_point, thresholds = thresholds, c.npc = c.npc, 
